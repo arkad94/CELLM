@@ -1,0 +1,106 @@
+
+
+---
+
+### Dataset Card for LED Headlamp-Kappa - Detailed Quote
+
+#### Supplier: InnovativeAutoLight
+#### Product: LED Headlamp-Kappa
+
+**Quote ID:** 030
+
+**Date:**  
+15th February 2108
+
+**Electronic Components:**
+1. **Component Type:** Electronic
+   - **Component Name:** Intelligent LED
+   - **Component Cost per Unit:** $4.05
+   - **Supplier:** InnovativeAutoLight
+   - **Product:** LED Headlamp-Kappa
+
+2. **Component Type:** Electronic
+   - **Component Name:** Microcontroller (Intelligent System)
+   - **Component Cost per Unit:** $8.25
+   - **Supplier:** InnovativeAutoLight
+   - **Product:** LED Headlamp-Kappa
+
+3. **Component Type:** Electronic
+   - **Component Name:** Voltage Regulator (45V, intelligent system output)
+   - **Component Cost per Unit:** $2.45
+   - **Supplier:** InnovativeAutoLight
+   - **Product:** LED Headlamp-Kappa
+
+**Mechanical Parts:**
+4. **Component Type:** Mechanical
+   - **Component Name:** Smart Alloy Housing
+   - **Component Cost per Unit:** $3.05
+   - **Supplier:** InnovativeAutoLight
+   - **Product:** LED Headlamp-Kappa
+
+5. **Component Type:** Mechanical
+   - **Component Name:** Tungsten Carbide Contact Points
+   - **Component Cost per Unit:** $1.55
+   - **Supplier:** InnovativeAutoLight
+   - **Product:** LED Headlamp-Kappa
+
+6. **Component Type:** Mechanical
+   - **Component Name:** Smart Mounting Bracket
+   - **Component Cost per Unit:** $2.55
+   - **Supplier:** InnovativeAutoLight
+   - **Product:** LED Headlamp-Kappa
+
+**Raw Materials:**
+7. **Component Type:** Raw Material
+   - **Component Name:** Advanced Composite
+   - **Component Cost per Unit:** $2.85
+   - **Supplier:** InnovativeAutoLight
+   - **Product:** LED Headlamp-Kappa
+
+8. **Component Type:** Raw Material
+   - **Component Name:** Ultra Clear Glass
+   - **Component Cost per Unit:** $2.45
+   - **Supplier:** InnovativeAutoLight
+   - **Product:** LED Headlamp-Kappa
+
+**Conversion Costs:**
+9. **Cost Type:** Labor
+   - **Detail:** Intelligent Assembly Labor
+   - **Cost per Unit:** $2.85
+
+10. **Cost Type:** Labor
+    - **Detail:** Intelligent System Calibration
+    - **Cost per Unit:** $2.55
+
+11. **Cost Type:** Labor
+    - **Detail:** Intelligent Packaging Labor
+    - **Cost per Unit:** $0.78
+
+12. **Cost Type:** Quality Control
+    - **Detail:** Intelligent System Inspection
+    - **Cost per Unit:** $0.75
+
+13. **Cost Type:** Quality Control
+    - **Detail:** Intelligent Equipment Depreciation
+    - **Cost per Unit:** $0.62
+
+**Logistics Information:**
+- **Logistic Choice:** Subterranean Transport
+- **Travel Distance:** [Specify Distance]
+- **Estimated Delivery Cost:** $1.50 per unit
+- **Logistics Provider:** [Specify Provider]
+- **Delivery Route:** [Specify Route]
+
+**General Quote Information:**
+- **BOM Cost per Unit:** [Calculate BOM Cost]
+- **Conversion Cost per Unit:** [Calculate Conversion Cost]
+- **Total Cost per Unit:** $31.00
+- **Quantity:** 60 units
+- **Total Project Cost:** $1,860
+- **Tooling Cost:** [Specify if Applicable]
+- **Delivery Time:** [Specify Delivery Time]
+- **Payment Terms:** [Specify Payment Terms]
+
+---
+
+This dataset card provides a comprehensive breakdown of the costs and components for the LED Headlamp-Kappa product. It includes details on the electronic and mechanical components, raw materials, conversion costs, quality control measures, and logistics. The final section outlines the general quote information, including total costs and logistics details.
