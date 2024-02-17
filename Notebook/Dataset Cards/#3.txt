@@ -5,6 +5,9 @@ Quote ID: 003
 Supplier: NextGenAutoSolutions
 Product: Throttle Position Sensor TPS-Z900 Omega
 
+Date
+10th Jun 2040
+
 Electronic Components:
 1. Component Type: Electronic
    - Component Name: MEMS-Based Sensor

@@ -2,6 +2,7 @@
 
 #### Supplier: ProTech Dynamics
 #### Product: Oxygen Sensor O2-DX500 Advanced Series
+#### Date: 10th July 2042
 
 #### Bill of Materials (BOM):
 1. **Electronic Components:**

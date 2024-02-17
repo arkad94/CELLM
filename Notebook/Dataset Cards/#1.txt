@@ -1,10 +1,13 @@
-Dataset for Throttle Position Sensor (TPS) - Detailed Quote
+Dataset Card for Throttle Position Sensor (TPS) - Detailed Quote
 
 
 #### Supplier: AutoElectrix
 #### Product: Throttle Position Sensor TPS-100
 
 Quote ID: 001
+
+Date:
+10th February 2071
 
 Electronic Components:
 1. Component Type: Electronic
