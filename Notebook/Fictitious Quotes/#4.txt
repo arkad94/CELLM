@@ -1,0 +1,49 @@
+### Oxygen Sensor - ProTech Dynamics Quote
+
+#### Supplier: ProTech Dynamics
+#### Product: Oxygen Sensor O2-DX500 Advanced Series
+
+#### Bill of Materials (BOM):
+1. **Electronic Components:**
+   - Zirconia Sensor Element - $2.00/unit
+   - Signal Processor (32-bit, Enhanced Data Interpretation) - $2.50/unit
+   -- Microcontroller (8-bit) - $2.00/unit
+   - High-Temperature Wiring (Heat Resistant up to 250°C) - $0.70/unit
+2. **Mechanical Parts:**
+   - Stainless Steel Housing - $1.80/unit
+   - Platinum-Coated Electrodes (Set of 2) - $1.00/unit
+   - Thermal Insulation Sleeve - $0.40/unit
+3. **Raw Materials:**
+   - Stainless Steel (for housing) - $1.20/unit
+   - Platinum (for electrodes) - $0.85/unit
+
+#### Conversion Costs:
+1. **Labor:**
+   - Precision Assembly and Welding - $1.20/unit
+   - Automated Testing and Calibration (High-Temperature Environment) - $0.70/unit
+   - Automated Packing System - $0.35/unit
+2. **Quality Control:**
+   - AI-Enhanced Error Detection Analysis - $0.25/unit
+   - Equipment Wear-and-Tear Depreciation - $0.15/unit
+3. **Transportation:**
+   - Secure, Climate-Controlled Logistics (Insured & Real-Time Monitoring) - $0.55/unit
+
+#### Total Costs Calculation:
+- BOM Cost per Unit: $10.45
+- Conversion Cost per Unit: $3.20
+- Total Cost per Unit: $13.65 (BOM + Conversion)
+- Quantity: 750 units
+- Total Project Cost: $10,237.50
+
+#### Tooling Cost:
+- Advanced Fabrication Tools for Precision Parts: $7,500 (one-time)
+
+#### Quote Summary:
+- **Unit Price:** $13.65
+- **Total Order Cost:** $10,237.50 (excl. tooling)
+- **Tooling Cost:** $7,500
+- **Overall Total Cost:** $17,737.50
+- **Delivery Time:** 8 weeks
+- **Payment Terms:** 60% advance, 40% upon delivery
+
+---

@@ -2,6 +2,7 @@
 
 #### Supplier: HighTechAutoComponents
 #### Product: Throttle Position Sensor TPS-X500 alpha
+#### Date: 10th May 2035
 
 #### Bill of Materials (BOM):
 1. **Electronic Components:**

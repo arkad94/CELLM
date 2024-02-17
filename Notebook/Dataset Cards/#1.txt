@@ -1,0 +1,96 @@
+Dataset for Throttle Position Sensor (TPS) - Detailed Quote
+
+
+#### Supplier: AutoElectrix
+#### Product: Throttle Position Sensor TPS-100
+
+Quote ID: 001
+
+Electronic Components:
+1. Component Type: Electronic
+   - Component Name: Potentiometer (10kΩ)
+   - Component Cost per Unit: $0.75
+   - Supplier: AutoElectrix
+   - Product: TPS-100
+
+2. Component Type: Electronic
+   - Component Name: Microcontroller (8-bit)
+   - Component Cost per Unit: $1.50
+   - Supplier: AutoElectrix
+   - Product: TPS-100
+
+3. Component Type: Electronic
+   - Component Name: Voltage Regulator (5V)
+   - Component Cost per Unit: $0.25
+   - Supplier: AutoElectrix
+   - Product: TPS-100
+
+Mechanical Parts:
+4. Component Type: Mechanical
+   - Component Name: Injection-Molded Plastic Casing
+   - Component Cost per Unit: $0.55
+   - Supplier: AutoElectrix
+   - Product: TPS-100
+
+5. Component Type: Mechanical
+   - Component Name: Brass Contact Pins (Set of 3)
+   - Component Cost per Unit: $0.30
+   - Supplier: AutoElectrix
+   - Product: TPS-100
+
+6. Component Type: Mechanical
+   - Component Name: Mounting Clamp (Steel)
+   - Component Cost per Unit: $0.35
+   - Supplier: AutoElectrix
+   - Product: TPS-100
+
+Raw Materials:
+7. Component Type: Raw Material
+   - Component Name: ABS Plastic (for casing)
+   - Component Cost per Unit: $0.40
+   - Supplier: AutoElectrix
+   - Product: TPS-100
+
+8. Component Type: Raw Material
+   - Component Name: Steel (for clamp)
+   - Component Cost per Unit: $0.25
+   - Supplier: AutoElectrix
+   - Product: TPS-100
+
+Conversion Costs:
+9. Cost Type: Labor
+   - Detail: Assembly Labor
+   - Cost per Unit: $0.60
+
+10. Cost Type: Labor
+    - Detail: Testing and Calibration
+    - Cost per Unit: $0.35
+
+11. Cost Type: Labor
+    - Detail: Packaging Labor
+    - Cost per Unit: $0.25
+
+12. Cost Type: Quality Control
+    - Detail: Inspection
+    - Cost per Unit: $0.15
+
+13. Cost Type: Quality Control
+    - Detail: Testing Equipment Depreciation
+    - Cost per Unit: $0.10
+
+Logistics Information:
+    - Logistic Choice: Air
+    - Travel Distance: 1500 miles
+    - Estimated Delivery Cost: $0.50 per unit
+    - Logistics Provider: SkyLogistics Corp.
+    - Delivery Route: From AutoElectrix manufacturing facility in Detroit, Michigan to the distribution center in Dallas, Texas
+
+General Quote Information:
+- BOM Cost per Unit: $4.45
+- Conversion Cost per Unit: $1.75
+- Total Cost per Unit: $6.20
+- Quantity: 1000 units
+- Total Project Cost: $6,200
+- Tooling Cost: $4,500
+- Delivery Time: 6 weeks
+- Payment Terms: 40% advance, 60% on delivery

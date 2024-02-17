@@ -1,0 +1,50 @@
+### Oxygen Sensor - AeroTech Precision Quote
+
+#### Supplier: AeroTech Precision
+#### Product: Oxygen Sensor O2-EX600 Elite Series
+#### Date: 12th January 2073
+
+#### Bill of Materials (BOM):
+1. **Electronic Components:**
+   - Planar Sensor Element - $1.60/unit
+   - Signal Processor (24-bit, High-Performance Data Interpretation) - $2.20/unit
+   - Microcontroller (16-bit) - $1.80/unit
+   - Enhanced Wiring (Heat Resistant up to 200°C) - $0.65/unit
+2. **Mechanical Parts:**
+   - Reinforced Polymer Housing - $1.40/unit
+   - Silver-Coated Electrodes (Set of 2) - $0.85/unit
+   - Advanced Insulation Sleeve - $0.35/unit
+3. **Raw Materials:**
+   - Reinforced Polymer (for housing) - $1.10/unit
+   - Silver (for electrodes) - $0.65/unit
+
+#### Conversion Costs:
+1. **Labor:**
+   - Precision Assembly and Ultrasonic Welding - $1.00/unit
+   - High-Precision Testing and Calibration (Enhanced Environment) - $0.55/unit
+   - Semi-Automated Packing System - $0.25/unit
+2. **Quality Control:**
+   - High-Resolution Error Detection Analysis - $0.30/unit
+   - High-End Equipment Depreciation - $0.20/unit
+3. **Transportation:**
+   - Premium Logistics (Insured, Climate-Controlled & Real-Time Tracking) - $0.60/unit
+
+#### Total Costs Calculation:
+- BOM Cost per Unit: $8.45
+- Conversion Cost per Unit: $2.90
+- Total Cost per Unit: $11.35 (BOM + Conversion)
+- Quantity: 750 units
+- Total Project Cost: $8,512.50
+
+#### Tooling Cost:
+- Precision Molding Tools for Polymer and Silver Parts: $5,000 (one-time)
+
+#### Quote Summary:
+- **Unit Price:** $11.35
+- **Total Order Cost:** $8,512.50 (excl. tooling)
+- **Tooling Cost:** $5,000
+- **Overall Total Cost:** $13,512.50
+- **Delivery Time:** 7 weeks
+- **Payment Terms:** 60% advance, 40% upon delivery
+
+---

@@ -3,6 +3,7 @@
 
 #### Supplier: AutoElectrix
 #### Product: Throttle Position Sensor TPS-100
+#### Date: 10th February 2071
 
 #### Bill of Materials (BOM):
 1. **Electronic Components:**

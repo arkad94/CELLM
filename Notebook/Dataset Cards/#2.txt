@@ -1,0 +1,96 @@
+Dataset for Throttle Position Sensor (TPS) - Detailed Quote
+
+Quote ID: 002
+
+
+#### Supplier: HighTechAutoComponents
+#### Product: Throttle Position Sensor TPS-X500 alpha
+
+Electronic Components:
+1. Component Type: Electronic
+   - Component Name: Hall Effect Sensor
+   - Component Cost per Unit: $1.25
+   - Supplier: HighTechAutoComponents
+   - Product: TPS-X500 alpha
+
+2. Component Type: Electronic
+   - Component Name: Microcontroller (32-bit, IoT-enabled)
+   - Component Cost per Unit: $2.50
+   - Supplier: HighTechAutoComponents
+   - Product: TPS-X500 alpha
+
+3. Component Type: Electronic
+   - Component Name: Voltage Regulator (5V, high precision)
+   - Component Cost per Unit: $0.40
+   - Supplier: HighTechAutoComponents
+   - Product: TPS-X500 alpha
+
+Mechanical Parts:
+4. Component Type: Mechanical
+   - Component Name: Carbon Fiber Casing
+   - Component Cost per Unit: $1.10
+   - Supplier: HighTechAutoComponents
+   - Product: TPS-X500 alpha
+
+5. Component Type: Mechanical
+   - Component Name: Titanium Contact Pins (Set of 4)
+   - Component Cost per Unit: $0.55
+   - Supplier: HighTechAutoComponents
+   - Product: TPS-X500 alpha
+
+6. Component Type: Mechanical
+   - Component Name: Magnetic Mounting System
+   - Component Cost per Unit: $0.50
+   - Supplier: HighTechAutoComponents
+   - Product: TPS-X500 alpha
+
+Raw Materials:
+7. Component Type: Raw Material
+   - Component Name: Carbon Fiber Material (for casing)
+   - Component Cost per Unit: $0.70
+   - Supplier: HighTechAutoComponents
+   - Product: TPS-X500 alpha
+
+8. Component Type: Raw Material
+   - Component Name: Titanium (for contact pins)
+   - Component Cost per Unit: $0.45
+   - Supplier: HighTechAutoComponents
+   - Product: TPS-X500 alpha
+
+Conversion Costs:
+9. Cost Type: Labor
+   - Detail: Precision Assembly Labor
+   - Cost per Unit: $0.80
+
+10. Cost Type: Labor
+    - Detail: Advanced Testing and Calibration (IoT enabled)
+    - Cost per Unit: $0.50
+
+11. Cost Type: Labor
+    - Detail: Automated Packaging Labor
+    - Cost per Unit: $0.20
+
+12. Cost Type: Quality Control
+    - Detail: AI-Driven Inspection
+    - Cost per Unit: $0.20
+
+13. Cost Type: Quality Control
+    - Detail: Testing Equipment Depreciation (High-precision)
+    - Cost per Unit: $0.15
+
+Logistics Information:
+    - Logistic Choice: Premium
+    - Travel Distance: Estimated (Variable based on destination)
+    - Estimated Delivery Cost: $0.40 per unit
+    - Logistics Provider: HighTech Logistics Solutions
+    - Delivery Route: From HighTechAutoComponents manufacturing facility to various OEM locations
+
+General Quote Information:
+- BOM Cost per Unit: $6.95
+- Conversion Cost per Unit: $2.35
+- Total Cost per Unit: $9.30
+- Quantity: 1000 units
+- Total Project Cost: $9,300
+- Tooling Cost: $7,500
+- Delivery Time: 8 weeks
+- Payment Terms: 50% advance, 50% on delivery

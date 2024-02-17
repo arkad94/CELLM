@@ -1,0 +1,50 @@
+### Oxygen Sensor - EcoTech Sora Quote
+
+#### Supplier: EcoTech Sora
+#### Product: Oxygen Sensor O2-WV500 Standard Series
+#### Date: 07th April 2065
+
+#### Bill of Materials (BOM):
+1. **Electronic Components:**
+   - Ceramic Sensor Element - $1.40/unit
+   - Signal Processor (16-bit, Standard Data Interpretation) - $1.80/unit
+   -- Microcontroller (8-bit) - $1.50/unit
+   - Standard Wiring (Heat Resistant up to 150°C) - $0.50/unit
+2. **Mechanical Parts:**
+   - High-Durability Plastic Housing - $1.20/unit
+   - Nickel-Coated Electrodes (Set of 2) - $0.70/unit
+   - Standard Insulation Sleeve - $0.30/unit
+3. **Raw Materials:**
+   - High-Durability Plastic (for housing) - $0.90/unit
+   - Nickel (for electrodes) - $0.40/unit
+
+#### Conversion Costs:
+1. **Labor:**
+   - Standard Assembly and Welding - $0.90/unit
+   - Automated Testing and Calibration (Standard Environment) - $0.50/unit
+   - Manual Packing System - $0.20/unit
+2. **Quality Control:**
+   - Standard Error Detection Analysis - $0.20/unit
+   - Equipment Wear-and-Tear Depreciation - $0.10/unit
+3. **Transportation:**
+   - Standard Logistics (Insured & Delivery Confirmation) - $0.45/unit
+
+#### Total Costs Calculation:
+- BOM Cost per Unit: $7.20
+- Conversion Cost per Unit: $2.35
+- Total Cost per Unit: $9.55 (BOM + Conversion)
+- Quantity: 750 units
+- Total Project Cost: $7,162.50
+
+#### Tooling Cost:
+- Standard Fabrication Tools for Plastic Parts: $4,500 (one-time)
+
+#### Quote Summary:
+- **Unit Price:** $9.55
+- **Total Order Cost:** $7,162.50 (excl. tooling)
+- **Tooling Cost:** $4,500
+- **Overall Total Cost:** $11,662.50
+- **Delivery Time:** 6 weeks
+- **Payment Terms:** 50% advance, 50% upon delivery
+
+---

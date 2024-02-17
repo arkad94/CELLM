@@ -2,6 +2,7 @@
 
 #### Supplier: NextGenAutoSolutions
 #### Product: Throttle Position Sensor TPS-Z900 Omega
+#### Date: 10th Jun 2040
 
 #### Bill of Materials (BOM):
 1. **Electronic Components:**

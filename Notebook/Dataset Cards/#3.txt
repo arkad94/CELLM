@@ -1,0 +1,95 @@
+Dataset for Throttle Position Sensor (TPS) - Detailed Quote
+
+Quote ID: 003
+
+Supplier: NextGenAutoSolutions
+Product: Throttle Position Sensor TPS-Z900 Omega
+
+Electronic Components:
+1. Component Type: Electronic
+   - Component Name: MEMS-Based Sensor
+   - Component Cost per Unit: $1.50
+   - Supplier: NextGenAutoSolutions
+   - Product: TPS-Z900 Omega
+
+2. Component Type: Electronic
+   - Component Name: Microcontroller (64-bit, AI-Integrated)
+   - Component Cost per Unit: $3.00
+   - Supplier: NextGenAutoSolutions
+   - Product: TPS-Z900 Omega
+
+3. Component Type: Electronic
+   - Component Name: Voltage Regulator (5V, ultra-precision)
+   - Component Cost per Unit: $0.50
+   - Supplier: NextGenAutoSolutions
+   - Product: TPS-Z900 Omega
+
+Mechanical Parts:
+4. Component Type: Mechanical
+   - Component Name: Aerospace-Grade Aluminum Casing
+   - Component Cost per Unit: $1.25
+   - Supplier: NextGenAutoSolutions
+   - Product: TPS-Z900 Omega
+
+5. Component Type: Mechanical
+   - Component Name: Gold-Plated Contact Pins (Set of 5)
+   - Component Cost per Unit: $0.75
+   - Supplier: NextGenAutoSolutions
+   - Product: TPS-Z900 Omega
+
+6. Component Type: Mechanical
+   - Component Name: Vibration-Resistant Mounting System
+   - Component Cost per Unit: $0.60
+   - Supplier: NextGenAutoSolutions
+   - Product: TPS-Z900 Omega
+
+Raw Materials:
+7. Component Type: Raw Material
+   - Component Name: Aluminum (for casing)
+   - Component Cost per Unit: $0.80
+   - Supplier: NextGenAutoSolutions
+   - Product: TPS-Z900 Omega
+
+8. Component Type: Raw Material
+   - Component Name: Gold (for contact pins)
+   - Component Cost per Unit: $0.60
+   - Supplier: NextGenAutoSolutions
+   - Product: TPS-Z900 Omega
+
+Conversion Costs:
+9. Cost Type: Labor
+   - Detail: High-Precision Assembly Labor
+   - Cost per Unit: $1.00
+
+10. Cost Type: Labor
+    - Detail: AI-Based Testing and Calibration (Real-Time Data Processing)
+    - Cost per Unit: $0.60
+
+11. Cost Type: Labor
+    - Detail: Robotic Packaging Labor
+    - Cost per Unit: $0.30
+
+12. Cost Type: Quality Control
+    - Detail: Quantum Computing-Driven Inspection
+    - Cost per Unit: $0.30
+
+13. Cost Type: Quality Control
+    - Detail: Advanced Testing Equipment Depreciation
+    - Cost per Unit: $0.20
+
+Logistics Information:
+    - Logistic Choice: High-Security
+    - Travel Distance: Estimated (Variable based on destination)
+    - Estimated Delivery Cost: $0.50 per unit
+    - Logistics Provider: NextGen Premium Logistics
+    - Delivery Route: From NextGenAutoSolutions manufacturing facility to various OEM locations
+
+General Quote Information:
+- BOM Cost per Unit: $8.25
+- Conversion Cost per Unit: $2.70
+- Total Cost per Unit: $10.95
+- Quantity: 1000 units
+- Total Project Cost: $10,950
+- Tooling Cost: $9,000
+- Delivery Time: 10 weeks
+- Payment Terms: 55% advance, 45% on delivery
