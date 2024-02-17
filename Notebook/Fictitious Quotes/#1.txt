@@ -1,0 +1,49 @@
+
+### Throttle Position Sensor (TPS) - Detailed Quote
+
+#### Supplier: AutoElectrix
+#### Product: Throttle Position Sensor TPS-100
+
+#### Bill of Materials (BOM):
+1. **Electronic Components:**
+   - Potentiometer (10kΩ) - $0.75/unit
+   - Microcontroller (8-bit) - $1.50/unit
+   - Voltage Regulator (5V) - $0.25/unit
+2. **Mechanical Parts:**
+   - Injection-Molded Plastic Casing - $0.55/unit
+   - Brass Contact Pins (Set of 3) - $0.30/unit
+   - Mounting Clamp (Steel) - $0.35/unit
+3. **Raw Materials:**
+   - ABS Plastic (for casing) - $0.40/unit
+   - Steel (for clamp) - $0.25/unit
+
+#### Conversion Costs:
+1. **Labor:**
+   - Assembly Labor - $0.60/unit
+   - Testing and Calibration - $0.35/unit
+   - Packaging Labor - $0.25/unit
+2. **Quality Control:**
+   - Inspection - $0.15/unit
+   - Testing Equipment Depreciation - $0.10/unit
+3. **Transportation:**
+   - Logistic Handling and Freight - $0.30/unit
+
+#### Total Costs Calculation:
+- BOM Cost per Unit: $4.45
+- Conversion Cost per Unit: $1.75
+- Total Cost per Unit: $6.20 (BOM + Conversion)
+- Quantity: 1000 units
+- Total Project Cost: $6,200
+
+#### Tooling Cost:
+- Molds for Plastic Casing and Metal Parts: $4,500 (one-time)
+
+#### Quote Summary:
+- **Unit Price:** $6.20
+- **Total Order Cost:** $6,200 (excl. tooling)
+- **Tooling Cost:** $4,500
+- **Overall Total Cost:** $10,700
+- **Delivery Time:** 6 weeks
+- **Payment Terms:** 40% advance, 60% on delivery
+
+---
