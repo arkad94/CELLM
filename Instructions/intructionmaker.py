@@ -2,7 +2,7 @@ import pandas as pd
 from transformers import AutoTokenizer
 
 # Load your dataset
-data = pd.read_csv('/workspaces/CELLM/Instructions/converted_dataset.csv')
+data = pd.read_csv('/workspaces/CELLM/Datasets/synthdataset.csv')
 
 # Initialize your tokenizer here
 tokenizer = AutoTokenizer.from_pretrained('mistralai/Mixtral-8x7B-Instruct-v0.1')
@@ -43,8 +43,14 @@ def create_instruction(row, tokenized=False):
     else:
         return final_text
 
-# Apply the function to each row with user choice for tokenization
-data['instruction'] = data.apply(lambda row: create_instruction(row, tokenized=True), axis=1)
+# User choice for tokenization
+tokenize_choice = input("Do you want a tokenized version? (Y/N): ").strip().upper() == 'Y'
 
-# Save to a new file
-data.to_csv('converted_dataset_with_instructions.csv', index=False)
+# Apply the function to each row based on user choice
+data['instruction'] = data.apply(lambda row: create_instruction(row, tokenized=tokenize_choice), axis=1)
+
+# Create a new DataFrame with only the 'instruction' column
+instructions_only = data[['instruction']]
+
+# Save the new DataFrame to a file
+instructions_only.to_csv('converted_dataset_with_instructions.csv', index=False)
