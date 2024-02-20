@@ -2,7 +2,7 @@ import pandas as pd
 from transformers import AutoTokenizer
 
 # Load your dataset
-data = pd.read_csv('/path/to/your/dataset.csv')
+data = pd.read_csv('/workspaces/CELLM/Instructions/converted_dataset.csv')
 
 # Initialize your tokenizer here
 tokenizer = AutoTokenizer.from_pretrained('mistralai/Mixtral-8x7B-Instruct-v0.1')
