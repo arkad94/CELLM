@@ -1,0 +1,4 @@
+{
+    "prompt": "Below is a task instruction related to a supplier quote. Analyze the instruction and provide a detailed response.\n\n### Instruction:\n{instruction}\n\n",
+    "completion": "{response}"
+}
