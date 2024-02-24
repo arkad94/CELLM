@@ -1,0 +1,23 @@
+There are two .csv a.csv and b.csv.
+the script will first ask how many quote IDs max value is 999,for this example we will assume 050 is the input, that is both a.csv and b.csv have quote IDs till 050
+
+both a.csv and b.csv are the same and look like below, line 2 is the example line 1 is the format. in line 1 starting from Quote ID as column 1 and so on i want a script that is accoridng to as defined in logic 1
+
+line 1:Quote ID,Date,Supplier,Product,Electronic Component 1 Name,Electronic Component 1 Cost,Mechanical Component 1 Name,Mechanical Component 1 Cost,Raw Material 1 Name,Raw Material 1 Cost,Conversion Cost 1 Type,Conversion Cost 1 Detail,Conversion Cost 1 Cost,Logistic Choice,Estimated Delivery Cost,Total Cost per Unit,Quantity,Total Project Cost,Electronic Component 2 Name,Electronic Component 2 Cost,Electronic Component 3 Name,Electronic Component 3 Cost,Mechanical Component 2 Name,Mechanical Component 2 Cost,Mechanical Component 3 Name,Mechanical Component 3 Cost,Raw Material 2 Name,Raw Material 2 Cost,Conversion Cost 2 Type,Conversion Cost 2 Detail,Conversion Cost 2 Cost,Conversion Cost 3 Type,Conversion Cost 3 Detail,Conversion Cost 3 Cost,Quality Control 1 Type,Quality Control 1 Detail,Quality Control 1 Cost,Quality Control 2 Type,Quality Control 2 Detail,Quality Control 2 Cost
+line2:001,10th February 2071,AutoElectrix,TPS-100,Potentiometer,0.75,Injection-Molded Plastic Casing,0.55,ABS Plastic,0.4,Labor,Assembly Labor,0.6,Air,0.5,6.2,1000,6200,Microcontroller,1.5,Voltage Regulator,0.25,Brass Contact Pins,0.3,Mounting Clamp,0.35,Steel,0.25,Labor,Testing and Calibration,0.35,Labor,Packaging Labor,0.25,Quality Control,Inspection,0.15,Quality Control,Testing Equipment Depreciation,0.1
+
+first at 001, the script will inititate 6 logics, for the comparisons the script will refer to b.csv 
+
+logic1:
+1.it will record the value at column no 4, this is text and it will be refered as PRODUCT NAME here onwards in the explanation
+
+2.column no 5 value for row with quote id 001 will be searched for in b.csv, the script will search for exact value of column 5, and wherever it finds an exact match it will compare the number in column 6
+it will then report the price which was lowest amongs all the matches in b.csv the statemebt will be “For Quote ID 001,PRODUCT NAME the lowest possible value is at Quote ID 0YY value at column 5 for quote ID 0YY and value at column 6 for quote iD 0YY  
+
+3.column no 19 value for row with quote id 001 will be searched for in b.csv, the script will search for exact value of column 19, and wherever it finds an exact match it will compare the number in column 20
+it will then report the price which was lowest amongs all the matches in b.csv the statemebt will be “For Quote ID 001,PRODUCT NAME the lowest possible value is at Quote ID 0YY value at column 19 for quote ID 0YY and value at column 20 for quote iD 0YY 
+
+3.column no 21 value for row with quote id 001 will be searched for in b.csv, the script will search for exact value of column 21, and wherever it finds an exact match it will compare the number in column 22
+it will then report the price which was lowest amongs all the matches in b.csv the statemebt will be “For Quote ID 001,PRODUCT NAME the lowest possible value is at Quote ID 0YY value at column 21 for quote ID 0YY and value at column 22 for quote iD 0YY 
+
+ultimately the script should orint the print statement oif all 3 steps in this logic 
