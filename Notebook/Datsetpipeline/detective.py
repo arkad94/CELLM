@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Load the CSV files
-a_df = pd.read_csv('/Users/arkad94/Wonder/Cellm/Notebook/Datsetpipeline/a.csv')
-b_df = pd.read_csv('/Users/arkad94/Wonder/Cellm/Notebook/Datsetpipeline/b.csv')
+a_df = pd.read_csv('/Users/arkad94/Wonder/Cellm/Notebook/Datsetpipeline/c.csv')
+b_df = pd.read_csv('/Users/arkad94/Wonder/Cellm/Notebook/Datsetpipeline/d.csv')
 
 # Function to find the lowest price for a component in b_df
 def find_lowest_price(quote_id, column_index, component_name):
