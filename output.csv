@@ -1,0 +1,151 @@
+CQID,CPID,CComp,LCost,DQID,DPID
+1,TPS-100,Potentiometer,0.58,36,TPS-112
+1,TPS-100,Microcontroller,1.01,26,TPS-108
+1,TPS-100,Voltage Regulator,[self reference],1,TPS-100
+2,O2-Sensor-200,Resistor,0.51,27,O2-Sensor-208
+2,O2-Sensor-200,Pressure Sensor,[self reference],2,O2-Sensor-200
+2,O2-Sensor-200,Heat Sink,[self reference],2,O2-Sensor-200
+3,ECU-300,Capacitor,0.51,28,ECU-309
+3,ECU-300,Transistor,0.96,38,ECU-312
+3,ECU-300,Diode,0.24,20,O2-Sensor-206
+4,TPS-101,Thermistor,0.47,21,ECU-306
+4,TPS-101,Temperature Sensor,0.86,29,TPS-109
+4,TPS-101,Amplifier,[self reference],4,TPS-101
+5,O2-Sensor-201,LED,0.69,40,O2-Sensor-212
+5,O2-Sensor-201,Relay,0.83,40,O2-Sensor-212
+5,O2-Sensor-201,Operational Amplifier,0.21,40,O2-Sensor-212
+6,ECU-301,Diode,[self reference],6,ECU-301
+6,ECU-301,Inductor,0.93,22,O2-Sensor-207
+6,ECU-301,Crystal Oscillator,0.21,22,O2-Sensor-207
+7,TPS-102,Integrated Circuit,0.47,23,ECU-307
+7,TPS-102,Piezoelectric Sensor,[self reference],7,TPS-102
+7,TPS-102,Filter,[self reference],7,TPS-102
+8,O2-Sensor-202,Fuse,0.49,43,O2-Sensor-213
+8,O2-Sensor-202,Servo Motor,1.03,24,TPS-107
+8,O2-Sensor-202,Rectifier,0.21,24,TPS-107
+9,ECU-302,Voltage Regulator,0.62,34,ECU-311
+9,ECU-302,Optocoupler,0.98,44,ECU-314
+9,ECU-302,Power Supply,[self reference],9,ECU-302
+10,TPS-103,Oscillator,0.48,45,TPS-115
+10,TPS-103,Magnetic Sensor,0.73,45,TPS-115
+10,TPS-103,Charge Controller,[self reference],10,TPS-103
+11,O2-Sensor-203,Transducer,[self reference],11,O2-Sensor-203
+11,O2-Sensor-203,Variable Resistor,0.8,46,O2-Sensor-214
+11,O2-Sensor-203,Energy Harvester,0.29,46,O2-Sensor-214
+12,ECU-303,Photodiode,[self reference],12,ECU-303
+12,ECU-303,LCD Display,[self reference],12,ECU-303
+12,ECU-303,Signal Processor,0.26,47,ECU-315
+13,TPS-104,Piezoelectric Crystal,0.49,48,TPS-116
+13,TPS-104,RFID Chip,[self reference],13,TPS-104
+13,TPS-104,Hall Effect Sensor,0.26,48,TPS-116
+14,O2-Sensor-204,Hall Sensor,[self reference],14,O2-Sensor-204
+14,O2-Sensor-204,Bluetooth Module,[self reference],14,O2-Sensor-204
+14,O2-Sensor-204,Analog-to-Digital Converter,[self reference],14,O2-Sensor-204
+15,ECU-304,RFID Reader,[self reference],15,ECU-304
+15,ECU-304,GPS Module,[self reference],15,ECU-304
+15,ECU-304,Power Amplifier,[self reference],15,ECU-304
+16,ECU-305,Solenoid,[self reference],16,ECU-305
+16,ECU-305,Accelerometer,[self reference],16,ECU-305
+16,ECU-305,DC-DC Converter,[self reference],16,ECU-305
+17,TPS-105,Potentiometer,0.58,36,TPS-112
+17,TPS-105,Microcontroller,1.01,26,TPS-108
+17,TPS-105,Voltage Regulator,0.22,1,TPS-100
+18,O2-Sensor-205,LED,0.69,40,O2-Sensor-212
+18,O2-Sensor-205,Relay,0.83,40,O2-Sensor-212
+18,O2-Sensor-205,Operational Amplifier,0.21,40,O2-Sensor-212
+19,TPS-106,Resistor,0.51,27,O2-Sensor-208
+19,TPS-106,Pressure Sensor,1.03,2,O2-Sensor-200
+19,TPS-106,Heat Sink,0.2,2,O2-Sensor-200
+20,O2-Sensor-206,Capacitor,0.51,28,ECU-309
+20,O2-Sensor-206,Transistor,0.96,38,ECU-312
+20,O2-Sensor-206,Diode,[self reference],20,O2-Sensor-206
+21,ECU-306,Thermistor,[self reference],21,ECU-306
+21,ECU-306,Temperature Sensor,0.86,29,TPS-109
+21,ECU-306,Amplifier,0.24,4,TPS-101
+22,O2-Sensor-207,Diode,0.6,6,ECU-301
+22,O2-Sensor-207,Inductor,[self reference],22,O2-Sensor-207
+22,O2-Sensor-207,Crystal Oscillator,[self reference],22,O2-Sensor-207
+23,ECU-307,Integrated Circuit,[self reference],23,ECU-307
+23,ECU-307,Piezoelectric Sensor,0.99,7,TPS-102
+23,ECU-307,Filter,0.21,7,TPS-102
+24,TPS-107,Fuse,0.49,43,O2-Sensor-213
+24,TPS-107,Servo Motor,[self reference],24,TPS-107
+24,TPS-107,Rectifier,[self reference],24,TPS-107
+25,ECU-308,Voltage Regulator,0.62,34,ECU-311
+25,ECU-308,Optocoupler,0.98,44,ECU-314
+25,ECU-308,Power Supply,0.2,9,ECU-302
+26,TPS-108,Potentiometer,0.58,36,TPS-112
+26,TPS-108,Microcontroller,[self reference],26,TPS-108
+26,TPS-108,Voltage Regulator,0.22,1,TPS-100
+27,O2-Sensor-208,Resistor,[self reference],27,O2-Sensor-208
+27,O2-Sensor-208,Pressure Sensor,1.03,2,O2-Sensor-200
+27,O2-Sensor-208,Heat Sink,0.2,2,O2-Sensor-200
+28,ECU-309,Capacitor,[self reference],28,ECU-309
+28,ECU-309,Transistor,0.96,38,ECU-312
+28,ECU-309,Diode,0.24,20,O2-Sensor-206
+29,TPS-109,Thermistor,0.47,21,ECU-306
+29,TPS-109,Temperature Sensor,[self reference],29,TPS-109
+29,TPS-109,Amplifier,0.24,4,TPS-101
+30,O2-Sensor-209,LED,0.69,40,O2-Sensor-212
+30,O2-Sensor-209,Relay,0.83,40,O2-Sensor-212
+30,O2-Sensor-209,Operational Amplifier,0.21,40,O2-Sensor-212
+31,ECU-310,Diode,0.6,6,ECU-301
+31,ECU-310,Inductor,0.93,22,O2-Sensor-207
+31,ECU-310,Crystal Oscillator,0.21,22,O2-Sensor-207
+32,TPS-110,Integrated Circuit,0.47,23,ECU-307
+32,TPS-110,Piezoelectric Sensor,0.99,7,TPS-102
+32,TPS-110,Filter,0.21,7,TPS-102
+33,O2-Sensor-210,Fuse,0.49,43,O2-Sensor-213
+33,O2-Sensor-210,Servo Motor,1.03,24,TPS-107
+33,O2-Sensor-210,Rectifier,0.21,24,TPS-107
+34,ECU-311,Voltage Regulator,[self reference],34,ECU-311
+34,ECU-311,Optocoupler,0.98,44,ECU-314
+34,ECU-311,Power Supply,0.2,9,ECU-302
+35,TPS-111,Oscillator,0.48,45,TPS-115
+35,TPS-111,Magnetic Sensor,0.73,45,TPS-115
+35,TPS-111,Charge Controller,0.29,10,TPS-103
+36,TPS-112,Potentiometer,[self reference],36,TPS-112
+36,TPS-112,Microcontroller,1.01,26,TPS-108
+36,TPS-112,Voltage Regulator,0.22,1,TPS-100
+37,O2-Sensor-211,Resistor,0.51,27,O2-Sensor-208
+37,O2-Sensor-211,Pressure Sensor,1.03,2,O2-Sensor-200
+37,O2-Sensor-211,Heat Sink,0.2,2,O2-Sensor-200
+38,ECU-312,Capacitor,0.51,28,ECU-309
+38,ECU-312,Transistor,[self reference],38,ECU-312
+38,ECU-312,Diode,0.24,20,O2-Sensor-206
+39,TPS-113,Thermistor,0.47,21,ECU-306
+39,TPS-113,Temperature Sensor,0.86,29,TPS-109
+39,TPS-113,Amplifier,0.24,4,TPS-101
+40,O2-Sensor-212,LED,[self reference],40,O2-Sensor-212
+40,O2-Sensor-212,Relay,[self reference],40,O2-Sensor-212
+40,O2-Sensor-212,Operational Amplifier,[self reference],40,O2-Sensor-212
+41,ECU-313,Diode,0.6,6,ECU-301
+41,ECU-313,Inductor,0.93,22,O2-Sensor-207
+41,ECU-313,Crystal Oscillator,0.21,22,O2-Sensor-207
+42,TPS-114,Integrated Circuit,0.47,23,ECU-307
+42,TPS-114,Piezoelectric Sensor,0.99,7,TPS-102
+42,TPS-114,Filter,0.21,7,TPS-102
+43,O2-Sensor-213,Fuse,[self reference],43,O2-Sensor-213
+43,O2-Sensor-213,Servo Motor,1.03,24,TPS-107
+43,O2-Sensor-213,Rectifier,0.21,24,TPS-107
+44,ECU-314,Voltage Regulator,0.62,34,ECU-311
+44,ECU-314,Optocoupler,[self reference],44,ECU-314
+44,ECU-314,Power Supply,0.2,9,ECU-302
+45,TPS-115,Oscillator,[self reference],45,TPS-115
+45,TPS-115,Magnetic Sensor,[self reference],45,TPS-115
+45,TPS-115,Charge Controller,0.29,10,TPS-103
+46,O2-Sensor-214,Transducer,0.7,11,O2-Sensor-203
+46,O2-Sensor-214,Variable Resistor,[self reference],46,O2-Sensor-214
+46,O2-Sensor-214,Energy Harvester,[self reference],46,O2-Sensor-214
+47,ECU-315,Photodiode,0.57,12,ECU-303
+47,ECU-315,LCD Display,1.28,12,ECU-303
+47,ECU-315,Signal Processor,[self reference],47,ECU-315
+48,TPS-116,Piezoelectric Crystal,[self reference],48,TPS-116
+48,TPS-116,RFID Chip,0.75,13,TPS-104
+48,TPS-116,Hall Effect Sensor,[self reference],48,TPS-116
+49,O2-Sensor-215,Hall Sensor,0.45,14,O2-Sensor-204
+49,O2-Sensor-215,Bluetooth Module,0.71,14,O2-Sensor-204
+49,O2-Sensor-215,Analog-to-Digital Converter,0.31,14,O2-Sensor-204
+50,ECU-316,RFID Reader,0.51,15,ECU-304
+50,ECU-316,GPS Module,1.15,15,ECU-304
+50,ECU-316,Power Amplifier,0.2,15,ECU-304

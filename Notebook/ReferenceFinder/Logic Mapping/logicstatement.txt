@@ -6,18 +6,27 @@ both a.csv and b.csv are the same and look like below, line 2 is the example lin
 line 1:Quote ID,Date,Supplier,Product,Electronic Component 1 Name,Electronic Component 1 Cost,Mechanical Component 1 Name,Mechanical Component 1 Cost,Raw Material 1 Name,Raw Material 1 Cost,Conversion Cost 1 Type,Conversion Cost 1 Detail,Conversion Cost 1 Cost,Logistic Choice,Estimated Delivery Cost,Total Cost per Unit,Quantity,Total Project Cost,Electronic Component 2 Name,Electronic Component 2 Cost,Electronic Component 3 Name,Electronic Component 3 Cost,Mechanical Component 2 Name,Mechanical Component 2 Cost,Mechanical Component 3 Name,Mechanical Component 3 Cost,Raw Material 2 Name,Raw Material 2 Cost,Conversion Cost 2 Type,Conversion Cost 2 Detail,Conversion Cost 2 Cost,Conversion Cost 3 Type,Conversion Cost 3 Detail,Conversion Cost 3 Cost,Quality Control 1 Type,Quality Control 1 Detail,Quality Control 1 Cost,Quality Control 2 Type,Quality Control 2 Detail,Quality Control 2 Cost
 line2:001,10th February 2071,AutoElectrix,TPS-100,Potentiometer,0.75,Injection-Molded Plastic Casing,0.55,ABS Plastic,0.4,Labor,Assembly Labor,0.6,Air,0.5,6.2,1000,6200,Microcontroller,1.5,Voltage Regulator,0.25,Brass Contact Pins,0.3,Mounting Clamp,0.35,Steel,0.25,Labor,Testing and Calibration,0.35,Labor,Packaging Labor,0.25,Quality Control,Inspection,0.15,Quality Control,Testing Equipment Depreciation,0.1
 
-first at 001, the script will inititate 6 logics, for the comparisons the script will refer to b.csv 
+first at 001, the script will inititate THE below logic for the comparisons the script will refer to b.csv .
+
+I want the output to be in a .csv the column structure of the output .csv is as follows
+
+CQID,CPID,CComp,LCost,DQID,DPID
+what value registers under what column in the .csv will be outlined in the logic below
 
 logic1:
-1.it will record the value at column no 4, this is text and it will be refered as PRODUCT NAME here onwards in the explanation
+1.it will first record the [CQID] this is the quote ID python is starting to analyse with this is in column 0 of the target .csv, then it will look up column 1 and note down the text value which is the corresponding [CPID]
 
-2.column no 5 value for row with quote id 001 will be searched for in b.csv, the script will search for exact value of column 5, and wherever it finds an exact match it will compare the number in column 6
-it will then report the price which was lowest amongs all the matches in b.csv the statemebt will be “For Quote ID 001,PRODUCT NAME the lowest possible value is at Quote ID 0YY value at column 5 for quote ID 0YY and value at column 6 for quote iD 0YY  
+2.it will now take the value under column 4 of a.csv and find exact matches in b.csv for the matches it will compare with numerical value in column 5 of b.csv, for the match where the numerical value
+in  column 5 is the lowest, it will note down the [LCost] which is value at column 5,[DQID] which is the value at column 0 of the same row where match was found and [DPID] which is the value at 
+column 3 of the same row where the match was found.
 
-3.column no 19 value for row with quote id 001 will be searched for in b.csv, the script will search for exact value of column 19, and wherever it finds an exact match it will compare the number in column 20
-it will then report the price which was lowest amongs all the matches in b.csv the statemebt will be “For Quote ID 001,PRODUCT NAME the lowest possible value is at Quote ID 0YY value at column 19 for quote ID 0YY and value at column 20 for quote iD 0YY 
+3.Start a new row in the output.csv then, take the value under column 18 of a.csv and find exact matches in b.csv for the matches it will compare with numerical value in column 19 of b.csv, for the match where the numerical value
+in  column 19 is the lowest, it will note down the [LCost] which is value at column 19,[DQID] which is the value at column 0 of the same row where match was found and [DPID] which is the value at 
+column 3 of the same row where the match was found.
 
-3.column no 21 value for row with quote id 001 will be searched for in b.csv, the script will search for exact value of column 21, and wherever it finds an exact match it will compare the number in column 22
-it will then report the price which was lowest amongs all the matches in b.csv the statemebt will be “For Quote ID 001,PRODUCT NAME the lowest possible value is at Quote ID 0YY value at column 21 for quote ID 0YY and value at column 22 for quote iD 0YY 
-
+4.Start a new row in the output.csv then, take the value under column 20 of a.csv and find exact matches in b.csv for the matches it will compare with numerical value in column 21 of b.csv, for the match where the numerical value
+in  column 19 is the lowest, it will note down the [LCost] which is value at column 21,[DQID] which is the value at column 0 of the same row where match was found and [DPID] which is the value at 
+column 3 of the same row where the match was found.
 ultimately the script should orint the print statement oif all 3 steps in this logic 
+
+Quote ID,Current Product Name,Electronic Component 1,Lowest Cost [n],D.Quote ID,Product Name of Lowest Cost Quote ID
