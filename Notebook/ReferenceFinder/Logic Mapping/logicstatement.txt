@@ -27,6 +27,7 @@ column 3 of the same row where the match was found.
 4.Start a new row in the output.csv then, take the value under column 20 of a.csv and find exact matches in b.csv for the matches it will compare with numerical value in column 21 of b.csv, for the match where the numerical value
 in  column 19 is the lowest, it will note down the [LCost] which is value at column 21,[DQID] which is the value at column 0 of the same row where match was found and [DPID] which is the value at 
 column 3 of the same row where the match was found.
-ultimately the script should orint the print statement oif all 3 steps in this logic 
 
-Quote ID,Current Product Name,Electronic Component 1,Lowest Cost [n],D.Quote ID,Product Name of Lowest Cost Quote ID
+remember you need to write me a python script that does this, previously you used a python script that had similar logic but a different output, however the core approach does not seem to change between this previous working script and
+the new one you would be making
+

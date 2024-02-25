@@ -8,15 +8,15 @@ def find_lowest_cost(a_df, b_df, quote_id, a_col_index, b_col_index):
             matching_rows = b_df[b_df.iloc[:, a_col_index] == component_name]
 
             if not matching_rows.empty and matching_rows.shape[1] > b_col_index:
-                # Find the row with the lowest cost
                 lowest_cost_row = matching_rows.iloc[:, b_col_index].idxmin()
                 lowest_cost_quote_id = matching_rows.at[lowest_cost_row, 'Quote ID']
 
-                # Check for self-reference
                 if lowest_cost_quote_id == quote_id:
-                    lcost = '[self reference]'
+                    lcost = matching_rows.at[lowest_cost_row, matching_rows.columns[b_col_index]]
+                    pos = "COST REFERENCE"
                 else:
                     lcost = matching_rows.at[lowest_cost_row, matching_rows.columns[b_col_index]]
+                    pos = "REFERENCE FOUND!"
 
                 return {
                     'CQID': quote_id,
@@ -24,7 +24,8 @@ def find_lowest_cost(a_df, b_df, quote_id, a_col_index, b_col_index):
                     'CComp': component_name,
                     'LCost': lcost,
                     'DQID': lowest_cost_quote_id,
-                    'DPID': matching_rows.at[lowest_cost_row, 'Product']
+                    'DPID': matching_rows.at[lowest_cost_row, 'Product'],
+                    'POS': pos
                 }
         return None
     except Exception as e:
@@ -54,4 +55,4 @@ output_data = process_quotes(a_df, b_df, max_quote_id)
 
 # Convert output data to DataFrame and save to CSV
 output_df = pd.DataFrame(output_data)
-output_df.to_csv('output.csv', index=False)
+output_df.to_csv('outputnew.csv', index=False)
