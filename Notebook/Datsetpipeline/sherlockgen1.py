@@ -7,7 +7,18 @@ def find_lowest_cost(a_df, b_df, quote_id, a_col_index, b_col_index, c_cost_col,
             component_name = a_row.iloc[0, a_col_index]
             c_cost = a_row.iloc[0, c_cost_col]
             q_value = a_row.iloc[0, q_col]  # Retrieve quantity from column 16
+            cpid = a_row.iloc[0]['Product']
             matching_rows = b_df[b_df.iloc[:, a_col_index] == component_name]
+
+            # Determine product type (pType) based on CPID value
+            if 'TPS' in cpid:
+                pType = 'TPS'
+            elif 'O2-Sensor' in cpid:
+                pType = 'O2-Sensor'
+            elif 'ECU' in cpid:
+                pType = 'ECU'
+            else:
+                pType = 'Other'
 
             if not matching_rows.empty and matching_rows.shape[1] > b_col_index:
                 lowest_cost_row = matching_rows.iloc[:, b_col_index].idxmin()
@@ -24,9 +35,10 @@ def find_lowest_cost(a_df, b_df, quote_id, a_col_index, b_col_index, c_cost_col,
                 imp = round(q_value * dcost, 3)   # Calculate IMP
 
                 return {
-                    'CAT': category,
                     'CQID': quote_id,
-                    'CPID': a_row.iloc[0]['Product'],
+                    'pType': pType,
+                    'CAT': category,
+                    'CPID': cpid,
                     'CComp': component_name,
                     'CCost': c_cost,
                     'LCost': lcost,
