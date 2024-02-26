@@ -10,7 +10,7 @@ first at 001, the script will inititate THE below logic for the comparisons the 
 
 I want the output to be in a .csv the column structure of the output .csv is as follows
 
-CQID,CPID,CComp,LCost,DQID,DPID
+CQID,pType,CAT,CPID,CComp,CCost,LCost,DCost,DQID,DPID,[Q],IMP,POS
 what value registers under what column in the .csv will be outlined in the logic below
 
 logic1:
@@ -28,6 +28,20 @@ column 3 of the same row where the match was found.
 in  column 19 is the lowest, it will note down the [LCost] which is value at column 21,[DQID] which is the value at column 0 of the same row where match was found and [DPID] which is the value at 
 column 3 of the same row where the match was found.
 
+5.Start a new row in the output.csv then, take the value under column 6 of a.csv and find exact matches in b.csv for the matches it will compare with numerical value in column 7 of b.csv, for the match where the numerical value
+in  column 7 is the lowest, it will note down the [LCost] which is value at column 7,[DQID] which is the value at column 0 of the same row where match was found and [DPID] which is the value at 
+column 3 of the same row where the match was found, and similarly for all other columns as in other rows. (calculation of DCost,[q],IMP,pType,POS will be exactly thr same as other columns)
+
+6.Start a new row in the output.csv then, take the value under column 22 of a.csv and find exact matches in b.csv for the matches it will compare with numerical value in column 23 of b.csv, for the match where the numerical value
+in  column 23 is the lowest, it will note down the [LCost] which is value at column 23,[DQID] which is the value at column 0 of the same row where match was found and [DPID] which is the value at 
+column 3 of the same row where the match was found, and similarly for all other columns as in other rows. (calculation of DCost,[q],IMP,pType,POS will be exactly thr same as other columns)
+
+7.Start a new row in the output.csv then, take the value under column 23 of a.csv and find exact matches in b.csv for the matches it will compare with numerical value in column 21 of b.csv, for the match where the numerical value
+in  column 24 is the lowest, it will note down the [LCost] which is value at column 21,[DQID] which is the value at column 0 of the same row where match was found and [DPID] which is the value at 
+column 3 of the same row where the match was found, and similarly for all other columns as in other rows. (calculation of DCost,[q],IMP,pType,POS will be exactly thr same as other columns)
+
+all the rows generated when the above columns are reffered get the CAT entry as Mechanical Components
+POS will work the same way.
 remember you need to write me a python script that does this, previously you used a python script that had similar logic but a different output, however the core approach does not seem to change between this previous working script and
-the new one you would be making
+the new one you would be making 
 
