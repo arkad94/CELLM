@@ -1,0 +1,701 @@
+CQID,pType,CAT,CPID,CComp,CCost,LCost,DCost,DQID,DPID,[Q],IMP,POS
+1,TPS,Electronic Component,TPS-100,Potentiometer,0.73,0.58,0.15,36,TPS-112,546.09,81.91,REFERENCE FOUND!
+1,TPS,Electronic Component,TPS-100,Microcontroller,1.23,1.01,0.22,26,TPS-108,546.09,120.14,REFERENCE FOUND!
+1,TPS,Electronic Component,TPS-100,Voltage Regulator,0.22,0.22,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Mechanical Components,TPS-100,Injection-Molded Plastic Casing,0.55,0.37,0.18,26,TPS-108,546.09,98.3,REFERENCE FOUND!
+1,TPS,Mechanical Components,TPS-100,Brass Contact Pins,0.32,0.24,0.08,17,TPS-105,546.09,43.69,REFERENCE FOUND!
+1,TPS,Mechanical Components,TPS-100,Mounting Clamp,0.28,0.28,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Raw Material,TPS-100,ABS Plastic,0.33,0.33,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Raw Material,TPS-100,Steel,0.41,0.25,0.16,36,TPS-112,546.09,87.37,REFERENCE FOUND!
+1,TPS,Conversion Cost,TPS-100,Assembly Labor,0.7,0.61,0.09,17,TPS-105,546.09,49.15,REFERENCE FOUND!
+1,TPS,Conversion Cost,TPS-100,Testing and Calibration,0.39,0.39,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Conversion Cost,TPS-100,Packaging Labor,0.36,0.33,0.03,26,TPS-108,546.09,16.38,REFERENCE FOUND!
+1,TPS,Logistic Choice,TPS-100,Air,0.46,0.43,0.03,14,O2-Sensor-204,546.09,16.38,REFERENCE FOUND!
+1,TPS,Logistic Choice,TPS-100,Inspection,0.25,0.2,0.05,17,TPS-105,546.09,27.3,REFERENCE FOUND!
+1,TPS,Logistic Choice,TPS-100,Testing Equipment Depreciation,0.1,0.1,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+2,O2-Sensor,Electronic Component,O2-Sensor-200,Resistor,0.55,0.51,0.04,27,O2-Sensor-208,548.83,21.95,REFERENCE FOUND!
+2,O2-Sensor,Electronic Component,O2-Sensor-200,Pressure Sensor,1.03,1.03,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Electronic Component,O2-Sensor-200,Heat Sink,0.2,0.2,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Mechanical Components,O2-Sensor-200,Thermal Shielding,0.37,0.37,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Mechanical Components,O2-Sensor-200,Spring Clip,0.35,0.25,0.1,19,TPS-106,548.83,54.88,REFERENCE FOUND!
+2,O2-Sensor,Mechanical Components,O2-Sensor-200,Gear Mechanism,0.29,0.29,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Raw Material,O2-Sensor-200,Aluminum,0.46,0.35,0.11,19,TPS-106,548.83,60.37,REFERENCE FOUND!
+2,O2-Sensor,Raw Material,O2-Sensor-200,Copper,0.29,0.29,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Conversion Cost,O2-Sensor-200,Welding Labor,0.69,0.61,0.08,37,O2-Sensor-211,548.83,43.91,REFERENCE FOUND!
+2,O2-Sensor,Conversion Cost,O2-Sensor-200,Quality Inspection,0.43,0.43,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Conversion Cost,O2-Sensor-200,Transportation Handling,0.38,0.35,0.03,37,O2-Sensor-211,548.83,16.46,REFERENCE FOUND!
+2,O2-Sensor,Logistic Choice,O2-Sensor-200,Road,0.51,0.45,0.06,44,ECU-314,548.83,32.93,REFERENCE FOUND!
+2,O2-Sensor,Logistic Choice,O2-Sensor-200,Functionality Test,0.31,0.21,0.1,19,TPS-106,548.83,54.88,REFERENCE FOUND!
+2,O2-Sensor,Logistic Choice,O2-Sensor-200,Environmental Stress Screening,0.1,0.1,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+3,ECU,Electronic Component,ECU-300,Capacitor,0.78,0.51,0.27,28,ECU-309,1124.54,303.63,REFERENCE FOUND!
+3,ECU,Electronic Component,ECU-300,Transistor,1.01,0.96,0.05,38,ECU-312,1124.54,56.23,REFERENCE FOUND!
+3,ECU,Electronic Component,ECU-300,Diode,0.3,0.24,0.06,20,O2-Sensor-206,1124.54,67.47,REFERENCE FOUND!
+3,ECU,Mechanical Components,ECU-300,Mounting Bracket,0.52,0.37,0.15,28,ECU-309,1124.54,168.68,REFERENCE FOUND!
+3,ECU,Mechanical Components,ECU-300,Connector Housing,0.3,0.26,0.04,28,ECU-309,1124.54,44.98,REFERENCE FOUND!
+3,ECU,Mechanical Components,ECU-300,Adjustable Lever,0.45,0.34,0.11,38,ECU-312,1124.54,123.7,REFERENCE FOUND!
+3,ECU,Raw Material,ECU-300,Stainless Steel,0.45,0.42,0.03,20,O2-Sensor-206,1124.54,33.74,REFERENCE FOUND!
+3,ECU,Raw Material,ECU-300,Nickel,0.27,0.27,0.0,3,ECU-300,1124.54,0.0,COST REFERENCE
+3,ECU,Conversion Cost,ECU-300,Circuit Board Assembly,0.64,0.59,0.05,20,O2-Sensor-206,1124.54,56.23,REFERENCE FOUND!
+3,ECU,Conversion Cost,ECU-300,Machine Calibration,0.35,0.35,0.0,3,ECU-300,1124.54,0.0,COST REFERENCE
+3,ECU,Conversion Cost,ECU-300,Handling and Storage,0.27,0.27,0.0,3,ECU-300,1124.54,0.0,COST REFERENCE
+3,ECU,Logistic Choice,ECU-300,Sea,0.47,0.42,0.05,18,O2-Sensor-205,1124.54,56.23,REFERENCE FOUND!
+3,ECU,Logistic Choice,ECU-300,Dimensional Inspection,0.22,0.22,0.0,3,ECU-300,1124.54,0.0,COST REFERENCE
+3,ECU,Logistic Choice,ECU-300,Life Cycle Testing,0.17,0.17,0.0,3,ECU-300,1124.54,0.0,COST REFERENCE
+4,TPS,Electronic Component,TPS-101,Thermistor,0.71,0.47,0.24,21,ECU-306,1108.95,266.15,REFERENCE FOUND!
+4,TPS,Electronic Component,TPS-101,Temperature Sensor,1.3,0.86,0.44,29,TPS-109,1108.95,487.94,REFERENCE FOUND!
+4,TPS,Electronic Component,TPS-101,Amplifier,0.24,0.24,0.0,4,TPS-101,1108.95,0.0,COST REFERENCE
+4,TPS,Mechanical Components,TPS-101,Rubber Seal,0.5,0.48,0.02,21,ECU-306,1108.95,22.18,REFERENCE FOUND!
+4,TPS,Mechanical Components,TPS-101,Copper Wire,0.35,0.24,0.11,21,ECU-306,1108.95,121.98,REFERENCE FOUND!
+4,TPS,Mechanical Components,TPS-101,Rotary Shaft,0.33,0.28,0.05,21,ECU-306,1108.95,55.45,REFERENCE FOUND!
+4,TPS,Raw Material,TPS-101,Silicone Rubber,0.42,0.35,0.07,39,TPS-113,1108.95,77.63,REFERENCE FOUND!
+4,TPS,Raw Material,TPS-101,Titanium,0.28,0.28,0.0,4,TPS-101,1108.95,0.0,COST REFERENCE
+4,TPS,Conversion Cost,TPS-101,Surface Treatment,0.59,0.59,0.0,4,TPS-101,1108.95,0.0,COST REFERENCE
+4,TPS,Conversion Cost,TPS-101,Electronic Testing,0.44,0.35,0.09,39,TPS-113,1108.95,99.81,REFERENCE FOUND!
+4,TPS,Conversion Cost,TPS-101,Inventory Management,0.37,0.28,0.09,21,ECU-306,1108.95,99.81,REFERENCE FOUND!
+4,TPS,Logistic Choice,TPS-101,Air,0.56,0.43,0.13,14,O2-Sensor-204,1108.95,144.16,REFERENCE FOUND!
+4,TPS,Logistic Choice,TPS-101,Material Analysis,0.32,0.17,0.15,39,TPS-113,1108.95,166.34,REFERENCE FOUND!
+4,TPS,Logistic Choice,TPS-101,Vibration Analysis,0.26,0.18,0.08,21,ECU-306,1108.95,88.72,REFERENCE FOUND!
+5,O2-Sensor,Electronic Component,O2-Sensor-201,LED,0.71,0.69,0.02,40,O2-Sensor-212,899.63,17.99,REFERENCE FOUND!
+5,O2-Sensor,Electronic Component,O2-Sensor-201,Relay,1.57,0.83,0.74,40,O2-Sensor-212,899.63,665.73,REFERENCE FOUND!
+5,O2-Sensor,Electronic Component,O2-Sensor-201,Operational Amplifier,0.34,0.21,0.13,40,O2-Sensor-212,899.63,116.95,REFERENCE FOUND!
+5,O2-Sensor,Mechanical Components,O2-Sensor-201,Actuator Arm,0.42,0.37,0.05,40,O2-Sensor-212,899.63,44.98,REFERENCE FOUND!
+5,O2-Sensor,Mechanical Components,O2-Sensor-201,Plastic Knob,0.24,0.24,0.0,5,O2-Sensor-201,899.63,0.0,COST REFERENCE
+5,O2-Sensor,Mechanical Components,O2-Sensor-201,Cam Follower,0.4,0.36,0.04,40,O2-Sensor-212,899.63,35.99,REFERENCE FOUND!
+5,O2-Sensor,Raw Material,O2-Sensor-201,Brass,0.45,0.41,0.04,30,O2-Sensor-209,899.63,35.99,REFERENCE FOUND!
+5,O2-Sensor,Raw Material,O2-Sensor-201,Zinc,0.42,0.3,0.12,40,O2-Sensor-212,899.63,107.96,REFERENCE FOUND!
+5,O2-Sensor,Conversion Cost,O2-Sensor-201,Electroplating,0.59,0.58,0.01,30,O2-Sensor-209,899.63,9.0,REFERENCE FOUND!
+5,O2-Sensor,Conversion Cost,O2-Sensor-201,Assembly Line Setup,0.38,0.38,0.0,5,O2-Sensor-201,899.63,0.0,COST REFERENCE
+5,O2-Sensor,Conversion Cost,O2-Sensor-201,Import Duties,0.34,0.3,0.04,30,O2-Sensor-209,899.63,35.99,REFERENCE FOUND!
+5,O2-Sensor,Logistic Choice,O2-Sensor-201,Sea,0.52,0.42,0.1,18,O2-Sensor-205,899.63,89.96,REFERENCE FOUND!
+5,O2-Sensor,Logistic Choice,O2-Sensor-201,Pressure Testing,0.23,0.18,0.05,18,O2-Sensor-205,899.63,44.98,REFERENCE FOUND!
+5,O2-Sensor,Logistic Choice,O2-Sensor-201,Reliability Testing,0.21,0.11,0.1,40,O2-Sensor-212,899.63,89.96,REFERENCE FOUND!
+6,ECU,Electronic Component,ECU-301,Diode,0.6,0.24,0.36,20,O2-Sensor-206,1193.3,429.59,REFERENCE FOUND!
+6,ECU,Electronic Component,ECU-301,Inductor,1.39,0.93,0.46,22,O2-Sensor-207,1193.3,548.92,REFERENCE FOUND!
+6,ECU,Electronic Component,ECU-301,Crystal Oscillator,0.22,0.21,0.01,22,O2-Sensor-207,1193.3,11.93,REFERENCE FOUND!
+6,ECU,Mechanical Components,ECU-301,Connector Body,0.38,0.37,0.01,22,O2-Sensor-207,1193.3,11.93,REFERENCE FOUND!
+6,ECU,Mechanical Components,ECU-301,Steel Rod,0.28,0.28,0.0,6,ECU-301,1193.3,0.0,COST REFERENCE
+6,ECU,Mechanical Components,ECU-301,Linkage Assembly,0.35,0.35,0.0,6,ECU-301,1193.3,0.0,COST REFERENCE
+6,ECU,Raw Material,ECU-301,Glass,0.45,0.33,0.12,31,ECU-310,1193.3,143.2,REFERENCE FOUND!
+6,ECU,Raw Material,ECU-301,Graphite,0.4,0.31,0.09,22,O2-Sensor-207,1193.3,107.4,REFERENCE FOUND!
+6,ECU,Conversion Cost,ECU-301,Molding,0.74,0.64,0.1,31,ECU-310,1193.3,119.33,REFERENCE FOUND!
+6,ECU,Conversion Cost,ECU-301,Equipment Maintenance,0.4,0.37,0.03,41,ECU-313,1193.3,35.8,REFERENCE FOUND!
+6,ECU,Conversion Cost,ECU-301,Export Processing,0.41,0.29,0.12,41,ECU-313,1193.3,143.2,REFERENCE FOUND!
+6,ECU,Logistic Choice,ECU-301,Road,0.47,0.45,0.02,44,ECU-314,1193.3,23.87,REFERENCE FOUND!
+6,ECU,Logistic Choice,ECU-301,Electrical Testing,0.3,0.25,0.05,22,O2-Sensor-207,1193.3,59.66,REFERENCE FOUND!
+6,ECU,Logistic Choice,ECU-301,Wear Testing,0.17,0.16,0.01,22,O2-Sensor-207,1193.3,11.93,REFERENCE FOUND!
+7,TPS,Electronic Component,TPS-102,Integrated Circuit,0.55,0.47,0.08,23,ECU-307,850.15,68.01,REFERENCE FOUND!
+7,TPS,Electronic Component,TPS-102,Piezoelectric Sensor,0.99,0.99,0.0,7,TPS-102,850.15,0.0,COST REFERENCE
+7,TPS,Electronic Component,TPS-102,Filter,0.21,0.21,0.0,7,TPS-102,850.15,0.0,COST REFERENCE
+7,TPS,Mechanical Components,TPS-102,Valve Body,0.5,0.43,0.07,32,TPS-110,850.15,59.51,REFERENCE FOUND!
+7,TPS,Mechanical Components,TPS-102,Ceramic Disc,0.37,0.28,0.09,42,TPS-114,850.15,76.51,REFERENCE FOUND!
+7,TPS,Mechanical Components,TPS-102,Control Arm,0.46,0.34,0.12,23,ECU-307,850.15,102.02,REFERENCE FOUND!
+7,TPS,Raw Material,TPS-102,Rubber,0.48,0.35,0.13,42,TPS-114,850.15,110.52,REFERENCE FOUND!
+7,TPS,Raw Material,TPS-102,Lead,0.35,0.27,0.08,42,TPS-114,850.15,68.01,REFERENCE FOUND!
+7,TPS,Conversion Cost,TPS-102,Coating Application,0.67,0.61,0.06,32,TPS-110,850.15,51.01,REFERENCE FOUND!
+7,TPS,Conversion Cost,TPS-102,Worker Training,0.56,0.41,0.15,32,TPS-110,850.15,127.52,REFERENCE FOUND!
+7,TPS,Conversion Cost,TPS-102,Customs Clearance,0.45,0.33,0.12,42,TPS-114,850.15,102.02,REFERENCE FOUND!
+7,TPS,Logistic Choice,TPS-102,Sea,0.6,0.42,0.18,18,O2-Sensor-205,850.15,153.03,REFERENCE FOUND!
+7,TPS,Logistic Choice,TPS-102,Chemical Analysis,0.31,0.17,0.14,23,ECU-307,850.15,119.02,REFERENCE FOUND!
+7,TPS,Logistic Choice,TPS-102,Endurance Testing,0.17,0.17,0.0,7,TPS-102,850.15,0.0,COST REFERENCE
+8,O2-Sensor,Electronic Component,O2-Sensor-202,Fuse,0.74,0.49,0.25,43,O2-Sensor-213,945.39,236.35,REFERENCE FOUND!
+8,O2-Sensor,Electronic Component,O2-Sensor-202,Servo Motor,1.48,1.03,0.45,24,TPS-107,945.39,425.43,REFERENCE FOUND!
+8,O2-Sensor,Electronic Component,O2-Sensor-202,Rectifier,0.34,0.21,0.13,24,TPS-107,945.39,122.9,REFERENCE FOUND!
+8,O2-Sensor,Mechanical Components,O2-Sensor-202,Heat Sink,0.45,0.2,0.25,2,O2-Sensor-200,945.39,236.35,REFERENCE FOUND!
+8,O2-Sensor,Mechanical Components,O2-Sensor-202,Metal Clip,0.37,0.26,0.11,24,TPS-107,945.39,103.99,REFERENCE FOUND!
+8,O2-Sensor,Mechanical Components,O2-Sensor-202,Bushing Assembly,0.43,0.4,0.03,33,O2-Sensor-210,945.39,28.36,REFERENCE FOUND!
+8,O2-Sensor,Raw Material,O2-Sensor-202,Carbon Fiber,0.41,0.4,0.01,33,O2-Sensor-210,945.39,9.45,REFERENCE FOUND!
+8,O2-Sensor,Raw Material,O2-Sensor-202,Iron,0.27,0.26,0.01,24,TPS-107,945.39,9.45,REFERENCE FOUND!
+8,O2-Sensor,Conversion Cost,O2-Sensor-202,Heat Treatment,0.71,0.66,0.05,43,O2-Sensor-213,945.39,47.27,REFERENCE FOUND!
+8,O2-Sensor,Conversion Cost,O2-Sensor-202,Safety Testing,0.51,0.45,0.06,33,O2-Sensor-210,945.39,56.72,REFERENCE FOUND!
+8,O2-Sensor,Conversion Cost,O2-Sensor-202,Quality Assurance,0.31,0.31,0.0,8,O2-Sensor-202,945.39,0.0,COST REFERENCE
+8,O2-Sensor,Logistic Choice,O2-Sensor-202,Air,0.63,0.43,0.2,14,O2-Sensor-204,945.39,189.08,REFERENCE FOUND!
+8,O2-Sensor,Logistic Choice,O2-Sensor-202,Torque Testing,0.19,0.19,0.0,8,O2-Sensor-202,945.39,0.0,COST REFERENCE
+8,O2-Sensor,Logistic Choice,O2-Sensor-202,Non-Destructive Testing,0.13,0.13,0.0,8,O2-Sensor-202,945.39,0.0,COST REFERENCE
+9,ECU,Electronic Component,ECU-302,Voltage Regulator,0.69,0.22,0.47,1,TPS-100,743.95,349.66,REFERENCE FOUND!
+9,ECU,Electronic Component,ECU-302,Optocoupler,1.6,0.98,0.62,44,ECU-314,743.95,461.25,REFERENCE FOUND!
+9,ECU,Electronic Component,ECU-302,Power Supply,0.2,0.2,0.0,9,ECU-302,743.95,0.0,COST REFERENCE
+9,ECU,Mechanical Components,ECU-302,Piston,0.46,0.39,0.07,25,ECU-308,743.95,52.08,REFERENCE FOUND!
+9,ECU,Mechanical Components,ECU-302,Wire Harness,0.36,0.31,0.05,44,ECU-314,743.95,37.2,REFERENCE FOUND!
+9,ECU,Mechanical Components,ECU-302,Pivot Point,0.34,0.34,0.0,9,ECU-302,743.95,0.0,COST REFERENCE
+9,ECU,Raw Material,ECU-302,Polycarbonate,0.39,0.39,0.0,9,ECU-302,743.95,0.0,COST REFERENCE
+9,ECU,Raw Material,ECU-302,Alloy Steel,0.38,0.35,0.03,44,ECU-314,743.95,22.32,REFERENCE FOUND!
+9,ECU,Conversion Cost,ECU-302,Polishing,0.67,0.61,0.06,25,ECU-308,743.95,44.64,REFERENCE FOUND!
+9,ECU,Conversion Cost,ECU-302,Process Optimization,0.38,0.38,0.0,9,ECU-302,743.95,0.0,COST REFERENCE
+9,ECU,Conversion Cost,ECU-302,Supply Chain Management,0.29,0.27,0.02,34,ECU-311,743.95,14.88,REFERENCE FOUND!
+9,ECU,Logistic Choice,ECU-302,Road,0.49,0.45,0.04,44,ECU-314,743.95,29.76,REFERENCE FOUND!
+9,ECU,Logistic Choice,ECU-302,Leak Testing,0.15,0.15,0.0,9,ECU-302,743.95,0.0,COST REFERENCE
+9,ECU,Logistic Choice,ECU-302,Durability Testing,0.17,0.11,0.06,34,ECU-311,743.95,44.64,REFERENCE FOUND!
+10,TPS,Electronic Component,TPS-103,Oscillator,0.76,0.48,0.28,45,TPS-115,701.67,196.47,REFERENCE FOUND!
+10,TPS,Electronic Component,TPS-103,Magnetic Sensor,1.11,0.73,0.38,45,TPS-115,701.67,266.63,REFERENCE FOUND!
+10,TPS,Electronic Component,TPS-103,Charge Controller,0.29,0.29,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+10,TPS,Mechanical Components,TPS-103,Gasket,0.58,0.44,0.14,35,TPS-111,701.67,98.23,REFERENCE FOUND!
+10,TPS,Mechanical Components,TPS-103,Spring,0.36,0.27,0.09,45,TPS-115,701.67,63.15,REFERENCE FOUND!
+10,TPS,Mechanical Components,TPS-103,Slider Mechanism,0.33,0.33,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+10,TPS,Raw Material,TPS-103,Teflon,0.41,0.41,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+10,TPS,Raw Material,TPS-103,Magnesium,0.34,0.34,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+10,TPS,Conversion Cost,TPS-103,Annealing,0.67,0.58,0.09,45,TPS-115,701.67,63.15,REFERENCE FOUND!
+10,TPS,Conversion Cost,TPS-103,Product Certification,0.42,0.42,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+10,TPS,Conversion Cost,TPS-103,Logistics Coordination,0.41,0.27,0.14,35,TPS-111,701.67,98.23,REFERENCE FOUND!
+10,TPS,Logistic Choice,TPS-103,Sea,0.58,0.42,0.16,18,O2-Sensor-205,701.67,112.27,REFERENCE FOUND!
+10,TPS,Logistic Choice,TPS-103,Acoustic Testing,0.18,0.18,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+10,TPS,Logistic Choice,TPS-103,Impact Testing,0.11,0.11,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+11,O2-Sensor,Electronic Component,O2-Sensor-203,Transducer,0.7,0.7,0.0,11,O2-Sensor-203,684.32,0.0,COST REFERENCE
+11,O2-Sensor,Electronic Component,O2-Sensor-203,Variable Resistor,1.57,0.8,0.77,46,O2-Sensor-214,684.32,526.93,REFERENCE FOUND!
+11,O2-Sensor,Electronic Component,O2-Sensor-203,Energy Harvester,0.34,0.29,0.05,46,O2-Sensor-214,684.32,34.22,REFERENCE FOUND!
+11,O2-Sensor,Mechanical Components,O2-Sensor-203,Bracket Assembly,0.58,0.4,0.18,46,O2-Sensor-214,684.32,123.18,REFERENCE FOUND!
+11,O2-Sensor,Mechanical Components,O2-Sensor-203,Pin Connector,0.27,0.24,0.03,46,O2-Sensor-214,684.32,20.53,REFERENCE FOUND!
+11,O2-Sensor,Mechanical Components,O2-Sensor-203,Rack and Pinion,0.28,0.28,0.0,11,O2-Sensor-203,684.32,0.0,COST REFERENCE
+11,O2-Sensor,Raw Material,O2-Sensor-203,Ceramic,0.33,0.33,0.0,11,O2-Sensor-203,684.32,0.0,COST REFERENCE
+11,O2-Sensor,Raw Material,O2-Sensor-203,Tungsten,0.25,0.25,0.0,11,O2-Sensor-203,684.32,0.0,COST REFERENCE
+11,O2-Sensor,Conversion Cost,O2-Sensor-203,Casting,0.68,0.59,0.09,46,O2-Sensor-214,684.32,61.59,REFERENCE FOUND!
+11,O2-Sensor,Conversion Cost,O2-Sensor-203,Tooling Setup,0.38,0.38,0.0,11,O2-Sensor-203,684.32,0.0,COST REFERENCE
+11,O2-Sensor,Conversion Cost,O2-Sensor-203,Risk Management,0.45,0.29,0.16,46,O2-Sensor-214,684.32,109.49,REFERENCE FOUND!
+11,O2-Sensor,Logistic Choice,O2-Sensor-203,Air,0.54,0.43,0.11,14,O2-Sensor-204,684.32,75.28,REFERENCE FOUND!
+11,O2-Sensor,Logistic Choice,O2-Sensor-203,Radiographic Inspection,0.3,0.3,0.0,11,O2-Sensor-203,684.32,0.0,COST REFERENCE
+11,O2-Sensor,Logistic Choice,O2-Sensor-203,Corrosion Testing,0.25,0.24,0.01,46,O2-Sensor-214,684.32,6.84,REFERENCE FOUND!
+12,ECU,Electronic Component,ECU-303,Photodiode,0.57,0.57,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+12,ECU,Electronic Component,ECU-303,LCD Display,1.28,1.28,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+12,ECU,Electronic Component,ECU-303,Signal Processor,0.31,0.26,0.05,47,ECU-315,518.93,25.95,REFERENCE FOUND!
+12,ECU,Mechanical Components,ECU-303,Switch Assembly,0.54,0.54,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+12,ECU,Mechanical Components,ECU-303,Rivet,0.33,0.32,0.01,47,ECU-315,518.93,5.19,REFERENCE FOUND!
+12,ECU,Mechanical Components,ECU-303,Helical Spring,0.39,0.39,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+12,ECU,Raw Material,ECU-303,High-Density Polyethylene,0.48,0.36,0.12,47,ECU-315,518.93,62.27,REFERENCE FOUND!
+12,ECU,Raw Material,ECU-303,Silicon,0.27,0.25,0.02,47,ECU-315,518.93,10.38,REFERENCE FOUND!
+12,ECU,Conversion Cost,ECU-303,Drilling,0.62,0.57,0.05,47,ECU-315,518.93,25.95,REFERENCE FOUND!
+12,ECU,Conversion Cost,ECU-303,Firmware Updating,0.53,0.47,0.06,47,ECU-315,518.93,31.14,REFERENCE FOUND!
+12,ECU,Conversion Cost,ECU-303,Inventory Optimization,0.35,0.31,0.04,47,ECU-315,518.93,20.76,REFERENCE FOUND!
+12,ECU,Logistic Choice,ECU-303,Road,0.49,0.45,0.04,44,ECU-314,518.93,20.76,REFERENCE FOUND!
+12,ECU,Logistic Choice,ECU-303,Spectral Analysis,0.26,0.26,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+12,ECU,Logistic Choice,ECU-303,Thermal Cycling,0.12,0.12,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+13,TPS,Electronic Component,TPS-104,Piezoelectric Crystal,0.76,0.49,0.27,48,TPS-116,558.0,150.66,REFERENCE FOUND!
+13,TPS,Electronic Component,TPS-104,RFID Chip,0.75,0.75,0.0,13,TPS-104,558.0,0.0,COST REFERENCE
+13,TPS,Electronic Component,TPS-104,Hall Effect Sensor,0.3,0.26,0.04,48,TPS-116,558.0,22.32,REFERENCE FOUND!
+13,TPS,Mechanical Components,TPS-104,Frame Structure,0.41,0.41,0.0,13,TPS-104,558.0,0.0,COST REFERENCE
+13,TPS,Mechanical Components,TPS-104,Bearing,0.28,0.26,0.02,48,TPS-116,558.0,11.16,REFERENCE FOUND!
+13,TPS,Mechanical Components,TPS-104,Sprocket Assembly,0.32,0.28,0.04,48,TPS-116,558.0,22.32,REFERENCE FOUND!
+13,TPS,Raw Material,TPS-104,Composite Material,0.48,0.41,0.07,48,TPS-116,558.0,39.06,REFERENCE FOUND!
+13,TPS,Raw Material,TPS-104,Bronze,0.37,0.37,0.0,13,TPS-104,558.0,0.0,COST REFERENCE
+13,TPS,Conversion Cost,TPS-104,Stamping,0.74,0.67,0.07,48,TPS-116,558.0,39.06,REFERENCE FOUND!
+13,TPS,Conversion Cost,TPS-104,Workflow Analysis,0.35,0.35,0.0,13,TPS-104,558.0,0.0,COST REFERENCE
+13,TPS,Conversion Cost,TPS-104,Transport Licensing,0.41,0.28,0.13,48,TPS-116,558.0,72.54,REFERENCE FOUND!
+13,TPS,Logistic Choice,TPS-104,Sea,0.54,0.42,0.12,18,O2-Sensor-205,558.0,66.96,REFERENCE FOUND!
+13,TPS,Logistic Choice,TPS-104,Ultrasonic Testing,0.17,0.17,0.0,13,TPS-104,558.0,0.0,COST REFERENCE
+13,TPS,Logistic Choice,TPS-104,Fatigue Testing,0.28,0.22,0.06,48,TPS-116,558.0,33.48,REFERENCE FOUND!
+14,O2-Sensor,Electronic Component,O2-Sensor-204,Hall Sensor,0.45,0.45,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Electronic Component,O2-Sensor-204,Bluetooth Module,0.71,0.71,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Electronic Component,O2-Sensor-204,Analog-to-Digital Converter,0.31,0.31,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Mechanical Components,O2-Sensor-204,Exhaust Clamp,0.56,0.51,0.05,49,O2-Sensor-215,841.47,42.07,REFERENCE FOUND!
+14,O2-Sensor,Mechanical Components,O2-Sensor-204,Bolt,0.25,0.25,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Mechanical Components,O2-Sensor-204,Link Chain,0.44,0.3,0.14,49,O2-Sensor-215,841.47,117.81,REFERENCE FOUND!
+14,O2-Sensor,Raw Material,O2-Sensor-204,Titanium Alloy,0.43,0.43,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Raw Material,O2-Sensor-204,Platinum,0.31,0.31,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Conversion Cost,O2-Sensor-204,Laser Cutting,0.61,0.57,0.04,49,O2-Sensor-215,841.47,33.66,REFERENCE FOUND!
+14,O2-Sensor,Conversion Cost,O2-Sensor-204,Prototype Development,0.4,0.37,0.03,49,O2-Sensor-215,841.47,25.24,REFERENCE FOUND!
+14,O2-Sensor,Conversion Cost,O2-Sensor-204,Order Processing,0.28,0.26,0.02,49,O2-Sensor-215,841.47,16.83,REFERENCE FOUND!
+14,O2-Sensor,Logistic Choice,O2-Sensor-204,Air,0.43,0.43,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Logistic Choice,O2-Sensor-204,X-Ray Inspection,0.29,0.25,0.04,49,O2-Sensor-215,841.47,33.66,REFERENCE FOUND!
+14,O2-Sensor,Logistic Choice,O2-Sensor-204,Load Testing,0.18,0.17,0.01,49,O2-Sensor-215,841.47,8.41,REFERENCE FOUND!
+15,ECU,Electronic Component,ECU-304,RFID Reader,0.51,0.51,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Electronic Component,ECU-304,GPS Module,1.15,1.15,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Electronic Component,ECU-304,Power Amplifier,0.2,0.2,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Mechanical Components,ECU-304,Spring Assembly,0.56,0.42,0.14,50,ECU-316,1149.14,160.88,REFERENCE FOUND!
+15,ECU,Mechanical Components,ECU-304,Screw,0.28,0.28,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Mechanical Components,ECU-304,Linear Actuator,0.4,0.4,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Raw Material,ECU-304,Nylon,0.42,0.4,0.02,50,ECU-316,1149.14,22.98,REFERENCE FOUND!
+15,ECU,Raw Material,ECU-304,Silver,0.37,0.29,0.08,50,ECU-316,1149.14,91.93,REFERENCE FOUND!
+15,ECU,Conversion Cost,ECU-304,Forging,0.65,0.65,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Conversion Cost,ECU-304,Energy Efficiency Testing,0.5,0.41,0.09,50,ECU-316,1149.14,103.42,REFERENCE FOUND!
+15,ECU,Conversion Cost,ECU-304,Material Sourcing,0.38,0.37,0.01,50,ECU-316,1149.14,11.49,REFERENCE FOUND!
+15,ECU,Logistic Choice,ECU-304,Road,0.59,0.45,0.14,44,ECU-314,1149.14,160.88,REFERENCE FOUND!
+15,ECU,Logistic Choice,ECU-304,Tensile Testing,0.19,0.19,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Logistic Choice,ECU-304,Pressure Cycle Testing,0.12,0.12,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+16,ECU,Electronic Component,ECU-305,Solenoid,0.78,0.78,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Electronic Component,ECU-305,Accelerometer,1.11,1.11,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Electronic Component,ECU-305,DC-DC Converter,0.27,0.27,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Mechanical Components,ECU-305,Filter Housing,0.59,0.59,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Mechanical Components,ECU-305,Nut,0.38,0.38,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Mechanical Components,ECU-305,Actuator Rod,0.32,0.32,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Raw Material,ECU-305,Fiberglass,0.45,0.45,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Raw Material,ECU-305,Galvanized Steel,0.38,0.38,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Conversion Cost,ECU-305,Extrusion,0.72,0.72,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Conversion Cost,ECU-305,Operational Efficiency Analysis,0.48,0.48,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Conversion Cost,ECU-305,Supply Network Planning,0.31,0.31,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Logistic Choice,ECU-305,Road,0.56,0.45,0.11,44,ECU-314,544.95,59.94,REFERENCE FOUND!
+16,ECU,Logistic Choice,ECU-305,Hermetic Testing,0.31,0.31,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Logistic Choice,ECU-305,Shock Testing,0.14,0.14,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+17,TPS,Electronic Component,TPS-105,Potentiometer,0.6,0.58,0.02,36,TPS-112,952.01,19.04,REFERENCE FOUND!
+17,TPS,Electronic Component,TPS-105,Microcontroller,1.3,1.01,0.29,26,TPS-108,952.01,276.08,REFERENCE FOUND!
+17,TPS,Electronic Component,TPS-105,Voltage Regulator,0.3,0.22,0.08,1,TPS-100,952.01,76.16,REFERENCE FOUND!
+17,TPS,Mechanical Components,TPS-105,Injection-Molded Plastic Casing,0.54,0.37,0.17,26,TPS-108,952.01,161.84,REFERENCE FOUND!
+17,TPS,Mechanical Components,TPS-105,Brass Contact Pins,0.24,0.24,0.0,17,TPS-105,952.01,0.0,COST REFERENCE
+17,TPS,Mechanical Components,TPS-105,Mounting Clamp,0.34,0.28,0.06,1,TPS-100,952.01,57.12,REFERENCE FOUND!
+17,TPS,Raw Material,TPS-105,ABS Plastic,0.38,0.33,0.05,1,TPS-100,952.01,47.6,REFERENCE FOUND!
+17,TPS,Raw Material,TPS-105,Steel,0.27,0.25,0.02,36,TPS-112,952.01,19.04,REFERENCE FOUND!
+17,TPS,Conversion Cost,TPS-105,Assembly Labor,0.61,0.61,0.0,17,TPS-105,952.01,0.0,COST REFERENCE
+17,TPS,Conversion Cost,TPS-105,Testing and Calibration,0.47,0.39,0.08,1,TPS-100,952.01,76.16,REFERENCE FOUND!
+17,TPS,Conversion Cost,TPS-105,Packaging Labor,0.41,0.33,0.08,26,TPS-108,952.01,76.16,REFERENCE FOUND!
+17,TPS,Logistic Choice,TPS-105,Sea,0.58,0.42,0.16,18,O2-Sensor-205,952.01,152.32,REFERENCE FOUND!
+17,TPS,Logistic Choice,TPS-105,Inspection,0.2,0.2,0.0,17,TPS-105,952.01,0.0,COST REFERENCE
+17,TPS,Logistic Choice,TPS-105,Testing Equipment Depreciation,0.11,0.1,0.01,1,TPS-100,952.01,9.52,REFERENCE FOUND!
+18,O2-Sensor,Electronic Component,O2-Sensor-205,LED,0.79,0.69,0.1,40,O2-Sensor-212,1107.48,110.75,REFERENCE FOUND!
+18,O2-Sensor,Electronic Component,O2-Sensor-205,Relay,1.37,0.83,0.54,40,O2-Sensor-212,1107.48,598.04,REFERENCE FOUND!
+18,O2-Sensor,Electronic Component,O2-Sensor-205,Operational Amplifier,0.23,0.21,0.02,40,O2-Sensor-212,1107.48,22.15,REFERENCE FOUND!
+18,O2-Sensor,Mechanical Components,O2-Sensor-205,Actuator Arm,0.45,0.37,0.08,40,O2-Sensor-212,1107.48,88.6,REFERENCE FOUND!
+18,O2-Sensor,Mechanical Components,O2-Sensor-205,Plastic Knob,0.29,0.24,0.05,5,O2-Sensor-201,1107.48,55.37,REFERENCE FOUND!
+18,O2-Sensor,Mechanical Components,O2-Sensor-205,Cam Follower,0.38,0.36,0.02,40,O2-Sensor-212,1107.48,22.15,REFERENCE FOUND!
+18,O2-Sensor,Raw Material,O2-Sensor-205,Brass,0.43,0.41,0.02,30,O2-Sensor-209,1107.48,22.15,REFERENCE FOUND!
+18,O2-Sensor,Raw Material,O2-Sensor-205,Zinc,0.41,0.3,0.11,40,O2-Sensor-212,1107.48,121.82,REFERENCE FOUND!
+18,O2-Sensor,Conversion Cost,O2-Sensor-205,Electroplating,0.63,0.58,0.05,30,O2-Sensor-209,1107.48,55.37,REFERENCE FOUND!
+18,O2-Sensor,Conversion Cost,O2-Sensor-205,Assembly Line Setup,0.39,0.38,0.01,5,O2-Sensor-201,1107.48,11.07,REFERENCE FOUND!
+18,O2-Sensor,Conversion Cost,O2-Sensor-205,Import Duties,0.4,0.3,0.1,30,O2-Sensor-209,1107.48,110.75,REFERENCE FOUND!
+18,O2-Sensor,Logistic Choice,O2-Sensor-205,Sea,0.42,0.42,0.0,18,O2-Sensor-205,1107.48,0.0,COST REFERENCE
+18,O2-Sensor,Logistic Choice,O2-Sensor-205,Pressure Testing,0.18,0.18,0.0,18,O2-Sensor-205,1107.48,0.0,COST REFERENCE
+18,O2-Sensor,Logistic Choice,O2-Sensor-205,Reliability Testing,0.23,0.11,0.12,40,O2-Sensor-212,1107.48,132.9,REFERENCE FOUND!
+19,TPS,Electronic Component,TPS-106,Resistor,0.71,0.51,0.2,27,O2-Sensor-208,526.74,105.35,REFERENCE FOUND!
+19,TPS,Electronic Component,TPS-106,Pressure Sensor,1.21,1.03,0.18,2,O2-Sensor-200,526.74,94.81,REFERENCE FOUND!
+19,TPS,Electronic Component,TPS-106,Heat Sink,0.26,0.2,0.06,2,O2-Sensor-200,526.74,31.6,REFERENCE FOUND!
+19,TPS,Mechanical Components,TPS-106,Thermal Shielding,0.42,0.37,0.05,2,O2-Sensor-200,526.74,26.34,REFERENCE FOUND!
+19,TPS,Mechanical Components,TPS-106,Spring Clip,0.25,0.25,0.0,19,TPS-106,526.74,0.0,COST REFERENCE
+19,TPS,Mechanical Components,TPS-106,Gear Mechanism,0.39,0.29,0.1,2,O2-Sensor-200,526.74,52.67,REFERENCE FOUND!
+19,TPS,Raw Material,TPS-106,Aluminum,0.35,0.35,0.0,19,TPS-106,526.74,0.0,COST REFERENCE
+19,TPS,Raw Material,TPS-106,Copper,0.34,0.29,0.05,2,O2-Sensor-200,526.74,26.34,REFERENCE FOUND!
+19,TPS,Conversion Cost,TPS-106,Welding Labor,0.72,0.61,0.11,37,O2-Sensor-211,526.74,57.94,REFERENCE FOUND!
+19,TPS,Conversion Cost,TPS-106,Quality Inspection,0.46,0.43,0.03,2,O2-Sensor-200,526.74,15.8,REFERENCE FOUND!
+19,TPS,Conversion Cost,TPS-106,Transportation Handling,0.45,0.35,0.1,37,O2-Sensor-211,526.74,52.67,REFERENCE FOUND!
+19,TPS,Logistic Choice,TPS-106,Air,0.45,0.43,0.02,14,O2-Sensor-204,526.74,10.53,REFERENCE FOUND!
+19,TPS,Logistic Choice,TPS-106,Functionality Test,0.21,0.21,0.0,19,TPS-106,526.74,0.0,COST REFERENCE
+19,TPS,Logistic Choice,TPS-106,Environmental Stress Screening,0.17,0.1,0.07,2,O2-Sensor-200,526.74,36.87,REFERENCE FOUND!
+20,O2-Sensor,Electronic Component,O2-Sensor-206,Capacitor,0.55,0.51,0.04,28,ECU-309,777.99,31.12,REFERENCE FOUND!
+20,O2-Sensor,Electronic Component,O2-Sensor-206,Transistor,1.03,0.96,0.07,38,ECU-312,777.99,54.46,REFERENCE FOUND!
+20,O2-Sensor,Electronic Component,O2-Sensor-206,Diode,0.24,0.24,0.0,20,O2-Sensor-206,777.99,0.0,COST REFERENCE
+20,O2-Sensor,Mechanical Components,O2-Sensor-206,Mounting Bracket,0.56,0.37,0.19,28,ECU-309,777.99,147.82,REFERENCE FOUND!
+20,O2-Sensor,Mechanical Components,O2-Sensor-206,Connector Housing,0.36,0.26,0.1,28,ECU-309,777.99,77.8,REFERENCE FOUND!
+20,O2-Sensor,Mechanical Components,O2-Sensor-206,Adjustable Lever,0.45,0.34,0.11,38,ECU-312,777.99,85.58,REFERENCE FOUND!
+20,O2-Sensor,Raw Material,O2-Sensor-206,Stainless Steel,0.42,0.42,0.0,20,O2-Sensor-206,777.99,0.0,COST REFERENCE
+20,O2-Sensor,Raw Material,O2-Sensor-206,Nickel,0.27,0.27,0.0,3,ECU-300,777.99,0.0,COST REFERENCE
+20,O2-Sensor,Conversion Cost,O2-Sensor-206,Circuit Board Assembly,0.59,0.59,0.0,20,O2-Sensor-206,777.99,0.0,COST REFERENCE
+20,O2-Sensor,Conversion Cost,O2-Sensor-206,Machine Calibration,0.43,0.35,0.08,3,ECU-300,777.99,62.24,REFERENCE FOUND!
+20,O2-Sensor,Conversion Cost,O2-Sensor-206,Handling and Storage,0.27,0.27,0.0,3,ECU-300,777.99,0.0,COST REFERENCE
+20,O2-Sensor,Logistic Choice,O2-Sensor-206,Sea,0.61,0.42,0.19,18,O2-Sensor-205,777.99,147.82,REFERENCE FOUND!
+20,O2-Sensor,Logistic Choice,O2-Sensor-206,Dimensional Inspection,0.26,0.22,0.04,3,ECU-300,777.99,31.12,REFERENCE FOUND!
+20,O2-Sensor,Logistic Choice,O2-Sensor-206,Life Cycle Testing,0.17,0.17,0.0,3,ECU-300,777.99,0.0,COST REFERENCE
+21,ECU,Electronic Component,ECU-306,Thermistor,0.47,0.47,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+21,ECU,Electronic Component,ECU-306,Temperature Sensor,0.96,0.86,0.1,29,TPS-109,1126.3,112.63,REFERENCE FOUND!
+21,ECU,Electronic Component,ECU-306,Amplifier,0.28,0.24,0.04,4,TPS-101,1126.3,45.05,REFERENCE FOUND!
+21,ECU,Mechanical Components,ECU-306,Rubber Seal,0.48,0.48,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+21,ECU,Mechanical Components,ECU-306,Copper Wire,0.24,0.24,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+21,ECU,Mechanical Components,ECU-306,Rotary Shaft,0.28,0.28,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+21,ECU,Raw Material,ECU-306,Silicone Rubber,0.43,0.35,0.08,39,TPS-113,1126.3,90.1,REFERENCE FOUND!
+21,ECU,Raw Material,ECU-306,Titanium,0.3,0.28,0.02,4,TPS-101,1126.3,22.53,REFERENCE FOUND!
+21,ECU,Conversion Cost,ECU-306,Surface Treatment,0.74,0.59,0.15,4,TPS-101,1126.3,168.94,REFERENCE FOUND!
+21,ECU,Conversion Cost,ECU-306,Electronic Testing,0.37,0.35,0.02,39,TPS-113,1126.3,22.53,REFERENCE FOUND!
+21,ECU,Conversion Cost,ECU-306,Inventory Management,0.28,0.28,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+21,ECU,Logistic Choice,ECU-306,Road,0.51,0.45,0.06,44,ECU-314,1126.3,67.58,REFERENCE FOUND!
+21,ECU,Logistic Choice,ECU-306,Material Analysis,0.26,0.17,0.09,39,TPS-113,1126.3,101.37,REFERENCE FOUND!
+21,ECU,Logistic Choice,ECU-306,Vibration Analysis,0.18,0.18,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+22,O2-Sensor,Electronic Component,O2-Sensor-207,Diode,0.69,0.24,0.45,20,O2-Sensor-206,744.2,334.89,REFERENCE FOUND!
+22,O2-Sensor,Electronic Component,O2-Sensor-207,Inductor,0.93,0.93,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+22,O2-Sensor,Electronic Component,O2-Sensor-207,Crystal Oscillator,0.21,0.21,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+22,O2-Sensor,Mechanical Components,O2-Sensor-207,Connector Body,0.37,0.37,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+22,O2-Sensor,Mechanical Components,O2-Sensor-207,Steel Rod,0.32,0.28,0.04,6,ECU-301,744.2,29.77,REFERENCE FOUND!
+22,O2-Sensor,Mechanical Components,O2-Sensor-207,Linkage Assembly,0.39,0.35,0.04,6,ECU-301,744.2,29.77,REFERENCE FOUND!
+22,O2-Sensor,Raw Material,O2-Sensor-207,Glass,0.39,0.33,0.06,31,ECU-310,744.2,44.65,REFERENCE FOUND!
+22,O2-Sensor,Raw Material,O2-Sensor-207,Graphite,0.31,0.31,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+22,O2-Sensor,Conversion Cost,O2-Sensor-207,Molding,0.66,0.64,0.02,31,ECU-310,744.2,14.88,REFERENCE FOUND!
+22,O2-Sensor,Conversion Cost,O2-Sensor-207,Equipment Maintenance,0.4,0.37,0.03,41,ECU-313,744.2,22.33,REFERENCE FOUND!
+22,O2-Sensor,Conversion Cost,O2-Sensor-207,Export Processing,0.44,0.29,0.15,41,ECU-313,744.2,111.63,REFERENCE FOUND!
+22,O2-Sensor,Logistic Choice,O2-Sensor-207,Air,0.58,0.43,0.15,14,O2-Sensor-204,744.2,111.63,REFERENCE FOUND!
+22,O2-Sensor,Logistic Choice,O2-Sensor-207,Electrical Testing,0.25,0.25,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+22,O2-Sensor,Logistic Choice,O2-Sensor-207,Wear Testing,0.16,0.16,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+23,ECU,Electronic Component,ECU-307,Integrated Circuit,0.47,0.47,0.0,23,ECU-307,774.93,0.0,COST REFERENCE
+23,ECU,Electronic Component,ECU-307,Piezoelectric Sensor,1.07,0.99,0.08,7,TPS-102,774.93,61.99,REFERENCE FOUND!
+23,ECU,Electronic Component,ECU-307,Filter,0.36,0.21,0.15,7,TPS-102,774.93,116.24,REFERENCE FOUND!
+23,ECU,Mechanical Components,ECU-307,Valve Body,0.45,0.43,0.02,32,TPS-110,774.93,15.5,REFERENCE FOUND!
+23,ECU,Mechanical Components,ECU-307,Ceramic Disc,0.33,0.28,0.05,42,TPS-114,774.93,38.75,REFERENCE FOUND!
+23,ECU,Mechanical Components,ECU-307,Control Arm,0.34,0.34,0.0,23,ECU-307,774.93,0.0,COST REFERENCE
+23,ECU,Raw Material,ECU-307,Rubber,0.41,0.35,0.06,42,TPS-114,774.93,46.5,REFERENCE FOUND!
+23,ECU,Raw Material,ECU-307,Lead,0.39,0.27,0.12,42,TPS-114,774.93,92.99,REFERENCE FOUND!
+23,ECU,Conversion Cost,ECU-307,Coating Application,0.7,0.61,0.09,32,TPS-110,774.93,69.74,REFERENCE FOUND!
+23,ECU,Conversion Cost,ECU-307,Worker Training,0.44,0.41,0.03,32,TPS-110,774.93,23.25,REFERENCE FOUND!
+23,ECU,Conversion Cost,ECU-307,Customs Clearance,0.36,0.33,0.03,42,TPS-114,774.93,23.25,REFERENCE FOUND!
+23,ECU,Logistic Choice,ECU-307,Sea,0.53,0.42,0.11,18,O2-Sensor-205,774.93,85.24,REFERENCE FOUND!
+23,ECU,Logistic Choice,ECU-307,Chemical Analysis,0.17,0.17,0.0,23,ECU-307,774.93,0.0,COST REFERENCE
+23,ECU,Logistic Choice,ECU-307,Endurance Testing,0.27,0.17,0.1,7,TPS-102,774.93,77.49,REFERENCE FOUND!
+24,TPS,Electronic Component,TPS-107,Fuse,0.52,0.49,0.03,43,O2-Sensor-213,805.95,24.18,REFERENCE FOUND!
+24,TPS,Electronic Component,TPS-107,Servo Motor,1.03,1.03,0.0,24,TPS-107,805.95,0.0,COST REFERENCE
+24,TPS,Electronic Component,TPS-107,Rectifier,0.21,0.21,0.0,24,TPS-107,805.95,0.0,COST REFERENCE
+24,TPS,Mechanical Components,TPS-107,Heat Sink,0.48,0.2,0.28,2,O2-Sensor-200,805.95,225.67,REFERENCE FOUND!
+24,TPS,Mechanical Components,TPS-107,Metal Clip,0.26,0.26,0.0,24,TPS-107,805.95,0.0,COST REFERENCE
+24,TPS,Mechanical Components,TPS-107,Bushing Assembly,0.41,0.4,0.01,33,O2-Sensor-210,805.95,8.06,REFERENCE FOUND!
+24,TPS,Raw Material,TPS-107,Carbon Fiber,0.44,0.4,0.04,33,O2-Sensor-210,805.95,32.24,REFERENCE FOUND!
+24,TPS,Raw Material,TPS-107,Iron,0.26,0.26,0.0,24,TPS-107,805.95,0.0,COST REFERENCE
+24,TPS,Conversion Cost,TPS-107,Heat Treatment,0.71,0.66,0.05,43,O2-Sensor-213,805.95,40.3,REFERENCE FOUND!
+24,TPS,Conversion Cost,TPS-107,Safety Testing,0.49,0.45,0.04,33,O2-Sensor-210,805.95,32.24,REFERENCE FOUND!
+24,TPS,Conversion Cost,TPS-107,Quality Assurance,0.47,0.31,0.16,8,O2-Sensor-202,805.95,128.95,REFERENCE FOUND!
+24,TPS,Logistic Choice,TPS-107,Road,0.54,0.45,0.09,44,ECU-314,805.95,72.54,REFERENCE FOUND!
+24,TPS,Logistic Choice,TPS-107,Torque Testing,0.22,0.19,0.03,8,O2-Sensor-202,805.95,24.18,REFERENCE FOUND!
+24,TPS,Logistic Choice,TPS-107,Non-Destructive Testing,0.13,0.13,0.0,8,O2-Sensor-202,805.95,0.0,COST REFERENCE
+25,ECU,Electronic Component,ECU-308,Voltage Regulator,0.63,0.22,0.41,1,TPS-100,959.95,393.58,REFERENCE FOUND!
+25,ECU,Electronic Component,ECU-308,Optocoupler,1.28,0.98,0.3,44,ECU-314,959.95,287.99,REFERENCE FOUND!
+25,ECU,Electronic Component,ECU-308,Power Supply,0.31,0.2,0.11,9,ECU-302,959.95,105.59,REFERENCE FOUND!
+25,ECU,Mechanical Components,ECU-308,Piston,0.39,0.39,0.0,25,ECU-308,959.95,0.0,COST REFERENCE
+25,ECU,Mechanical Components,ECU-308,Wire Harness,0.38,0.31,0.07,44,ECU-314,959.95,67.2,REFERENCE FOUND!
+25,ECU,Mechanical Components,ECU-308,Pivot Point,0.36,0.34,0.02,9,ECU-302,959.95,19.2,REFERENCE FOUND!
+25,ECU,Raw Material,ECU-308,Polycarbonate,0.41,0.39,0.02,9,ECU-302,959.95,19.2,REFERENCE FOUND!
+25,ECU,Raw Material,ECU-308,Alloy Steel,0.42,0.35,0.07,44,ECU-314,959.95,67.2,REFERENCE FOUND!
+25,ECU,Conversion Cost,ECU-308,Polishing,0.61,0.61,0.0,25,ECU-308,959.95,0.0,COST REFERENCE
+25,ECU,Conversion Cost,ECU-308,Process Optimization,0.44,0.38,0.06,9,ECU-302,959.95,57.6,REFERENCE FOUND!
+25,ECU,Conversion Cost,ECU-308,Supply Chain Management,0.46,0.27,0.19,34,ECU-311,959.95,182.39,REFERENCE FOUND!
+25,ECU,Logistic Choice,ECU-308,Air,0.61,0.43,0.18,14,O2-Sensor-204,959.95,172.79,REFERENCE FOUND!
+25,ECU,Logistic Choice,ECU-308,Leak Testing,0.16,0.15,0.01,9,ECU-302,959.95,9.6,REFERENCE FOUND!
+25,ECU,Logistic Choice,ECU-308,Durability Testing,0.28,0.11,0.17,34,ECU-311,959.95,163.19,REFERENCE FOUND!
+26,TPS,Electronic Component,TPS-108,Potentiometer,0.68,0.58,0.1,36,TPS-112,1109.1,110.91,REFERENCE FOUND!
+26,TPS,Electronic Component,TPS-108,Microcontroller,1.01,1.01,0.0,26,TPS-108,1109.1,0.0,COST REFERENCE
+26,TPS,Electronic Component,TPS-108,Voltage Regulator,0.29,0.22,0.07,1,TPS-100,1109.1,77.64,REFERENCE FOUND!
+26,TPS,Mechanical Components,TPS-108,Injection-Molded Plastic Casing,0.37,0.37,0.0,26,TPS-108,1109.1,0.0,COST REFERENCE
+26,TPS,Mechanical Components,TPS-108,Brass Contact Pins,0.27,0.24,0.03,17,TPS-105,1109.1,33.27,REFERENCE FOUND!
+26,TPS,Mechanical Components,TPS-108,Mounting Clamp,0.29,0.28,0.01,1,TPS-100,1109.1,11.09,REFERENCE FOUND!
+26,TPS,Raw Material,TPS-108,ABS Plastic,0.35,0.33,0.02,1,TPS-100,1109.1,22.18,REFERENCE FOUND!
+26,TPS,Raw Material,TPS-108,Steel,0.42,0.25,0.17,36,TPS-112,1109.1,188.55,REFERENCE FOUND!
+26,TPS,Conversion Cost,TPS-108,Assembly Labor,0.7,0.61,0.09,17,TPS-105,1109.1,99.82,REFERENCE FOUND!
+26,TPS,Conversion Cost,TPS-108,Testing and Calibration,0.43,0.39,0.04,1,TPS-100,1109.1,44.36,REFERENCE FOUND!
+26,TPS,Conversion Cost,TPS-108,Packaging Labor,0.33,0.33,0.0,26,TPS-108,1109.1,0.0,COST REFERENCE
+26,TPS,Logistic Choice,TPS-108,Sea,0.46,0.42,0.04,18,O2-Sensor-205,1109.1,44.36,REFERENCE FOUND!
+26,TPS,Logistic Choice,TPS-108,Inspection,0.24,0.2,0.04,17,TPS-105,1109.1,44.36,REFERENCE FOUND!
+26,TPS,Logistic Choice,TPS-108,Testing Equipment Depreciation,0.18,0.1,0.08,1,TPS-100,1109.1,88.73,REFERENCE FOUND!
+27,O2-Sensor,Electronic Component,O2-Sensor-208,Resistor,0.51,0.51,0.0,27,O2-Sensor-208,543.63,0.0,COST REFERENCE
+27,O2-Sensor,Electronic Component,O2-Sensor-208,Pressure Sensor,1.58,1.03,0.55,2,O2-Sensor-200,543.63,299.0,REFERENCE FOUND!
+27,O2-Sensor,Electronic Component,O2-Sensor-208,Heat Sink,0.35,0.2,0.15,2,O2-Sensor-200,543.63,81.54,REFERENCE FOUND!
+27,O2-Sensor,Mechanical Components,O2-Sensor-208,Thermal Shielding,0.47,0.37,0.1,2,O2-Sensor-200,543.63,54.36,REFERENCE FOUND!
+27,O2-Sensor,Mechanical Components,O2-Sensor-208,Spring Clip,0.35,0.25,0.1,19,TPS-106,543.63,54.36,REFERENCE FOUND!
+27,O2-Sensor,Mechanical Components,O2-Sensor-208,Gear Mechanism,0.32,0.29,0.03,2,O2-Sensor-200,543.63,16.31,REFERENCE FOUND!
+27,O2-Sensor,Raw Material,O2-Sensor-208,Aluminum,0.48,0.35,0.13,19,TPS-106,543.63,70.67,REFERENCE FOUND!
+27,O2-Sensor,Raw Material,O2-Sensor-208,Copper,0.4,0.29,0.11,2,O2-Sensor-200,543.63,59.8,REFERENCE FOUND!
+27,O2-Sensor,Conversion Cost,O2-Sensor-208,Welding Labor,0.65,0.61,0.04,37,O2-Sensor-211,543.63,21.75,REFERENCE FOUND!
+27,O2-Sensor,Conversion Cost,O2-Sensor-208,Quality Inspection,0.52,0.43,0.09,2,O2-Sensor-200,543.63,48.93,REFERENCE FOUND!
+27,O2-Sensor,Conversion Cost,O2-Sensor-208,Transportation Handling,0.4,0.35,0.05,37,O2-Sensor-211,543.63,27.18,REFERENCE FOUND!
+27,O2-Sensor,Logistic Choice,O2-Sensor-208,Road,0.48,0.45,0.03,44,ECU-314,543.63,16.31,REFERENCE FOUND!
+27,O2-Sensor,Logistic Choice,O2-Sensor-208,Functionality Test,0.26,0.21,0.05,19,TPS-106,543.63,27.18,REFERENCE FOUND!
+27,O2-Sensor,Logistic Choice,O2-Sensor-208,Environmental Stress Screening,0.11,0.1,0.01,2,O2-Sensor-200,543.63,5.44,REFERENCE FOUND!
+28,ECU,Electronic Component,ECU-309,Capacitor,0.51,0.51,0.0,28,ECU-309,1199.68,0.0,COST REFERENCE
+28,ECU,Electronic Component,ECU-309,Transistor,1.47,0.96,0.51,38,ECU-312,1199.68,611.84,REFERENCE FOUND!
+28,ECU,Electronic Component,ECU-309,Diode,0.35,0.24,0.11,20,O2-Sensor-206,1199.68,131.96,REFERENCE FOUND!
+28,ECU,Mechanical Components,ECU-309,Mounting Bracket,0.37,0.37,0.0,28,ECU-309,1199.68,0.0,COST REFERENCE
+28,ECU,Mechanical Components,ECU-309,Connector Housing,0.26,0.26,0.0,28,ECU-309,1199.68,0.0,COST REFERENCE
+28,ECU,Mechanical Components,ECU-309,Adjustable Lever,0.47,0.34,0.13,38,ECU-312,1199.68,155.96,REFERENCE FOUND!
+28,ECU,Raw Material,ECU-309,Stainless Steel,0.46,0.42,0.04,20,O2-Sensor-206,1199.68,47.99,REFERENCE FOUND!
+28,ECU,Raw Material,ECU-309,Nickel,0.39,0.27,0.12,3,ECU-300,1199.68,143.96,REFERENCE FOUND!
+28,ECU,Conversion Cost,ECU-309,Circuit Board Assembly,0.66,0.59,0.07,20,O2-Sensor-206,1199.68,83.98,REFERENCE FOUND!
+28,ECU,Conversion Cost,ECU-309,Machine Calibration,0.5,0.35,0.15,3,ECU-300,1199.68,179.95,REFERENCE FOUND!
+28,ECU,Conversion Cost,ECU-309,Handling and Storage,0.33,0.27,0.06,3,ECU-300,1199.68,71.98,REFERENCE FOUND!
+28,ECU,Logistic Choice,ECU-309,Sea,0.42,0.42,0.0,18,O2-Sensor-205,1199.68,0.0,COST REFERENCE
+28,ECU,Logistic Choice,ECU-309,Dimensional Inspection,0.29,0.22,0.07,3,ECU-300,1199.68,83.98,REFERENCE FOUND!
+28,ECU,Logistic Choice,ECU-309,Life Cycle Testing,0.26,0.17,0.09,3,ECU-300,1199.68,107.97,REFERENCE FOUND!
+29,TPS,Electronic Component,TPS-109,Thermistor,0.64,0.47,0.17,21,ECU-306,613.28,104.26,REFERENCE FOUND!
+29,TPS,Electronic Component,TPS-109,Temperature Sensor,0.86,0.86,0.0,29,TPS-109,613.28,0.0,COST REFERENCE
+29,TPS,Electronic Component,TPS-109,Amplifier,0.28,0.24,0.04,4,TPS-101,613.28,24.53,REFERENCE FOUND!
+29,TPS,Mechanical Components,TPS-109,Rubber Seal,0.56,0.48,0.08,21,ECU-306,613.28,49.06,REFERENCE FOUND!
+29,TPS,Mechanical Components,TPS-109,Copper Wire,0.3,0.24,0.06,21,ECU-306,613.28,36.8,REFERENCE FOUND!
+29,TPS,Mechanical Components,TPS-109,Rotary Shaft,0.43,0.28,0.15,21,ECU-306,613.28,91.99,REFERENCE FOUND!
+29,TPS,Raw Material,TPS-109,Silicone Rubber,0.37,0.35,0.02,39,TPS-113,613.28,12.27,REFERENCE FOUND!
+29,TPS,Raw Material,TPS-109,Titanium,0.39,0.28,0.11,4,TPS-101,613.28,67.46,REFERENCE FOUND!
+29,TPS,Conversion Cost,TPS-109,Surface Treatment,0.62,0.59,0.03,4,TPS-101,613.28,18.4,REFERENCE FOUND!
+29,TPS,Conversion Cost,TPS-109,Electronic Testing,0.55,0.35,0.2,39,TPS-113,613.28,122.66,REFERENCE FOUND!
+29,TPS,Conversion Cost,TPS-109,Inventory Management,0.31,0.28,0.03,21,ECU-306,613.28,18.4,REFERENCE FOUND!
+29,TPS,Logistic Choice,TPS-109,Air,0.62,0.43,0.19,14,O2-Sensor-204,613.28,116.52,REFERENCE FOUND!
+29,TPS,Logistic Choice,TPS-109,Material Analysis,0.31,0.17,0.14,39,TPS-113,613.28,85.86,REFERENCE FOUND!
+29,TPS,Logistic Choice,TPS-109,Vibration Analysis,0.22,0.18,0.04,21,ECU-306,613.28,24.53,REFERENCE FOUND!
+30,O2-Sensor,Electronic Component,O2-Sensor-209,LED,0.74,0.69,0.05,40,O2-Sensor-212,727.6,36.38,REFERENCE FOUND!
+30,O2-Sensor,Electronic Component,O2-Sensor-209,Relay,0.92,0.83,0.09,40,O2-Sensor-212,727.6,65.48,REFERENCE FOUND!
+30,O2-Sensor,Electronic Component,O2-Sensor-209,Operational Amplifier,0.26,0.21,0.05,40,O2-Sensor-212,727.6,36.38,REFERENCE FOUND!
+30,O2-Sensor,Mechanical Components,O2-Sensor-209,Actuator Arm,0.53,0.37,0.16,40,O2-Sensor-212,727.6,116.42,REFERENCE FOUND!
+30,O2-Sensor,Mechanical Components,O2-Sensor-209,Plastic Knob,0.26,0.24,0.02,5,O2-Sensor-201,727.6,14.55,REFERENCE FOUND!
+30,O2-Sensor,Mechanical Components,O2-Sensor-209,Cam Follower,0.47,0.36,0.11,40,O2-Sensor-212,727.6,80.04,REFERENCE FOUND!
+30,O2-Sensor,Raw Material,O2-Sensor-209,Brass,0.41,0.41,0.0,30,O2-Sensor-209,727.6,0.0,COST REFERENCE
+30,O2-Sensor,Raw Material,O2-Sensor-209,Zinc,0.35,0.3,0.05,40,O2-Sensor-212,727.6,36.38,REFERENCE FOUND!
+30,O2-Sensor,Conversion Cost,O2-Sensor-209,Electroplating,0.58,0.58,0.0,30,O2-Sensor-209,727.6,0.0,COST REFERENCE
+30,O2-Sensor,Conversion Cost,O2-Sensor-209,Assembly Line Setup,0.51,0.38,0.13,5,O2-Sensor-201,727.6,94.59,REFERENCE FOUND!
+30,O2-Sensor,Conversion Cost,O2-Sensor-209,Import Duties,0.3,0.3,0.0,30,O2-Sensor-209,727.6,0.0,COST REFERENCE
+30,O2-Sensor,Logistic Choice,O2-Sensor-209,Road,0.47,0.45,0.02,44,ECU-314,727.6,14.55,REFERENCE FOUND!
+30,O2-Sensor,Logistic Choice,O2-Sensor-209,Pressure Testing,0.21,0.18,0.03,18,O2-Sensor-205,727.6,21.83,REFERENCE FOUND!
+30,O2-Sensor,Logistic Choice,O2-Sensor-209,Reliability Testing,0.13,0.11,0.02,40,O2-Sensor-212,727.6,14.55,REFERENCE FOUND!
+31,ECU,Electronic Component,ECU-310,Diode,0.72,0.24,0.48,20,O2-Sensor-206,598.09,287.08,REFERENCE FOUND!
+31,ECU,Electronic Component,ECU-310,Inductor,1.46,0.93,0.53,22,O2-Sensor-207,598.09,316.99,REFERENCE FOUND!
+31,ECU,Electronic Component,ECU-310,Crystal Oscillator,0.29,0.21,0.08,22,O2-Sensor-207,598.09,47.85,REFERENCE FOUND!
+31,ECU,Mechanical Components,ECU-310,Connector Body,0.57,0.37,0.2,22,O2-Sensor-207,598.09,119.62,REFERENCE FOUND!
+31,ECU,Mechanical Components,ECU-310,Steel Rod,0.36,0.28,0.08,6,ECU-301,598.09,47.85,REFERENCE FOUND!
+31,ECU,Mechanical Components,ECU-310,Linkage Assembly,0.38,0.35,0.03,6,ECU-301,598.09,17.94,REFERENCE FOUND!
+31,ECU,Raw Material,ECU-310,Glass,0.33,0.33,0.0,31,ECU-310,598.09,0.0,COST REFERENCE
+31,ECU,Raw Material,ECU-310,Graphite,0.35,0.31,0.04,22,O2-Sensor-207,598.09,23.92,REFERENCE FOUND!
+31,ECU,Conversion Cost,ECU-310,Molding,0.64,0.64,0.0,31,ECU-310,598.09,0.0,COST REFERENCE
+31,ECU,Conversion Cost,ECU-310,Equipment Maintenance,0.54,0.37,0.17,41,ECU-313,598.09,101.68,REFERENCE FOUND!
+31,ECU,Conversion Cost,ECU-310,Export Processing,0.38,0.29,0.09,41,ECU-313,598.09,53.83,REFERENCE FOUND!
+31,ECU,Logistic Choice,ECU-310,Air,0.45,0.43,0.02,14,O2-Sensor-204,598.09,11.96,REFERENCE FOUND!
+31,ECU,Logistic Choice,ECU-310,Electrical Testing,0.29,0.25,0.04,22,O2-Sensor-207,598.09,23.92,REFERENCE FOUND!
+31,ECU,Logistic Choice,ECU-310,Wear Testing,0.22,0.16,0.06,22,O2-Sensor-207,598.09,35.89,REFERENCE FOUND!
+32,TPS,Electronic Component,TPS-110,Integrated Circuit,0.74,0.47,0.27,23,ECU-307,718.0,193.86,REFERENCE FOUND!
+32,TPS,Electronic Component,TPS-110,Piezoelectric Sensor,1.06,0.99,0.07,7,TPS-102,718.0,50.26,REFERENCE FOUND!
+32,TPS,Electronic Component,TPS-110,Filter,0.28,0.21,0.07,7,TPS-102,718.0,50.26,REFERENCE FOUND!
+32,TPS,Mechanical Components,TPS-110,Valve Body,0.43,0.43,0.0,32,TPS-110,718.0,0.0,COST REFERENCE
+32,TPS,Mechanical Components,TPS-110,Ceramic Disc,0.37,0.28,0.09,42,TPS-114,718.0,64.62,REFERENCE FOUND!
+32,TPS,Mechanical Components,TPS-110,Control Arm,0.39,0.34,0.05,23,ECU-307,718.0,35.9,REFERENCE FOUND!
+32,TPS,Raw Material,TPS-110,Rubber,0.48,0.35,0.13,42,TPS-114,718.0,93.34,REFERENCE FOUND!
+32,TPS,Raw Material,TPS-110,Lead,0.34,0.27,0.07,42,TPS-114,718.0,50.26,REFERENCE FOUND!
+32,TPS,Conversion Cost,TPS-110,Coating Application,0.61,0.61,0.0,32,TPS-110,718.0,0.0,COST REFERENCE
+32,TPS,Conversion Cost,TPS-110,Worker Training,0.41,0.41,0.0,32,TPS-110,718.0,0.0,COST REFERENCE
+32,TPS,Conversion Cost,TPS-110,Customs Clearance,0.35,0.33,0.02,42,TPS-114,718.0,14.36,REFERENCE FOUND!
+32,TPS,Logistic Choice,TPS-110,Sea,0.6,0.42,0.18,18,O2-Sensor-205,718.0,129.24,REFERENCE FOUND!
+32,TPS,Logistic Choice,TPS-110,Chemical Analysis,0.23,0.17,0.06,23,ECU-307,718.0,43.08,REFERENCE FOUND!
+32,TPS,Logistic Choice,TPS-110,Endurance Testing,0.18,0.17,0.01,7,TPS-102,718.0,7.18,REFERENCE FOUND!
+33,O2-Sensor,Electronic Component,O2-Sensor-210,Fuse,0.61,0.49,0.12,43,O2-Sensor-213,916.9,110.03,REFERENCE FOUND!
+33,O2-Sensor,Electronic Component,O2-Sensor-210,Servo Motor,1.08,1.03,0.05,24,TPS-107,916.9,45.84,REFERENCE FOUND!
+33,O2-Sensor,Electronic Component,O2-Sensor-210,Rectifier,0.23,0.21,0.02,24,TPS-107,916.9,18.34,REFERENCE FOUND!
+33,O2-Sensor,Mechanical Components,O2-Sensor-210,Heat Sink,0.44,0.2,0.24,2,O2-Sensor-200,916.9,220.06,REFERENCE FOUND!
+33,O2-Sensor,Mechanical Components,O2-Sensor-210,Metal Clip,0.36,0.26,0.1,24,TPS-107,916.9,91.69,REFERENCE FOUND!
+33,O2-Sensor,Mechanical Components,O2-Sensor-210,Bushing Assembly,0.4,0.4,0.0,33,O2-Sensor-210,916.9,0.0,COST REFERENCE
+33,O2-Sensor,Raw Material,O2-Sensor-210,Carbon Fiber,0.4,0.4,0.0,33,O2-Sensor-210,916.9,0.0,COST REFERENCE
+33,O2-Sensor,Raw Material,O2-Sensor-210,Iron,0.28,0.26,0.02,24,TPS-107,916.9,18.34,REFERENCE FOUND!
+33,O2-Sensor,Conversion Cost,O2-Sensor-210,Heat Treatment,0.73,0.66,0.07,43,O2-Sensor-213,916.9,64.18,REFERENCE FOUND!
+33,O2-Sensor,Conversion Cost,O2-Sensor-210,Safety Testing,0.45,0.45,0.0,33,O2-Sensor-210,916.9,0.0,COST REFERENCE
+33,O2-Sensor,Conversion Cost,O2-Sensor-210,Quality Assurance,0.41,0.31,0.1,8,O2-Sensor-202,916.9,91.69,REFERENCE FOUND!
+33,O2-Sensor,Logistic Choice,O2-Sensor-210,Road,0.62,0.45,0.17,44,ECU-314,916.9,155.87,REFERENCE FOUND!
+33,O2-Sensor,Logistic Choice,O2-Sensor-210,Torque Testing,0.29,0.19,0.1,8,O2-Sensor-202,916.9,91.69,REFERENCE FOUND!
+33,O2-Sensor,Logistic Choice,O2-Sensor-210,Non-Destructive Testing,0.13,0.13,0.0,8,O2-Sensor-202,916.9,0.0,COST REFERENCE
+34,ECU,Electronic Component,ECU-311,Voltage Regulator,0.62,0.22,0.4,1,TPS-100,823.86,329.54,REFERENCE FOUND!
+34,ECU,Electronic Component,ECU-311,Optocoupler,1.59,0.98,0.61,44,ECU-314,823.86,502.55,REFERENCE FOUND!
+34,ECU,Electronic Component,ECU-311,Power Supply,0.32,0.2,0.12,9,ECU-302,823.86,98.86,REFERENCE FOUND!
+34,ECU,Mechanical Components,ECU-311,Piston,0.4,0.39,0.01,25,ECU-308,823.86,8.24,REFERENCE FOUND!
+34,ECU,Mechanical Components,ECU-311,Wire Harness,0.35,0.31,0.04,44,ECU-314,823.86,32.95,REFERENCE FOUND!
+34,ECU,Mechanical Components,ECU-311,Pivot Point,0.39,0.34,0.05,9,ECU-302,823.86,41.19,REFERENCE FOUND!
+34,ECU,Raw Material,ECU-311,Polycarbonate,0.46,0.39,0.07,9,ECU-302,823.86,57.67,REFERENCE FOUND!
+34,ECU,Raw Material,ECU-311,Alloy Steel,0.41,0.35,0.06,44,ECU-314,823.86,49.43,REFERENCE FOUND!
+34,ECU,Conversion Cost,ECU-311,Polishing,0.63,0.61,0.02,25,ECU-308,823.86,16.48,REFERENCE FOUND!
+34,ECU,Conversion Cost,ECU-311,Process Optimization,0.46,0.38,0.08,9,ECU-302,823.86,65.91,REFERENCE FOUND!
+34,ECU,Conversion Cost,ECU-311,Supply Chain Management,0.27,0.27,0.0,34,ECU-311,823.86,0.0,COST REFERENCE
+34,ECU,Logistic Choice,ECU-311,Air,0.6,0.43,0.17,14,O2-Sensor-204,823.86,140.06,REFERENCE FOUND!
+34,ECU,Logistic Choice,ECU-311,Leak Testing,0.21,0.15,0.06,9,ECU-302,823.86,49.43,REFERENCE FOUND!
+34,ECU,Logistic Choice,ECU-311,Durability Testing,0.11,0.11,0.0,34,ECU-311,823.86,0.0,COST REFERENCE
+35,TPS,Electronic Component,TPS-111,Oscillator,0.77,0.48,0.29,45,TPS-115,626.0,181.54,REFERENCE FOUND!
+35,TPS,Electronic Component,TPS-111,Magnetic Sensor,1.03,0.73,0.3,45,TPS-115,626.0,187.8,REFERENCE FOUND!
+35,TPS,Electronic Component,TPS-111,Charge Controller,0.3,0.29,0.01,10,TPS-103,626.0,6.26,REFERENCE FOUND!
+35,TPS,Mechanical Components,TPS-111,Gasket,0.44,0.44,0.0,35,TPS-111,626.0,0.0,COST REFERENCE
+35,TPS,Mechanical Components,TPS-111,Spring,0.29,0.27,0.02,45,TPS-115,626.0,12.52,REFERENCE FOUND!
+35,TPS,Mechanical Components,TPS-111,Slider Mechanism,0.33,0.33,0.0,10,TPS-103,626.0,0.0,COST REFERENCE
+35,TPS,Raw Material,TPS-111,Teflon,0.43,0.41,0.02,10,TPS-103,626.0,12.52,REFERENCE FOUND!
+35,TPS,Raw Material,TPS-111,Magnesium,0.36,0.34,0.02,10,TPS-103,626.0,12.52,REFERENCE FOUND!
+35,TPS,Conversion Cost,TPS-111,Annealing,0.72,0.58,0.14,45,TPS-115,626.0,87.64,REFERENCE FOUND!
+35,TPS,Conversion Cost,TPS-111,Product Certification,0.5,0.42,0.08,10,TPS-103,626.0,50.08,REFERENCE FOUND!
+35,TPS,Conversion Cost,TPS-111,Logistics Coordination,0.27,0.27,0.0,35,TPS-111,626.0,0.0,COST REFERENCE
+35,TPS,Logistic Choice,TPS-111,Sea,0.61,0.42,0.19,18,O2-Sensor-205,626.0,118.94,REFERENCE FOUND!
+35,TPS,Logistic Choice,TPS-111,Acoustic Testing,0.28,0.18,0.1,10,TPS-103,626.0,62.6,REFERENCE FOUND!
+35,TPS,Logistic Choice,TPS-111,Impact Testing,0.21,0.11,0.1,10,TPS-103,626.0,62.6,REFERENCE FOUND!
+36,TPS,Electronic Component,TPS-112,Potentiometer,0.58,0.58,0.0,36,TPS-112,820.75,0.0,COST REFERENCE
+36,TPS,Electronic Component,TPS-112,Microcontroller,1.57,1.01,0.56,26,TPS-108,820.75,459.62,REFERENCE FOUND!
+36,TPS,Electronic Component,TPS-112,Voltage Regulator,0.35,0.22,0.13,1,TPS-100,820.75,106.7,REFERENCE FOUND!
+36,TPS,Mechanical Components,TPS-112,Injection-Molded Plastic Casing,0.56,0.37,0.19,26,TPS-108,820.75,155.94,REFERENCE FOUND!
+36,TPS,Mechanical Components,TPS-112,Brass Contact Pins,0.38,0.24,0.14,17,TPS-105,820.75,114.91,REFERENCE FOUND!
+36,TPS,Mechanical Components,TPS-112,Mounting Clamp,0.38,0.28,0.1,1,TPS-100,820.75,82.08,REFERENCE FOUND!
+36,TPS,Raw Material,TPS-112,ABS Plastic,0.44,0.33,0.11,1,TPS-100,820.75,90.28,REFERENCE FOUND!
+36,TPS,Raw Material,TPS-112,Steel,0.25,0.25,0.0,36,TPS-112,820.75,0.0,COST REFERENCE
+36,TPS,Conversion Cost,TPS-112,Assembly Labor,0.64,0.61,0.03,17,TPS-105,820.75,24.62,REFERENCE FOUND!
+36,TPS,Conversion Cost,TPS-112,Testing and Calibration,0.4,0.39,0.01,1,TPS-100,820.75,8.21,REFERENCE FOUND!
+36,TPS,Conversion Cost,TPS-112,Packaging Labor,0.44,0.33,0.11,26,TPS-108,820.75,90.28,REFERENCE FOUND!
+36,TPS,Logistic Choice,TPS-112,Air,0.5,0.43,0.07,14,O2-Sensor-204,820.75,57.45,REFERENCE FOUND!
+36,TPS,Logistic Choice,TPS-112,Inspection,0.31,0.2,0.11,17,TPS-105,820.75,90.28,REFERENCE FOUND!
+36,TPS,Logistic Choice,TPS-112,Testing Equipment Depreciation,0.15,0.1,0.05,1,TPS-100,820.75,41.04,REFERENCE FOUND!
+37,O2-Sensor,Electronic Component,O2-Sensor-211,Resistor,0.54,0.51,0.03,27,O2-Sensor-208,910.34,27.31,REFERENCE FOUND!
+37,O2-Sensor,Electronic Component,O2-Sensor-211,Pressure Sensor,1.06,1.03,0.03,2,O2-Sensor-200,910.34,27.31,REFERENCE FOUND!
+37,O2-Sensor,Electronic Component,O2-Sensor-211,Heat Sink,0.35,0.2,0.15,2,O2-Sensor-200,910.34,136.55,REFERENCE FOUND!
+37,O2-Sensor,Mechanical Components,O2-Sensor-211,Thermal Shielding,0.54,0.37,0.17,2,O2-Sensor-200,910.34,154.76,REFERENCE FOUND!
+37,O2-Sensor,Mechanical Components,O2-Sensor-211,Spring Clip,0.28,0.25,0.03,19,TPS-106,910.34,27.31,REFERENCE FOUND!
+37,O2-Sensor,Mechanical Components,O2-Sensor-211,Gear Mechanism,0.34,0.29,0.05,2,O2-Sensor-200,910.34,45.52,REFERENCE FOUND!
+37,O2-Sensor,Raw Material,O2-Sensor-211,Aluminum,0.4,0.35,0.05,19,TPS-106,910.34,45.52,REFERENCE FOUND!
+37,O2-Sensor,Raw Material,O2-Sensor-211,Copper,0.32,0.29,0.03,2,O2-Sensor-200,910.34,27.31,REFERENCE FOUND!
+37,O2-Sensor,Conversion Cost,O2-Sensor-211,Welding Labor,0.61,0.61,0.0,37,O2-Sensor-211,910.34,0.0,COST REFERENCE
+37,O2-Sensor,Conversion Cost,O2-Sensor-211,Quality Inspection,0.45,0.43,0.02,2,O2-Sensor-200,910.34,18.21,REFERENCE FOUND!
+37,O2-Sensor,Conversion Cost,O2-Sensor-211,Transportation Handling,0.35,0.35,0.0,37,O2-Sensor-211,910.34,0.0,COST REFERENCE
+37,O2-Sensor,Logistic Choice,O2-Sensor-211,Sea,0.59,0.42,0.17,18,O2-Sensor-205,910.34,154.76,REFERENCE FOUND!
+37,O2-Sensor,Logistic Choice,O2-Sensor-211,Functionality Test,0.29,0.21,0.08,19,TPS-106,910.34,72.83,REFERENCE FOUND!
+37,O2-Sensor,Logistic Choice,O2-Sensor-211,Environmental Stress Screening,0.24,0.1,0.14,2,O2-Sensor-200,910.34,127.45,REFERENCE FOUND!
+38,ECU,Electronic Component,ECU-312,Capacitor,0.64,0.51,0.13,28,ECU-309,770.43,100.16,REFERENCE FOUND!
+38,ECU,Electronic Component,ECU-312,Transistor,0.96,0.96,0.0,38,ECU-312,770.43,0.0,COST REFERENCE
+38,ECU,Electronic Component,ECU-312,Diode,0.31,0.24,0.07,20,O2-Sensor-206,770.43,53.93,REFERENCE FOUND!
+38,ECU,Mechanical Components,ECU-312,Mounting Bracket,0.47,0.37,0.1,28,ECU-309,770.43,77.04,REFERENCE FOUND!
+38,ECU,Mechanical Components,ECU-312,Connector Housing,0.27,0.26,0.01,28,ECU-309,770.43,7.7,REFERENCE FOUND!
+38,ECU,Mechanical Components,ECU-312,Adjustable Lever,0.34,0.34,0.0,38,ECU-312,770.43,0.0,COST REFERENCE
+38,ECU,Raw Material,ECU-312,Stainless Steel,0.42,0.42,0.0,20,O2-Sensor-206,770.43,0.0,COST REFERENCE
+38,ECU,Raw Material,ECU-312,Nickel,0.42,0.27,0.15,3,ECU-300,770.43,115.56,REFERENCE FOUND!
+38,ECU,Conversion Cost,ECU-312,Circuit Board Assembly,0.73,0.59,0.14,20,O2-Sensor-206,770.43,107.86,REFERENCE FOUND!
+38,ECU,Conversion Cost,ECU-312,Machine Calibration,0.4,0.35,0.05,3,ECU-300,770.43,38.52,REFERENCE FOUND!
+38,ECU,Conversion Cost,ECU-312,Handling and Storage,0.44,0.27,0.17,3,ECU-300,770.43,130.97,REFERENCE FOUND!
+38,ECU,Logistic Choice,ECU-312,Road,0.53,0.45,0.08,44,ECU-314,770.43,61.63,REFERENCE FOUND!
+38,ECU,Logistic Choice,ECU-312,Dimensional Inspection,0.26,0.22,0.04,3,ECU-300,770.43,30.82,REFERENCE FOUND!
+38,ECU,Logistic Choice,ECU-312,Life Cycle Testing,0.21,0.17,0.04,3,ECU-300,770.43,30.82,REFERENCE FOUND!
+39,TPS,Electronic Component,TPS-113,Thermistor,0.68,0.47,0.21,21,ECU-306,513.06,107.74,REFERENCE FOUND!
+39,TPS,Electronic Component,TPS-113,Temperature Sensor,1.4,0.86,0.54,29,TPS-109,513.06,277.05,REFERENCE FOUND!
+39,TPS,Electronic Component,TPS-113,Amplifier,0.27,0.24,0.03,4,TPS-101,513.06,15.39,REFERENCE FOUND!
+39,TPS,Mechanical Components,TPS-113,Rubber Seal,0.49,0.48,0.01,21,ECU-306,513.06,5.13,REFERENCE FOUND!
+39,TPS,Mechanical Components,TPS-113,Copper Wire,0.38,0.24,0.14,21,ECU-306,513.06,71.83,REFERENCE FOUND!
+39,TPS,Mechanical Components,TPS-113,Rotary Shaft,0.36,0.28,0.08,21,ECU-306,513.06,41.04,REFERENCE FOUND!
+39,TPS,Raw Material,TPS-113,Silicone Rubber,0.35,0.35,0.0,39,TPS-113,513.06,0.0,COST REFERENCE
+39,TPS,Raw Material,TPS-113,Titanium,0.36,0.28,0.08,4,TPS-101,513.06,41.04,REFERENCE FOUND!
+39,TPS,Conversion Cost,TPS-113,Surface Treatment,0.59,0.59,0.0,4,TPS-101,513.06,0.0,COST REFERENCE
+39,TPS,Conversion Cost,TPS-113,Electronic Testing,0.35,0.35,0.0,39,TPS-113,513.06,0.0,COST REFERENCE
+39,TPS,Conversion Cost,TPS-113,Inventory Management,0.36,0.28,0.08,21,ECU-306,513.06,41.04,REFERENCE FOUND!
+39,TPS,Logistic Choice,TPS-113,Air,0.44,0.43,0.01,14,O2-Sensor-204,513.06,5.13,REFERENCE FOUND!
+39,TPS,Logistic Choice,TPS-113,Material Analysis,0.17,0.17,0.0,39,TPS-113,513.06,0.0,COST REFERENCE
+39,TPS,Logistic Choice,TPS-113,Vibration Analysis,0.27,0.18,0.09,21,ECU-306,513.06,46.18,REFERENCE FOUND!
+40,O2-Sensor,Electronic Component,O2-Sensor-212,LED,0.69,0.69,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Electronic Component,O2-Sensor-212,Relay,0.83,0.83,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Electronic Component,O2-Sensor-212,Operational Amplifier,0.21,0.21,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Mechanical Components,O2-Sensor-212,Actuator Arm,0.37,0.37,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Mechanical Components,O2-Sensor-212,Plastic Knob,0.29,0.24,0.05,5,O2-Sensor-201,895.43,44.77,REFERENCE FOUND!
+40,O2-Sensor,Mechanical Components,O2-Sensor-212,Cam Follower,0.36,0.36,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Raw Material,O2-Sensor-212,Brass,0.47,0.41,0.06,30,O2-Sensor-209,895.43,53.73,REFERENCE FOUND!
+40,O2-Sensor,Raw Material,O2-Sensor-212,Zinc,0.3,0.3,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Conversion Cost,O2-Sensor-212,Electroplating,0.71,0.58,0.13,30,O2-Sensor-209,895.43,116.41,REFERENCE FOUND!
+40,O2-Sensor,Conversion Cost,O2-Sensor-212,Assembly Line Setup,0.54,0.38,0.16,5,O2-Sensor-201,895.43,143.27,REFERENCE FOUND!
+40,O2-Sensor,Conversion Cost,O2-Sensor-212,Import Duties,0.31,0.3,0.01,30,O2-Sensor-209,895.43,8.95,REFERENCE FOUND!
+40,O2-Sensor,Logistic Choice,O2-Sensor-212,Sea,0.57,0.42,0.15,18,O2-Sensor-205,895.43,134.31,REFERENCE FOUND!
+40,O2-Sensor,Logistic Choice,O2-Sensor-212,Pressure Testing,0.27,0.18,0.09,18,O2-Sensor-205,895.43,80.59,REFERENCE FOUND!
+40,O2-Sensor,Logistic Choice,O2-Sensor-212,Reliability Testing,0.11,0.11,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+41,ECU,Electronic Component,ECU-313,Diode,0.6,0.24,0.36,20,O2-Sensor-206,1120.44,403.36,REFERENCE FOUND!
+41,ECU,Electronic Component,ECU-313,Inductor,1.07,0.93,0.14,22,O2-Sensor-207,1120.44,156.86,REFERENCE FOUND!
+41,ECU,Electronic Component,ECU-313,Crystal Oscillator,0.29,0.21,0.08,22,O2-Sensor-207,1120.44,89.64,REFERENCE FOUND!
+41,ECU,Mechanical Components,ECU-313,Connector Body,0.41,0.37,0.04,22,O2-Sensor-207,1120.44,44.82,REFERENCE FOUND!
+41,ECU,Mechanical Components,ECU-313,Steel Rod,0.33,0.28,0.05,6,ECU-301,1120.44,56.02,REFERENCE FOUND!
+41,ECU,Mechanical Components,ECU-313,Linkage Assembly,0.44,0.35,0.09,6,ECU-301,1120.44,100.84,REFERENCE FOUND!
+41,ECU,Raw Material,ECU-313,Glass,0.38,0.33,0.05,31,ECU-310,1120.44,56.02,REFERENCE FOUND!
+41,ECU,Raw Material,ECU-313,Graphite,0.38,0.31,0.07,22,O2-Sensor-207,1120.44,78.43,REFERENCE FOUND!
+41,ECU,Conversion Cost,ECU-313,Molding,0.66,0.64,0.02,31,ECU-310,1120.44,22.41,REFERENCE FOUND!
+41,ECU,Conversion Cost,ECU-313,Equipment Maintenance,0.37,0.37,0.0,41,ECU-313,1120.44,0.0,COST REFERENCE
+41,ECU,Conversion Cost,ECU-313,Export Processing,0.29,0.29,0.0,41,ECU-313,1120.44,0.0,COST REFERENCE
+41,ECU,Logistic Choice,ECU-313,Road,0.63,0.45,0.18,44,ECU-314,1120.44,201.68,REFERENCE FOUND!
+41,ECU,Logistic Choice,ECU-313,Electrical Testing,0.3,0.25,0.05,22,O2-Sensor-207,1120.44,56.02,REFERENCE FOUND!
+41,ECU,Logistic Choice,ECU-313,Wear Testing,0.17,0.16,0.01,22,O2-Sensor-207,1120.44,11.2,REFERENCE FOUND!
+42,TPS,Electronic Component,TPS-114,Integrated Circuit,0.58,0.47,0.11,23,ECU-307,1008.06,110.89,REFERENCE FOUND!
+42,TPS,Electronic Component,TPS-114,Piezoelectric Sensor,1.23,0.99,0.24,7,TPS-102,1008.06,241.93,REFERENCE FOUND!
+42,TPS,Electronic Component,TPS-114,Filter,0.28,0.21,0.07,7,TPS-102,1008.06,70.56,REFERENCE FOUND!
+42,TPS,Mechanical Components,TPS-114,Valve Body,0.5,0.43,0.07,32,TPS-110,1008.06,70.56,REFERENCE FOUND!
+42,TPS,Mechanical Components,TPS-114,Ceramic Disc,0.28,0.28,0.0,42,TPS-114,1008.06,0.0,COST REFERENCE
+42,TPS,Mechanical Components,TPS-114,Control Arm,0.38,0.34,0.04,23,ECU-307,1008.06,40.32,REFERENCE FOUND!
+42,TPS,Raw Material,TPS-114,Rubber,0.35,0.35,0.0,42,TPS-114,1008.06,0.0,COST REFERENCE
+42,TPS,Raw Material,TPS-114,Lead,0.27,0.27,0.0,42,TPS-114,1008.06,0.0,COST REFERENCE
+42,TPS,Conversion Cost,TPS-114,Coating Application,0.65,0.61,0.04,32,TPS-110,1008.06,40.32,REFERENCE FOUND!
+42,TPS,Conversion Cost,TPS-114,Worker Training,0.45,0.41,0.04,32,TPS-110,1008.06,40.32,REFERENCE FOUND!
+42,TPS,Conversion Cost,TPS-114,Customs Clearance,0.33,0.33,0.0,42,TPS-114,1008.06,0.0,COST REFERENCE
+42,TPS,Logistic Choice,TPS-114,Sea,0.51,0.42,0.09,18,O2-Sensor-205,1008.06,90.73,REFERENCE FOUND!
+42,TPS,Logistic Choice,TPS-114,Chemical Analysis,0.25,0.17,0.08,23,ECU-307,1008.06,80.64,REFERENCE FOUND!
+42,TPS,Logistic Choice,TPS-114,Endurance Testing,0.24,0.17,0.07,7,TPS-102,1008.06,70.56,REFERENCE FOUND!
+43,O2-Sensor,Electronic Component,O2-Sensor-213,Fuse,0.49,0.49,0.0,43,O2-Sensor-213,1073.21,0.0,COST REFERENCE
+43,O2-Sensor,Electronic Component,O2-Sensor-213,Servo Motor,1.2,1.03,0.17,24,TPS-107,1073.21,182.45,REFERENCE FOUND!
+43,O2-Sensor,Electronic Component,O2-Sensor-213,Rectifier,0.34,0.21,0.13,24,TPS-107,1073.21,139.52,REFERENCE FOUND!
+43,O2-Sensor,Mechanical Components,O2-Sensor-213,Heat Sink,0.51,0.2,0.31,2,O2-Sensor-200,1073.21,332.7,REFERENCE FOUND!
+43,O2-Sensor,Mechanical Components,O2-Sensor-213,Metal Clip,0.28,0.26,0.02,24,TPS-107,1073.21,21.46,REFERENCE FOUND!
+43,O2-Sensor,Mechanical Components,O2-Sensor-213,Bushing Assembly,0.4,0.4,0.0,33,O2-Sensor-210,1073.21,0.0,COST REFERENCE
+43,O2-Sensor,Raw Material,O2-Sensor-213,Carbon Fiber,0.41,0.4,0.01,33,O2-Sensor-210,1073.21,10.73,REFERENCE FOUND!
+43,O2-Sensor,Raw Material,O2-Sensor-213,Iron,0.28,0.26,0.02,24,TPS-107,1073.21,21.46,REFERENCE FOUND!
+43,O2-Sensor,Conversion Cost,O2-Sensor-213,Heat Treatment,0.66,0.66,0.0,43,O2-Sensor-213,1073.21,0.0,COST REFERENCE
+43,O2-Sensor,Conversion Cost,O2-Sensor-213,Safety Testing,0.46,0.45,0.01,33,O2-Sensor-210,1073.21,10.73,REFERENCE FOUND!
+43,O2-Sensor,Conversion Cost,O2-Sensor-213,Quality Assurance,0.39,0.31,0.08,8,O2-Sensor-202,1073.21,85.86,REFERENCE FOUND!
+43,O2-Sensor,Logistic Choice,O2-Sensor-213,Air,0.47,0.43,0.04,14,O2-Sensor-204,1073.21,42.93,REFERENCE FOUND!
+43,O2-Sensor,Logistic Choice,O2-Sensor-213,Torque Testing,0.2,0.19,0.01,8,O2-Sensor-202,1073.21,10.73,REFERENCE FOUND!
+43,O2-Sensor,Logistic Choice,O2-Sensor-213,Non-Destructive Testing,0.16,0.13,0.03,8,O2-Sensor-202,1073.21,32.2,REFERENCE FOUND!
+44,ECU,Electronic Component,ECU-314,Voltage Regulator,0.62,0.22,0.4,1,TPS-100,1099.17,439.67,REFERENCE FOUND!
+44,ECU,Electronic Component,ECU-314,Optocoupler,0.98,0.98,0.0,44,ECU-314,1099.17,0.0,COST REFERENCE
+44,ECU,Electronic Component,ECU-314,Power Supply,0.25,0.2,0.05,9,ECU-302,1099.17,54.96,REFERENCE FOUND!
+44,ECU,Mechanical Components,ECU-314,Piston,0.45,0.39,0.06,25,ECU-308,1099.17,65.95,REFERENCE FOUND!
+44,ECU,Mechanical Components,ECU-314,Wire Harness,0.31,0.31,0.0,44,ECU-314,1099.17,0.0,COST REFERENCE
+44,ECU,Mechanical Components,ECU-314,Pivot Point,0.43,0.34,0.09,9,ECU-302,1099.17,98.93,REFERENCE FOUND!
+44,ECU,Raw Material,ECU-314,Polycarbonate,0.4,0.39,0.01,9,ECU-302,1099.17,10.99,REFERENCE FOUND!
+44,ECU,Raw Material,ECU-314,Alloy Steel,0.35,0.35,0.0,44,ECU-314,1099.17,0.0,COST REFERENCE
+44,ECU,Conversion Cost,ECU-314,Polishing,0.74,0.61,0.13,25,ECU-308,1099.17,142.89,REFERENCE FOUND!
+44,ECU,Conversion Cost,ECU-314,Process Optimization,0.55,0.38,0.17,9,ECU-302,1099.17,186.86,REFERENCE FOUND!
+44,ECU,Conversion Cost,ECU-314,Supply Chain Management,0.46,0.27,0.19,34,ECU-311,1099.17,208.84,REFERENCE FOUND!
+44,ECU,Logistic Choice,ECU-314,Road,0.45,0.45,0.0,44,ECU-314,1099.17,0.0,COST REFERENCE
+44,ECU,Logistic Choice,ECU-314,Leak Testing,0.24,0.15,0.09,9,ECU-302,1099.17,98.93,REFERENCE FOUND!
+44,ECU,Logistic Choice,ECU-314,Durability Testing,0.22,0.11,0.11,34,ECU-311,1099.17,120.91,REFERENCE FOUND!
+45,TPS,Electronic Component,TPS-115,Oscillator,0.48,0.48,0.0,45,TPS-115,797.24,0.0,COST REFERENCE
+45,TPS,Electronic Component,TPS-115,Magnetic Sensor,0.73,0.73,0.0,45,TPS-115,797.24,0.0,COST REFERENCE
+45,TPS,Electronic Component,TPS-115,Charge Controller,0.29,0.29,0.0,10,TPS-103,797.24,0.0,COST REFERENCE
+45,TPS,Mechanical Components,TPS-115,Gasket,0.46,0.44,0.02,35,TPS-111,797.24,15.94,REFERENCE FOUND!
+45,TPS,Mechanical Components,TPS-115,Spring,0.27,0.27,0.0,45,TPS-115,797.24,0.0,COST REFERENCE
+45,TPS,Mechanical Components,TPS-115,Slider Mechanism,0.33,0.33,0.0,10,TPS-103,797.24,0.0,COST REFERENCE
+45,TPS,Raw Material,TPS-115,Teflon,0.42,0.41,0.01,10,TPS-103,797.24,7.97,REFERENCE FOUND!
+45,TPS,Raw Material,TPS-115,Magnesium,0.4,0.34,0.06,10,TPS-103,797.24,47.83,REFERENCE FOUND!
+45,TPS,Conversion Cost,TPS-115,Annealing,0.58,0.58,0.0,45,TPS-115,797.24,0.0,COST REFERENCE
+45,TPS,Conversion Cost,TPS-115,Product Certification,0.52,0.42,0.1,10,TPS-103,797.24,79.72,REFERENCE FOUND!
+45,TPS,Conversion Cost,TPS-115,Logistics Coordination,0.32,0.27,0.05,35,TPS-111,797.24,39.86,REFERENCE FOUND!
+45,TPS,Logistic Choice,TPS-115,Sea,0.46,0.42,0.04,18,O2-Sensor-205,797.24,31.89,REFERENCE FOUND!
+45,TPS,Logistic Choice,TPS-115,Acoustic Testing,0.28,0.18,0.1,10,TPS-103,797.24,79.72,REFERENCE FOUND!
+45,TPS,Logistic Choice,TPS-115,Impact Testing,0.25,0.11,0.14,10,TPS-103,797.24,111.61,REFERENCE FOUND!
+46,O2-Sensor,Electronic Component,O2-Sensor-214,Transducer,0.77,0.7,0.07,11,O2-Sensor-203,1085.76,76.0,REFERENCE FOUND!
+46,O2-Sensor,Electronic Component,O2-Sensor-214,Variable Resistor,0.8,0.8,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Electronic Component,O2-Sensor-214,Energy Harvester,0.29,0.29,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Mechanical Components,O2-Sensor-214,Bracket Assembly,0.4,0.4,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Mechanical Components,O2-Sensor-214,Pin Connector,0.24,0.24,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Mechanical Components,O2-Sensor-214,Rack and Pinion,0.44,0.28,0.16,11,O2-Sensor-203,1085.76,173.72,REFERENCE FOUND!
+46,O2-Sensor,Raw Material,O2-Sensor-214,Ceramic,0.35,0.33,0.02,11,O2-Sensor-203,1085.76,21.72,REFERENCE FOUND!
+46,O2-Sensor,Raw Material,O2-Sensor-214,Tungsten,0.25,0.25,0.0,11,O2-Sensor-203,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Conversion Cost,O2-Sensor-214,Casting,0.59,0.59,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Conversion Cost,O2-Sensor-214,Tooling Setup,0.51,0.38,0.13,11,O2-Sensor-203,1085.76,141.15,REFERENCE FOUND!
+46,O2-Sensor,Conversion Cost,O2-Sensor-214,Risk Management,0.29,0.29,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Logistic Choice,O2-Sensor-214,Air,0.64,0.43,0.21,14,O2-Sensor-204,1085.76,228.01,REFERENCE FOUND!
+46,O2-Sensor,Logistic Choice,O2-Sensor-214,Radiographic Inspection,0.32,0.3,0.02,11,O2-Sensor-203,1085.76,21.72,REFERENCE FOUND!
+46,O2-Sensor,Logistic Choice,O2-Sensor-214,Corrosion Testing,0.24,0.24,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+47,ECU,Electronic Component,ECU-315,Photodiode,0.7,0.57,0.13,12,ECU-303,631.41,82.08,REFERENCE FOUND!
+47,ECU,Electronic Component,ECU-315,LCD Display,1.46,1.28,0.18,12,ECU-303,631.41,113.65,REFERENCE FOUND!
+47,ECU,Electronic Component,ECU-315,Signal Processor,0.26,0.26,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Mechanical Components,ECU-315,Switch Assembly,0.55,0.54,0.01,12,ECU-303,631.41,6.31,REFERENCE FOUND!
+47,ECU,Mechanical Components,ECU-315,Rivet,0.32,0.32,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Mechanical Components,ECU-315,Helical Spring,0.45,0.39,0.06,12,ECU-303,631.41,37.88,REFERENCE FOUND!
+47,ECU,Raw Material,ECU-315,High-Density Polyethylene,0.36,0.36,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Raw Material,ECU-315,Silicon,0.25,0.25,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Conversion Cost,ECU-315,Drilling,0.57,0.57,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Conversion Cost,ECU-315,Firmware Updating,0.47,0.47,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Conversion Cost,ECU-315,Inventory Optimization,0.31,0.31,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Logistic Choice,ECU-315,Sea,0.48,0.42,0.06,18,O2-Sensor-205,631.41,37.88,REFERENCE FOUND!
+47,ECU,Logistic Choice,ECU-315,Spectral Analysis,0.32,0.26,0.06,12,ECU-303,631.41,37.88,REFERENCE FOUND!
+47,ECU,Logistic Choice,ECU-315,Thermal Cycling,0.28,0.12,0.16,12,ECU-303,631.41,101.03,REFERENCE FOUND!
+48,TPS,Electronic Component,TPS-116,Piezoelectric Crystal,0.49,0.49,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Electronic Component,TPS-116,RFID Chip,1.31,0.75,0.56,13,TPS-104,821.48,460.03,REFERENCE FOUND!
+48,TPS,Electronic Component,TPS-116,Hall Effect Sensor,0.26,0.26,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Mechanical Components,TPS-116,Frame Structure,0.59,0.41,0.18,13,TPS-104,821.48,147.87,REFERENCE FOUND!
+48,TPS,Mechanical Components,TPS-116,Bearing,0.26,0.26,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Mechanical Components,TPS-116,Sprocket Assembly,0.28,0.28,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Raw Material,TPS-116,Composite Material,0.41,0.41,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Raw Material,TPS-116,Bronze,0.39,0.37,0.02,13,TPS-104,821.48,16.43,REFERENCE FOUND!
+48,TPS,Conversion Cost,TPS-116,Stamping,0.67,0.67,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Conversion Cost,TPS-116,Workflow Analysis,0.51,0.35,0.16,13,TPS-104,821.48,131.44,REFERENCE FOUND!
+48,TPS,Conversion Cost,TPS-116,Transport Licensing,0.28,0.28,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Logistic Choice,TPS-116,Road,0.59,0.45,0.14,44,ECU-314,821.48,115.01,REFERENCE FOUND!
+48,TPS,Logistic Choice,TPS-116,Ultrasonic Testing,0.28,0.17,0.11,13,TPS-104,821.48,90.36,REFERENCE FOUND!
+48,TPS,Logistic Choice,TPS-116,Fatigue Testing,0.22,0.22,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+49,O2-Sensor,Electronic Component,O2-Sensor-215,Hall Sensor,0.54,0.45,0.09,14,O2-Sensor-204,812.37,73.11,REFERENCE FOUND!
+49,O2-Sensor,Electronic Component,O2-Sensor-215,Bluetooth Module,1.01,0.71,0.3,14,O2-Sensor-204,812.37,243.71,REFERENCE FOUND!
+49,O2-Sensor,Electronic Component,O2-Sensor-215,Analog-to-Digital Converter,0.36,0.31,0.05,14,O2-Sensor-204,812.37,40.62,REFERENCE FOUND!
+49,O2-Sensor,Mechanical Components,O2-Sensor-215,Exhaust Clamp,0.51,0.51,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+49,O2-Sensor,Mechanical Components,O2-Sensor-215,Bolt,0.29,0.25,0.04,14,O2-Sensor-204,812.37,32.49,REFERENCE FOUND!
+49,O2-Sensor,Mechanical Components,O2-Sensor-215,Link Chain,0.3,0.3,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+49,O2-Sensor,Raw Material,O2-Sensor-215,Titanium Alloy,0.43,0.43,0.0,14,O2-Sensor-204,812.37,0.0,COST REFERENCE
+49,O2-Sensor,Raw Material,O2-Sensor-215,Platinum,0.39,0.31,0.08,14,O2-Sensor-204,812.37,64.99,REFERENCE FOUND!
+49,O2-Sensor,Conversion Cost,O2-Sensor-215,Laser Cutting,0.57,0.57,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+49,O2-Sensor,Conversion Cost,O2-Sensor-215,Prototype Development,0.37,0.37,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+49,O2-Sensor,Conversion Cost,O2-Sensor-215,Order Processing,0.26,0.26,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+49,O2-Sensor,Logistic Choice,O2-Sensor-215,Sea,0.53,0.42,0.11,18,O2-Sensor-205,812.37,89.36,REFERENCE FOUND!
+49,O2-Sensor,Logistic Choice,O2-Sensor-215,X-Ray Inspection,0.25,0.25,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+49,O2-Sensor,Logistic Choice,O2-Sensor-215,Load Testing,0.17,0.17,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+50,ECU,Electronic Component,ECU-316,RFID Reader,0.8,0.51,0.29,15,ECU-304,1107.9,321.29,REFERENCE FOUND!
+50,ECU,Electronic Component,ECU-316,GPS Module,1.42,1.15,0.27,15,ECU-304,1107.9,299.13,REFERENCE FOUND!
+50,ECU,Electronic Component,ECU-316,Power Amplifier,0.3,0.2,0.1,15,ECU-304,1107.9,110.79,REFERENCE FOUND!
+50,ECU,Mechanical Components,ECU-316,Spring Assembly,0.42,0.42,0.0,50,ECU-316,1107.9,0.0,COST REFERENCE
+50,ECU,Mechanical Components,ECU-316,Screw,0.29,0.28,0.01,15,ECU-304,1107.9,11.08,REFERENCE FOUND!
+50,ECU,Mechanical Components,ECU-316,Linear Actuator,0.47,0.4,0.07,15,ECU-304,1107.9,77.55,REFERENCE FOUND!
+50,ECU,Raw Material,ECU-316,Nylon,0.4,0.4,0.0,50,ECU-316,1107.9,0.0,COST REFERENCE
+50,ECU,Raw Material,ECU-316,Silver,0.29,0.29,0.0,50,ECU-316,1107.9,0.0,COST REFERENCE
+50,ECU,Conversion Cost,ECU-316,Forging,0.73,0.65,0.08,15,ECU-304,1107.9,88.63,REFERENCE FOUND!
+50,ECU,Conversion Cost,ECU-316,Energy Efficiency Testing,0.41,0.41,0.0,50,ECU-316,1107.9,0.0,COST REFERENCE
+50,ECU,Conversion Cost,ECU-316,Material Sourcing,0.37,0.37,0.0,50,ECU-316,1107.9,0.0,COST REFERENCE
+50,ECU,Logistic Choice,ECU-316,Road,0.51,0.45,0.06,44,ECU-314,1107.9,66.47,REFERENCE FOUND!
+50,ECU,Logistic Choice,ECU-316,Tensile Testing,0.19,0.19,0.0,15,ECU-304,1107.9,0.0,COST REFERENCE
+50,ECU,Logistic Choice,ECU-316,Pressure Cycle Testing,0.18,0.12,0.06,15,ECU-304,1107.9,66.47,REFERENCE FOUND!
