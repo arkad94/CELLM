@@ -63,8 +63,8 @@ def process_quotes(a_df, b_df, max_quote_id):
     return output_data
 
 # Load CSV files
-a_df = pd.read_csv('/path/to/e.csv')
-b_df = pd.read_csv('/path/to/f.csv')
+a_df = pd.read_csv('/Users/arkad94/Wonder/Cellm/Notebook/Datsetpipeline/e.csv')
+b_df = pd.read_csv('/Users/arkad94/Wonder/Cellm/Notebook/Datsetpipeline/f.csv')
 
 # Get maximum quote ID
 max_quote_id = int(input("Enter the maximum quote ID (up to 999): "))
@@ -75,12 +75,12 @@ output_data = process_quotes(a_df, b_df, max_quote_id)
 
 # Convert to DataFrame and save to CSV
 output_df = pd.DataFrame(output_data)
-output_df.to_csv('outputy.csv', index=False)
+output_df.to_csv('outputr.csv', index=False)
 
-##Explanation and Preprocessing Impact:
-##Preprocessing: The script starts by creating a map (lowest_cost_map) of the lowest known cost for each component. This is crucial as it establishes a baseline for cost comparison. By preprocessing this data, we ensure that each component's lowest cost is consistently used throughout the analysis.
-##Cost Comparison: In find_lowest_cost, the script compares the cost of each component in the current quote with its lowest known cost. This comparison is made possible and consistent due to the preprocessing step.
-##Data Aggregation: By iterating over all quotes and components, the script aggregates data, including the cost difference (DCost), which is the difference between the current cost and the lowest known cost. This aggregated data provides a comprehensive view of cost variations across quotes.
-##Impact Calculation: The script also calculates the impact (IMP), which is a product of the quantity and the cost difference. This gives an idea of how significant the cost difference is in terms of the total impact on the quote.
-##Output Generation: Finally, the script generates a detailed output for each component in each quote, capturing various data points like current cost, lowest cost, cost difference, and impact. This output is then saved to a new CSV file (outputy.csv).
-##By preprocessing the data to establish the lowest cost for each component, the script ensures that the cost comparison is based on consistent and accurate data, leading to reliable and meaningful output.
+#Explanation and Preprocessing Impact:
+#Preprocessing: The script starts by creating a map (lowest_cost_map) of the lowest known cost for each component. This is crucial as it establishes a baseline for cost comparison. By preprocessing this data, we ensure that each component's lowest cost is consistently used throughout the analysis.
+#Cost Comparison: In find_lowest_cost, the script compares the cost of each component in the current quote with its lowest known cost. This comparison is made possible and consistent due to the preprocessing step.
+#Data Aggregation: By iterating over all quotes and components, the script aggregates data, including the cost difference (DCost), which is the difference between the current cost and the lowest known cost. This aggregated data provides a comprehensive view of cost variations across quotes.
+#Impact Calculation: The script also calculates the impact (IMP), which is a product of the quantity and the cost difference. This gives an idea of how significant the cost difference is in terms of the total impact on the quote.
+#Output Generation: Finally, the script generates a detailed output for each component in each quote, capturing various data points like current cost, lowest cost, cost difference, and impact. This output is then saved to a new CSV file (outputy.csv).
+#By preprocessing the data to establish the lowest cost for each component, the script ensures that the cost comparison is based on consistent and accurate data, leading to reliable and meaningful output.

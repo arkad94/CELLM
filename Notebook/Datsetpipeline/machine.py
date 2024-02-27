@@ -1,14 +1,14 @@
 import csv
 
 # Define the input and output file names
-input_file = '/Users/arkad94/Wonder/Cellm/Notebook/Datsetpipeline/c.csv'  # Replace with your actual input file name
-output_file = 'e.csv'
+input_file = '/Users/arkad94/Wonder/Cellm/Notebook/Datsetpipeline/c.csv'  # input file name
+output_file = 'e.csv' #Name of the outout file here
 
 # Function to process each row
 def process_row(row):
     try:
         # Multiply the value in column 16 (index 15) by 1,000,000
-        row[15] = str(float(row[15]) * 1000000)
+        row[15] = str(float(row[15]) * 1000000)  #Multiplication Factor
     except ValueError:
         # Handle the case where the conversion to float fails (e.g., header or invalid data)
         pass
@@ -25,3 +25,4 @@ with open(input_file, mode='r', newline='', encoding='utf-8') as infile, \
         writer.writerow(processed_row)
 
 print(f"File processed. Output saved to '{output_file}'")
+##in the source file I change the quantity by the factor mentioned

@@ -1,0 +1,301 @@
+CQID,pType,CAT,CPID,CComp,CCost,LCost,DCost,DQID,DPID,[Q],IMP,POS
+1,TPS,Electronic Component,TPS-100,Potentiometer,0.73,0.58,0.15,36,TPS-112,546.09,81.91,REFERENCE FOUND!
+1,TPS,Electronic Component,TPS-100,Microcontroller,1.23,1.01,0.22,26,TPS-108,546.09,120.14,REFERENCE FOUND!
+1,TPS,Electronic Component,TPS-100,Voltage Regulator,0.22,0.22,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Mechanical Components,TPS-100,Injection-Molded Plastic Casing,0.55,0.37,0.18,26,TPS-108,546.09,98.3,REFERENCE FOUND!
+1,TPS,Mechanical Components,TPS-100,Brass Contact Pins,0.32,0.24,0.08,17,TPS-105,546.09,43.69,REFERENCE FOUND!
+1,TPS,Mechanical Components,TPS-100,Mounting Clamp,0.28,0.28,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+2,O2-Sensor,Electronic Component,O2-Sensor-200,Resistor,0.55,0.51,0.04,27,O2-Sensor-208,548.83,21.95,REFERENCE FOUND!
+2,O2-Sensor,Electronic Component,O2-Sensor-200,Pressure Sensor,1.03,1.03,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Electronic Component,O2-Sensor-200,Heat Sink,0.2,0.2,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Mechanical Components,O2-Sensor-200,Thermal Shielding,0.37,0.37,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+2,O2-Sensor,Mechanical Components,O2-Sensor-200,Spring Clip,0.35,0.25,0.1,19,TPS-106,548.83,54.88,REFERENCE FOUND!
+2,O2-Sensor,Mechanical Components,O2-Sensor-200,Gear Mechanism,0.29,0.29,0.0,2,O2-Sensor-200,548.83,0.0,COST REFERENCE
+3,ECU,Electronic Component,ECU-300,Capacitor,0.78,0.51,0.27,28,ECU-309,1124.54,303.63,REFERENCE FOUND!
+3,ECU,Electronic Component,ECU-300,Transistor,1.01,0.96,0.05,38,ECU-312,1124.54,56.23,REFERENCE FOUND!
+3,ECU,Electronic Component,ECU-300,Diode,0.3,0.24,0.06,20,O2-Sensor-206,1124.54,67.47,REFERENCE FOUND!
+3,ECU,Mechanical Components,ECU-300,Mounting Bracket,0.52,0.37,0.15,28,ECU-309,1124.54,168.68,REFERENCE FOUND!
+3,ECU,Mechanical Components,ECU-300,Connector Housing,0.3,0.26,0.04,28,ECU-309,1124.54,44.98,REFERENCE FOUND!
+3,ECU,Mechanical Components,ECU-300,Adjustable Lever,0.45,0.34,0.11,38,ECU-312,1124.54,123.7,REFERENCE FOUND!
+4,TPS,Electronic Component,TPS-101,Thermistor,0.71,0.47,0.24,21,ECU-306,1108.95,266.15,REFERENCE FOUND!
+4,TPS,Electronic Component,TPS-101,Temperature Sensor,1.3,0.86,0.44,29,TPS-109,1108.95,487.94,REFERENCE FOUND!
+4,TPS,Electronic Component,TPS-101,Amplifier,0.24,0.24,0.0,4,TPS-101,1108.95,0.0,COST REFERENCE
+4,TPS,Mechanical Components,TPS-101,Rubber Seal,0.5,0.48,0.02,21,ECU-306,1108.95,22.18,REFERENCE FOUND!
+4,TPS,Mechanical Components,TPS-101,Copper Wire,0.35,0.24,0.11,21,ECU-306,1108.95,121.98,REFERENCE FOUND!
+4,TPS,Mechanical Components,TPS-101,Rotary Shaft,0.33,0.28,0.05,21,ECU-306,1108.95,55.45,REFERENCE FOUND!
+5,O2-Sensor,Electronic Component,O2-Sensor-201,LED,0.71,0.69,0.02,40,O2-Sensor-212,899.63,17.99,REFERENCE FOUND!
+5,O2-Sensor,Electronic Component,O2-Sensor-201,Relay,1.57,0.83,0.74,40,O2-Sensor-212,899.63,665.73,REFERENCE FOUND!
+5,O2-Sensor,Electronic Component,O2-Sensor-201,Operational Amplifier,0.34,0.21,0.13,40,O2-Sensor-212,899.63,116.95,REFERENCE FOUND!
+5,O2-Sensor,Mechanical Components,O2-Sensor-201,Actuator Arm,0.42,0.37,0.05,40,O2-Sensor-212,899.63,44.98,REFERENCE FOUND!
+5,O2-Sensor,Mechanical Components,O2-Sensor-201,Plastic Knob,0.24,0.24,0.0,5,O2-Sensor-201,899.63,0.0,COST REFERENCE
+5,O2-Sensor,Mechanical Components,O2-Sensor-201,Cam Follower,0.4,0.36,0.04,40,O2-Sensor-212,899.63,35.99,REFERENCE FOUND!
+6,ECU,Electronic Component,ECU-301,Diode,0.6,0.24,0.36,20,O2-Sensor-206,1193.3,429.59,REFERENCE FOUND!
+6,ECU,Electronic Component,ECU-301,Inductor,1.39,0.93,0.46,22,O2-Sensor-207,1193.3,548.92,REFERENCE FOUND!
+6,ECU,Electronic Component,ECU-301,Crystal Oscillator,0.22,0.21,0.01,22,O2-Sensor-207,1193.3,11.93,REFERENCE FOUND!
+6,ECU,Mechanical Components,ECU-301,Connector Body,0.38,0.37,0.01,22,O2-Sensor-207,1193.3,11.93,REFERENCE FOUND!
+6,ECU,Mechanical Components,ECU-301,Steel Rod,0.28,0.28,0.0,6,ECU-301,1193.3,0.0,COST REFERENCE
+6,ECU,Mechanical Components,ECU-301,Linkage Assembly,0.35,0.35,0.0,6,ECU-301,1193.3,0.0,COST REFERENCE
+7,TPS,Electronic Component,TPS-102,Integrated Circuit,0.55,0.47,0.08,23,ECU-307,850.15,68.01,REFERENCE FOUND!
+7,TPS,Electronic Component,TPS-102,Piezoelectric Sensor,0.99,0.99,0.0,7,TPS-102,850.15,0.0,COST REFERENCE
+7,TPS,Electronic Component,TPS-102,Filter,0.21,0.21,0.0,7,TPS-102,850.15,0.0,COST REFERENCE
+7,TPS,Mechanical Components,TPS-102,Valve Body,0.5,0.43,0.07,32,TPS-110,850.15,59.51,REFERENCE FOUND!
+7,TPS,Mechanical Components,TPS-102,Ceramic Disc,0.37,0.28,0.09,42,TPS-114,850.15,76.51,REFERENCE FOUND!
+7,TPS,Mechanical Components,TPS-102,Control Arm,0.46,0.34,0.12,23,ECU-307,850.15,102.02,REFERENCE FOUND!
+8,O2-Sensor,Electronic Component,O2-Sensor-202,Fuse,0.74,0.49,0.25,43,O2-Sensor-213,945.39,236.35,REFERENCE FOUND!
+8,O2-Sensor,Electronic Component,O2-Sensor-202,Servo Motor,1.48,1.03,0.45,24,TPS-107,945.39,425.43,REFERENCE FOUND!
+8,O2-Sensor,Electronic Component,O2-Sensor-202,Rectifier,0.34,0.21,0.13,24,TPS-107,945.39,122.9,REFERENCE FOUND!
+8,O2-Sensor,Mechanical Components,O2-Sensor-202,Heat Sink,0.45,0.2,0.25,2,O2-Sensor-200,945.39,236.35,REFERENCE FOUND!
+8,O2-Sensor,Mechanical Components,O2-Sensor-202,Metal Clip,0.37,0.26,0.11,24,TPS-107,945.39,103.99,REFERENCE FOUND!
+8,O2-Sensor,Mechanical Components,O2-Sensor-202,Bushing Assembly,0.43,0.4,0.03,33,O2-Sensor-210,945.39,28.36,REFERENCE FOUND!
+9,ECU,Electronic Component,ECU-302,Voltage Regulator,0.69,0.22,0.47,1,TPS-100,743.95,349.66,REFERENCE FOUND!
+9,ECU,Electronic Component,ECU-302,Optocoupler,1.6,0.98,0.62,44,ECU-314,743.95,461.25,REFERENCE FOUND!
+9,ECU,Electronic Component,ECU-302,Power Supply,0.2,0.2,0.0,9,ECU-302,743.95,0.0,COST REFERENCE
+9,ECU,Mechanical Components,ECU-302,Piston,0.46,0.39,0.07,25,ECU-308,743.95,52.08,REFERENCE FOUND!
+9,ECU,Mechanical Components,ECU-302,Wire Harness,0.36,0.31,0.05,44,ECU-314,743.95,37.2,REFERENCE FOUND!
+9,ECU,Mechanical Components,ECU-302,Pivot Point,0.34,0.34,0.0,9,ECU-302,743.95,0.0,COST REFERENCE
+10,TPS,Electronic Component,TPS-103,Oscillator,0.76,0.48,0.28,45,TPS-115,701.67,196.47,REFERENCE FOUND!
+10,TPS,Electronic Component,TPS-103,Magnetic Sensor,1.11,0.73,0.38,45,TPS-115,701.67,266.63,REFERENCE FOUND!
+10,TPS,Electronic Component,TPS-103,Charge Controller,0.29,0.29,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+10,TPS,Mechanical Components,TPS-103,Gasket,0.58,0.44,0.14,35,TPS-111,701.67,98.23,REFERENCE FOUND!
+10,TPS,Mechanical Components,TPS-103,Spring,0.36,0.27,0.09,45,TPS-115,701.67,63.15,REFERENCE FOUND!
+10,TPS,Mechanical Components,TPS-103,Slider Mechanism,0.33,0.33,0.0,10,TPS-103,701.67,0.0,COST REFERENCE
+11,O2-Sensor,Electronic Component,O2-Sensor-203,Transducer,0.7,0.7,0.0,11,O2-Sensor-203,684.32,0.0,COST REFERENCE
+11,O2-Sensor,Electronic Component,O2-Sensor-203,Variable Resistor,1.57,0.8,0.77,46,O2-Sensor-214,684.32,526.93,REFERENCE FOUND!
+11,O2-Sensor,Electronic Component,O2-Sensor-203,Energy Harvester,0.34,0.29,0.05,46,O2-Sensor-214,684.32,34.22,REFERENCE FOUND!
+11,O2-Sensor,Mechanical Components,O2-Sensor-203,Bracket Assembly,0.58,0.4,0.18,46,O2-Sensor-214,684.32,123.18,REFERENCE FOUND!
+11,O2-Sensor,Mechanical Components,O2-Sensor-203,Pin Connector,0.27,0.24,0.03,46,O2-Sensor-214,684.32,20.53,REFERENCE FOUND!
+11,O2-Sensor,Mechanical Components,O2-Sensor-203,Rack and Pinion,0.28,0.28,0.0,11,O2-Sensor-203,684.32,0.0,COST REFERENCE
+12,ECU,Electronic Component,ECU-303,Photodiode,0.57,0.57,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+12,ECU,Electronic Component,ECU-303,LCD Display,1.28,1.28,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+12,ECU,Electronic Component,ECU-303,Signal Processor,0.31,0.26,0.05,47,ECU-315,518.93,25.95,REFERENCE FOUND!
+12,ECU,Mechanical Components,ECU-303,Switch Assembly,0.54,0.54,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+12,ECU,Mechanical Components,ECU-303,Rivet,0.33,0.32,0.01,47,ECU-315,518.93,5.19,REFERENCE FOUND!
+12,ECU,Mechanical Components,ECU-303,Helical Spring,0.39,0.39,0.0,12,ECU-303,518.93,0.0,COST REFERENCE
+13,TPS,Electronic Component,TPS-104,Piezoelectric Crystal,0.76,0.49,0.27,48,TPS-116,558.0,150.66,REFERENCE FOUND!
+13,TPS,Electronic Component,TPS-104,RFID Chip,0.75,0.75,0.0,13,TPS-104,558.0,0.0,COST REFERENCE
+13,TPS,Electronic Component,TPS-104,Hall Effect Sensor,0.3,0.26,0.04,48,TPS-116,558.0,22.32,REFERENCE FOUND!
+13,TPS,Mechanical Components,TPS-104,Frame Structure,0.41,0.41,0.0,13,TPS-104,558.0,0.0,COST REFERENCE
+13,TPS,Mechanical Components,TPS-104,Bearing,0.28,0.26,0.02,48,TPS-116,558.0,11.16,REFERENCE FOUND!
+13,TPS,Mechanical Components,TPS-104,Sprocket Assembly,0.32,0.28,0.04,48,TPS-116,558.0,22.32,REFERENCE FOUND!
+14,O2-Sensor,Electronic Component,O2-Sensor-204,Hall Sensor,0.45,0.45,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Electronic Component,O2-Sensor-204,Bluetooth Module,0.71,0.71,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Electronic Component,O2-Sensor-204,Analog-to-Digital Converter,0.31,0.31,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Mechanical Components,O2-Sensor-204,Exhaust Clamp,0.56,0.51,0.05,49,O2-Sensor-215,841.47,42.07,REFERENCE FOUND!
+14,O2-Sensor,Mechanical Components,O2-Sensor-204,Bolt,0.25,0.25,0.0,14,O2-Sensor-204,841.47,0.0,COST REFERENCE
+14,O2-Sensor,Mechanical Components,O2-Sensor-204,Link Chain,0.44,0.3,0.14,49,O2-Sensor-215,841.47,117.81,REFERENCE FOUND!
+15,ECU,Electronic Component,ECU-304,RFID Reader,0.51,0.51,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Electronic Component,ECU-304,GPS Module,1.15,1.15,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Electronic Component,ECU-304,Power Amplifier,0.2,0.2,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Mechanical Components,ECU-304,Spring Assembly,0.56,0.42,0.14,50,ECU-316,1149.14,160.88,REFERENCE FOUND!
+15,ECU,Mechanical Components,ECU-304,Screw,0.28,0.28,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+15,ECU,Mechanical Components,ECU-304,Linear Actuator,0.4,0.4,0.0,15,ECU-304,1149.14,0.0,COST REFERENCE
+16,ECU,Electronic Component,ECU-305,Solenoid,0.78,0.78,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Electronic Component,ECU-305,Accelerometer,1.11,1.11,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Electronic Component,ECU-305,DC-DC Converter,0.27,0.27,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Mechanical Components,ECU-305,Filter Housing,0.59,0.59,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Mechanical Components,ECU-305,Nut,0.38,0.38,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+16,ECU,Mechanical Components,ECU-305,Actuator Rod,0.32,0.32,0.0,16,ECU-305,544.95,0.0,COST REFERENCE
+17,TPS,Electronic Component,TPS-105,Potentiometer,0.6,0.58,0.02,36,TPS-112,952.01,19.04,REFERENCE FOUND!
+17,TPS,Electronic Component,TPS-105,Microcontroller,1.3,1.01,0.29,26,TPS-108,952.01,276.08,REFERENCE FOUND!
+17,TPS,Electronic Component,TPS-105,Voltage Regulator,0.3,0.22,0.08,1,TPS-100,952.01,76.16,REFERENCE FOUND!
+17,TPS,Mechanical Components,TPS-105,Injection-Molded Plastic Casing,0.54,0.37,0.17,26,TPS-108,952.01,161.84,REFERENCE FOUND!
+17,TPS,Mechanical Components,TPS-105,Brass Contact Pins,0.24,0.24,0.0,17,TPS-105,952.01,0.0,COST REFERENCE
+17,TPS,Mechanical Components,TPS-105,Mounting Clamp,0.34,0.28,0.06,1,TPS-100,952.01,57.12,REFERENCE FOUND!
+18,O2-Sensor,Electronic Component,O2-Sensor-205,LED,0.79,0.69,0.1,40,O2-Sensor-212,1107.48,110.75,REFERENCE FOUND!
+18,O2-Sensor,Electronic Component,O2-Sensor-205,Relay,1.37,0.83,0.54,40,O2-Sensor-212,1107.48,598.04,REFERENCE FOUND!
+18,O2-Sensor,Electronic Component,O2-Sensor-205,Operational Amplifier,0.23,0.21,0.02,40,O2-Sensor-212,1107.48,22.15,REFERENCE FOUND!
+18,O2-Sensor,Mechanical Components,O2-Sensor-205,Actuator Arm,0.45,0.37,0.08,40,O2-Sensor-212,1107.48,88.6,REFERENCE FOUND!
+18,O2-Sensor,Mechanical Components,O2-Sensor-205,Plastic Knob,0.29,0.24,0.05,5,O2-Sensor-201,1107.48,55.37,REFERENCE FOUND!
+18,O2-Sensor,Mechanical Components,O2-Sensor-205,Cam Follower,0.38,0.36,0.02,40,O2-Sensor-212,1107.48,22.15,REFERENCE FOUND!
+19,TPS,Electronic Component,TPS-106,Resistor,0.71,0.51,0.2,27,O2-Sensor-208,526.74,105.35,REFERENCE FOUND!
+19,TPS,Electronic Component,TPS-106,Pressure Sensor,1.21,1.03,0.18,2,O2-Sensor-200,526.74,94.81,REFERENCE FOUND!
+19,TPS,Electronic Component,TPS-106,Heat Sink,0.26,0.2,0.06,2,O2-Sensor-200,526.74,31.6,REFERENCE FOUND!
+19,TPS,Mechanical Components,TPS-106,Thermal Shielding,0.42,0.37,0.05,2,O2-Sensor-200,526.74,26.34,REFERENCE FOUND!
+19,TPS,Mechanical Components,TPS-106,Spring Clip,0.25,0.25,0.0,19,TPS-106,526.74,0.0,COST REFERENCE
+19,TPS,Mechanical Components,TPS-106,Gear Mechanism,0.39,0.29,0.1,2,O2-Sensor-200,526.74,52.67,REFERENCE FOUND!
+20,O2-Sensor,Electronic Component,O2-Sensor-206,Capacitor,0.55,0.51,0.04,28,ECU-309,777.99,31.12,REFERENCE FOUND!
+20,O2-Sensor,Electronic Component,O2-Sensor-206,Transistor,1.03,0.96,0.07,38,ECU-312,777.99,54.46,REFERENCE FOUND!
+20,O2-Sensor,Electronic Component,O2-Sensor-206,Diode,0.24,0.24,0.0,20,O2-Sensor-206,777.99,0.0,COST REFERENCE
+20,O2-Sensor,Mechanical Components,O2-Sensor-206,Mounting Bracket,0.56,0.37,0.19,28,ECU-309,777.99,147.82,REFERENCE FOUND!
+20,O2-Sensor,Mechanical Components,O2-Sensor-206,Connector Housing,0.36,0.26,0.1,28,ECU-309,777.99,77.8,REFERENCE FOUND!
+20,O2-Sensor,Mechanical Components,O2-Sensor-206,Adjustable Lever,0.45,0.34,0.11,38,ECU-312,777.99,85.58,REFERENCE FOUND!
+21,ECU,Electronic Component,ECU-306,Thermistor,0.47,0.47,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+21,ECU,Electronic Component,ECU-306,Temperature Sensor,0.96,0.86,0.1,29,TPS-109,1126.3,112.63,REFERENCE FOUND!
+21,ECU,Electronic Component,ECU-306,Amplifier,0.28,0.24,0.04,4,TPS-101,1126.3,45.05,REFERENCE FOUND!
+21,ECU,Mechanical Components,ECU-306,Rubber Seal,0.48,0.48,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+21,ECU,Mechanical Components,ECU-306,Copper Wire,0.24,0.24,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+21,ECU,Mechanical Components,ECU-306,Rotary Shaft,0.28,0.28,0.0,21,ECU-306,1126.3,0.0,COST REFERENCE
+22,O2-Sensor,Electronic Component,O2-Sensor-207,Diode,0.69,0.24,0.45,20,O2-Sensor-206,744.2,334.89,REFERENCE FOUND!
+22,O2-Sensor,Electronic Component,O2-Sensor-207,Inductor,0.93,0.93,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+22,O2-Sensor,Electronic Component,O2-Sensor-207,Crystal Oscillator,0.21,0.21,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+22,O2-Sensor,Mechanical Components,O2-Sensor-207,Connector Body,0.37,0.37,0.0,22,O2-Sensor-207,744.2,0.0,COST REFERENCE
+22,O2-Sensor,Mechanical Components,O2-Sensor-207,Steel Rod,0.32,0.28,0.04,6,ECU-301,744.2,29.77,REFERENCE FOUND!
+22,O2-Sensor,Mechanical Components,O2-Sensor-207,Linkage Assembly,0.39,0.35,0.04,6,ECU-301,744.2,29.77,REFERENCE FOUND!
+23,ECU,Electronic Component,ECU-307,Integrated Circuit,0.47,0.47,0.0,23,ECU-307,774.93,0.0,COST REFERENCE
+23,ECU,Electronic Component,ECU-307,Piezoelectric Sensor,1.07,0.99,0.08,7,TPS-102,774.93,61.99,REFERENCE FOUND!
+23,ECU,Electronic Component,ECU-307,Filter,0.36,0.21,0.15,7,TPS-102,774.93,116.24,REFERENCE FOUND!
+23,ECU,Mechanical Components,ECU-307,Valve Body,0.45,0.43,0.02,32,TPS-110,774.93,15.5,REFERENCE FOUND!
+23,ECU,Mechanical Components,ECU-307,Ceramic Disc,0.33,0.28,0.05,42,TPS-114,774.93,38.75,REFERENCE FOUND!
+23,ECU,Mechanical Components,ECU-307,Control Arm,0.34,0.34,0.0,23,ECU-307,774.93,0.0,COST REFERENCE
+24,TPS,Electronic Component,TPS-107,Fuse,0.52,0.49,0.03,43,O2-Sensor-213,805.95,24.18,REFERENCE FOUND!
+24,TPS,Electronic Component,TPS-107,Servo Motor,1.03,1.03,0.0,24,TPS-107,805.95,0.0,COST REFERENCE
+24,TPS,Electronic Component,TPS-107,Rectifier,0.21,0.21,0.0,24,TPS-107,805.95,0.0,COST REFERENCE
+24,TPS,Mechanical Components,TPS-107,Heat Sink,0.48,0.2,0.28,2,O2-Sensor-200,805.95,225.67,REFERENCE FOUND!
+24,TPS,Mechanical Components,TPS-107,Metal Clip,0.26,0.26,0.0,24,TPS-107,805.95,0.0,COST REFERENCE
+24,TPS,Mechanical Components,TPS-107,Bushing Assembly,0.41,0.4,0.01,33,O2-Sensor-210,805.95,8.06,REFERENCE FOUND!
+25,ECU,Electronic Component,ECU-308,Voltage Regulator,0.63,0.22,0.41,1,TPS-100,959.95,393.58,REFERENCE FOUND!
+25,ECU,Electronic Component,ECU-308,Optocoupler,1.28,0.98,0.3,44,ECU-314,959.95,287.99,REFERENCE FOUND!
+25,ECU,Electronic Component,ECU-308,Power Supply,0.31,0.2,0.11,9,ECU-302,959.95,105.59,REFERENCE FOUND!
+25,ECU,Mechanical Components,ECU-308,Piston,0.39,0.39,0.0,25,ECU-308,959.95,0.0,COST REFERENCE
+25,ECU,Mechanical Components,ECU-308,Wire Harness,0.38,0.31,0.07,44,ECU-314,959.95,67.2,REFERENCE FOUND!
+25,ECU,Mechanical Components,ECU-308,Pivot Point,0.36,0.34,0.02,9,ECU-302,959.95,19.2,REFERENCE FOUND!
+26,TPS,Electronic Component,TPS-108,Potentiometer,0.68,0.58,0.1,36,TPS-112,1109.1,110.91,REFERENCE FOUND!
+26,TPS,Electronic Component,TPS-108,Microcontroller,1.01,1.01,0.0,26,TPS-108,1109.1,0.0,COST REFERENCE
+26,TPS,Electronic Component,TPS-108,Voltage Regulator,0.29,0.22,0.07,1,TPS-100,1109.1,77.64,REFERENCE FOUND!
+26,TPS,Mechanical Components,TPS-108,Injection-Molded Plastic Casing,0.37,0.37,0.0,26,TPS-108,1109.1,0.0,COST REFERENCE
+26,TPS,Mechanical Components,TPS-108,Brass Contact Pins,0.27,0.24,0.03,17,TPS-105,1109.1,33.27,REFERENCE FOUND!
+26,TPS,Mechanical Components,TPS-108,Mounting Clamp,0.29,0.28,0.01,1,TPS-100,1109.1,11.09,REFERENCE FOUND!
+27,O2-Sensor,Electronic Component,O2-Sensor-208,Resistor,0.51,0.51,0.0,27,O2-Sensor-208,543.63,0.0,COST REFERENCE
+27,O2-Sensor,Electronic Component,O2-Sensor-208,Pressure Sensor,1.58,1.03,0.55,2,O2-Sensor-200,543.63,299.0,REFERENCE FOUND!
+27,O2-Sensor,Electronic Component,O2-Sensor-208,Heat Sink,0.35,0.2,0.15,2,O2-Sensor-200,543.63,81.54,REFERENCE FOUND!
+27,O2-Sensor,Mechanical Components,O2-Sensor-208,Thermal Shielding,0.47,0.37,0.1,2,O2-Sensor-200,543.63,54.36,REFERENCE FOUND!
+27,O2-Sensor,Mechanical Components,O2-Sensor-208,Spring Clip,0.35,0.25,0.1,19,TPS-106,543.63,54.36,REFERENCE FOUND!
+27,O2-Sensor,Mechanical Components,O2-Sensor-208,Gear Mechanism,0.32,0.29,0.03,2,O2-Sensor-200,543.63,16.31,REFERENCE FOUND!
+28,ECU,Electronic Component,ECU-309,Capacitor,0.51,0.51,0.0,28,ECU-309,1199.68,0.0,COST REFERENCE
+28,ECU,Electronic Component,ECU-309,Transistor,1.47,0.96,0.51,38,ECU-312,1199.68,611.84,REFERENCE FOUND!
+28,ECU,Electronic Component,ECU-309,Diode,0.35,0.24,0.11,20,O2-Sensor-206,1199.68,131.96,REFERENCE FOUND!
+28,ECU,Mechanical Components,ECU-309,Mounting Bracket,0.37,0.37,0.0,28,ECU-309,1199.68,0.0,COST REFERENCE
+28,ECU,Mechanical Components,ECU-309,Connector Housing,0.26,0.26,0.0,28,ECU-309,1199.68,0.0,COST REFERENCE
+28,ECU,Mechanical Components,ECU-309,Adjustable Lever,0.47,0.34,0.13,38,ECU-312,1199.68,155.96,REFERENCE FOUND!
+29,TPS,Electronic Component,TPS-109,Thermistor,0.64,0.47,0.17,21,ECU-306,613.28,104.26,REFERENCE FOUND!
+29,TPS,Electronic Component,TPS-109,Temperature Sensor,0.86,0.86,0.0,29,TPS-109,613.28,0.0,COST REFERENCE
+29,TPS,Electronic Component,TPS-109,Amplifier,0.28,0.24,0.04,4,TPS-101,613.28,24.53,REFERENCE FOUND!
+29,TPS,Mechanical Components,TPS-109,Rubber Seal,0.56,0.48,0.08,21,ECU-306,613.28,49.06,REFERENCE FOUND!
+29,TPS,Mechanical Components,TPS-109,Copper Wire,0.3,0.24,0.06,21,ECU-306,613.28,36.8,REFERENCE FOUND!
+29,TPS,Mechanical Components,TPS-109,Rotary Shaft,0.43,0.28,0.15,21,ECU-306,613.28,91.99,REFERENCE FOUND!
+30,O2-Sensor,Electronic Component,O2-Sensor-209,LED,0.74,0.69,0.05,40,O2-Sensor-212,727.6,36.38,REFERENCE FOUND!
+30,O2-Sensor,Electronic Component,O2-Sensor-209,Relay,0.92,0.83,0.09,40,O2-Sensor-212,727.6,65.48,REFERENCE FOUND!
+30,O2-Sensor,Electronic Component,O2-Sensor-209,Operational Amplifier,0.26,0.21,0.05,40,O2-Sensor-212,727.6,36.38,REFERENCE FOUND!
+30,O2-Sensor,Mechanical Components,O2-Sensor-209,Actuator Arm,0.53,0.37,0.16,40,O2-Sensor-212,727.6,116.42,REFERENCE FOUND!
+30,O2-Sensor,Mechanical Components,O2-Sensor-209,Plastic Knob,0.26,0.24,0.02,5,O2-Sensor-201,727.6,14.55,REFERENCE FOUND!
+30,O2-Sensor,Mechanical Components,O2-Sensor-209,Cam Follower,0.47,0.36,0.11,40,O2-Sensor-212,727.6,80.04,REFERENCE FOUND!
+31,ECU,Electronic Component,ECU-310,Diode,0.72,0.24,0.48,20,O2-Sensor-206,598.09,287.08,REFERENCE FOUND!
+31,ECU,Electronic Component,ECU-310,Inductor,1.46,0.93,0.53,22,O2-Sensor-207,598.09,316.99,REFERENCE FOUND!
+31,ECU,Electronic Component,ECU-310,Crystal Oscillator,0.29,0.21,0.08,22,O2-Sensor-207,598.09,47.85,REFERENCE FOUND!
+31,ECU,Mechanical Components,ECU-310,Connector Body,0.57,0.37,0.2,22,O2-Sensor-207,598.09,119.62,REFERENCE FOUND!
+31,ECU,Mechanical Components,ECU-310,Steel Rod,0.36,0.28,0.08,6,ECU-301,598.09,47.85,REFERENCE FOUND!
+31,ECU,Mechanical Components,ECU-310,Linkage Assembly,0.38,0.35,0.03,6,ECU-301,598.09,17.94,REFERENCE FOUND!
+32,TPS,Electronic Component,TPS-110,Integrated Circuit,0.74,0.47,0.27,23,ECU-307,718.0,193.86,REFERENCE FOUND!
+32,TPS,Electronic Component,TPS-110,Piezoelectric Sensor,1.06,0.99,0.07,7,TPS-102,718.0,50.26,REFERENCE FOUND!
+32,TPS,Electronic Component,TPS-110,Filter,0.28,0.21,0.07,7,TPS-102,718.0,50.26,REFERENCE FOUND!
+32,TPS,Mechanical Components,TPS-110,Valve Body,0.43,0.43,0.0,32,TPS-110,718.0,0.0,COST REFERENCE
+32,TPS,Mechanical Components,TPS-110,Ceramic Disc,0.37,0.28,0.09,42,TPS-114,718.0,64.62,REFERENCE FOUND!
+32,TPS,Mechanical Components,TPS-110,Control Arm,0.39,0.34,0.05,23,ECU-307,718.0,35.9,REFERENCE FOUND!
+33,O2-Sensor,Electronic Component,O2-Sensor-210,Fuse,0.61,0.49,0.12,43,O2-Sensor-213,916.9,110.03,REFERENCE FOUND!
+33,O2-Sensor,Electronic Component,O2-Sensor-210,Servo Motor,1.08,1.03,0.05,24,TPS-107,916.9,45.84,REFERENCE FOUND!
+33,O2-Sensor,Electronic Component,O2-Sensor-210,Rectifier,0.23,0.21,0.02,24,TPS-107,916.9,18.34,REFERENCE FOUND!
+33,O2-Sensor,Mechanical Components,O2-Sensor-210,Heat Sink,0.44,0.2,0.24,2,O2-Sensor-200,916.9,220.06,REFERENCE FOUND!
+33,O2-Sensor,Mechanical Components,O2-Sensor-210,Metal Clip,0.36,0.26,0.1,24,TPS-107,916.9,91.69,REFERENCE FOUND!
+33,O2-Sensor,Mechanical Components,O2-Sensor-210,Bushing Assembly,0.4,0.4,0.0,33,O2-Sensor-210,916.9,0.0,COST REFERENCE
+34,ECU,Electronic Component,ECU-311,Voltage Regulator,0.62,0.22,0.4,1,TPS-100,823.86,329.54,REFERENCE FOUND!
+34,ECU,Electronic Component,ECU-311,Optocoupler,1.59,0.98,0.61,44,ECU-314,823.86,502.55,REFERENCE FOUND!
+34,ECU,Electronic Component,ECU-311,Power Supply,0.32,0.2,0.12,9,ECU-302,823.86,98.86,REFERENCE FOUND!
+34,ECU,Mechanical Components,ECU-311,Piston,0.4,0.39,0.01,25,ECU-308,823.86,8.24,REFERENCE FOUND!
+34,ECU,Mechanical Components,ECU-311,Wire Harness,0.35,0.31,0.04,44,ECU-314,823.86,32.95,REFERENCE FOUND!
+34,ECU,Mechanical Components,ECU-311,Pivot Point,0.39,0.34,0.05,9,ECU-302,823.86,41.19,REFERENCE FOUND!
+35,TPS,Electronic Component,TPS-111,Oscillator,0.77,0.48,0.29,45,TPS-115,626.0,181.54,REFERENCE FOUND!
+35,TPS,Electronic Component,TPS-111,Magnetic Sensor,1.03,0.73,0.3,45,TPS-115,626.0,187.8,REFERENCE FOUND!
+35,TPS,Electronic Component,TPS-111,Charge Controller,0.3,0.29,0.01,10,TPS-103,626.0,6.26,REFERENCE FOUND!
+35,TPS,Mechanical Components,TPS-111,Gasket,0.44,0.44,0.0,35,TPS-111,626.0,0.0,COST REFERENCE
+35,TPS,Mechanical Components,TPS-111,Spring,0.29,0.27,0.02,45,TPS-115,626.0,12.52,REFERENCE FOUND!
+35,TPS,Mechanical Components,TPS-111,Slider Mechanism,0.33,0.33,0.0,10,TPS-103,626.0,0.0,COST REFERENCE
+36,TPS,Electronic Component,TPS-112,Potentiometer,0.58,0.58,0.0,36,TPS-112,820.75,0.0,COST REFERENCE
+36,TPS,Electronic Component,TPS-112,Microcontroller,1.57,1.01,0.56,26,TPS-108,820.75,459.62,REFERENCE FOUND!
+36,TPS,Electronic Component,TPS-112,Voltage Regulator,0.35,0.22,0.13,1,TPS-100,820.75,106.7,REFERENCE FOUND!
+36,TPS,Mechanical Components,TPS-112,Injection-Molded Plastic Casing,0.56,0.37,0.19,26,TPS-108,820.75,155.94,REFERENCE FOUND!
+36,TPS,Mechanical Components,TPS-112,Brass Contact Pins,0.38,0.24,0.14,17,TPS-105,820.75,114.91,REFERENCE FOUND!
+36,TPS,Mechanical Components,TPS-112,Mounting Clamp,0.38,0.28,0.1,1,TPS-100,820.75,82.08,REFERENCE FOUND!
+37,O2-Sensor,Electronic Component,O2-Sensor-211,Resistor,0.54,0.51,0.03,27,O2-Sensor-208,910.34,27.31,REFERENCE FOUND!
+37,O2-Sensor,Electronic Component,O2-Sensor-211,Pressure Sensor,1.06,1.03,0.03,2,O2-Sensor-200,910.34,27.31,REFERENCE FOUND!
+37,O2-Sensor,Electronic Component,O2-Sensor-211,Heat Sink,0.35,0.2,0.15,2,O2-Sensor-200,910.34,136.55,REFERENCE FOUND!
+37,O2-Sensor,Mechanical Components,O2-Sensor-211,Thermal Shielding,0.54,0.37,0.17,2,O2-Sensor-200,910.34,154.76,REFERENCE FOUND!
+37,O2-Sensor,Mechanical Components,O2-Sensor-211,Spring Clip,0.28,0.25,0.03,19,TPS-106,910.34,27.31,REFERENCE FOUND!
+37,O2-Sensor,Mechanical Components,O2-Sensor-211,Gear Mechanism,0.34,0.29,0.05,2,O2-Sensor-200,910.34,45.52,REFERENCE FOUND!
+38,ECU,Electronic Component,ECU-312,Capacitor,0.64,0.51,0.13,28,ECU-309,770.43,100.16,REFERENCE FOUND!
+38,ECU,Electronic Component,ECU-312,Transistor,0.96,0.96,0.0,38,ECU-312,770.43,0.0,COST REFERENCE
+38,ECU,Electronic Component,ECU-312,Diode,0.31,0.24,0.07,20,O2-Sensor-206,770.43,53.93,REFERENCE FOUND!
+38,ECU,Mechanical Components,ECU-312,Mounting Bracket,0.47,0.37,0.1,28,ECU-309,770.43,77.04,REFERENCE FOUND!
+38,ECU,Mechanical Components,ECU-312,Connector Housing,0.27,0.26,0.01,28,ECU-309,770.43,7.7,REFERENCE FOUND!
+38,ECU,Mechanical Components,ECU-312,Adjustable Lever,0.34,0.34,0.0,38,ECU-312,770.43,0.0,COST REFERENCE
+39,TPS,Electronic Component,TPS-113,Thermistor,0.68,0.47,0.21,21,ECU-306,513.06,107.74,REFERENCE FOUND!
+39,TPS,Electronic Component,TPS-113,Temperature Sensor,1.4,0.86,0.54,29,TPS-109,513.06,277.05,REFERENCE FOUND!
+39,TPS,Electronic Component,TPS-113,Amplifier,0.27,0.24,0.03,4,TPS-101,513.06,15.39,REFERENCE FOUND!
+39,TPS,Mechanical Components,TPS-113,Rubber Seal,0.49,0.48,0.01,21,ECU-306,513.06,5.13,REFERENCE FOUND!
+39,TPS,Mechanical Components,TPS-113,Copper Wire,0.38,0.24,0.14,21,ECU-306,513.06,71.83,REFERENCE FOUND!
+39,TPS,Mechanical Components,TPS-113,Rotary Shaft,0.36,0.28,0.08,21,ECU-306,513.06,41.04,REFERENCE FOUND!
+40,O2-Sensor,Electronic Component,O2-Sensor-212,LED,0.69,0.69,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Electronic Component,O2-Sensor-212,Relay,0.83,0.83,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Electronic Component,O2-Sensor-212,Operational Amplifier,0.21,0.21,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Mechanical Components,O2-Sensor-212,Actuator Arm,0.37,0.37,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+40,O2-Sensor,Mechanical Components,O2-Sensor-212,Plastic Knob,0.29,0.24,0.05,5,O2-Sensor-201,895.43,44.77,REFERENCE FOUND!
+40,O2-Sensor,Mechanical Components,O2-Sensor-212,Cam Follower,0.36,0.36,0.0,40,O2-Sensor-212,895.43,0.0,COST REFERENCE
+41,ECU,Electronic Component,ECU-313,Diode,0.6,0.24,0.36,20,O2-Sensor-206,1120.44,403.36,REFERENCE FOUND!
+41,ECU,Electronic Component,ECU-313,Inductor,1.07,0.93,0.14,22,O2-Sensor-207,1120.44,156.86,REFERENCE FOUND!
+41,ECU,Electronic Component,ECU-313,Crystal Oscillator,0.29,0.21,0.08,22,O2-Sensor-207,1120.44,89.64,REFERENCE FOUND!
+41,ECU,Mechanical Components,ECU-313,Connector Body,0.41,0.37,0.04,22,O2-Sensor-207,1120.44,44.82,REFERENCE FOUND!
+41,ECU,Mechanical Components,ECU-313,Steel Rod,0.33,0.28,0.05,6,ECU-301,1120.44,56.02,REFERENCE FOUND!
+41,ECU,Mechanical Components,ECU-313,Linkage Assembly,0.44,0.35,0.09,6,ECU-301,1120.44,100.84,REFERENCE FOUND!
+42,TPS,Electronic Component,TPS-114,Integrated Circuit,0.58,0.47,0.11,23,ECU-307,1008.06,110.89,REFERENCE FOUND!
+42,TPS,Electronic Component,TPS-114,Piezoelectric Sensor,1.23,0.99,0.24,7,TPS-102,1008.06,241.93,REFERENCE FOUND!
+42,TPS,Electronic Component,TPS-114,Filter,0.28,0.21,0.07,7,TPS-102,1008.06,70.56,REFERENCE FOUND!
+42,TPS,Mechanical Components,TPS-114,Valve Body,0.5,0.43,0.07,32,TPS-110,1008.06,70.56,REFERENCE FOUND!
+42,TPS,Mechanical Components,TPS-114,Ceramic Disc,0.28,0.28,0.0,42,TPS-114,1008.06,0.0,COST REFERENCE
+42,TPS,Mechanical Components,TPS-114,Control Arm,0.38,0.34,0.04,23,ECU-307,1008.06,40.32,REFERENCE FOUND!
+43,O2-Sensor,Electronic Component,O2-Sensor-213,Fuse,0.49,0.49,0.0,43,O2-Sensor-213,1073.21,0.0,COST REFERENCE
+43,O2-Sensor,Electronic Component,O2-Sensor-213,Servo Motor,1.2,1.03,0.17,24,TPS-107,1073.21,182.45,REFERENCE FOUND!
+43,O2-Sensor,Electronic Component,O2-Sensor-213,Rectifier,0.34,0.21,0.13,24,TPS-107,1073.21,139.52,REFERENCE FOUND!
+43,O2-Sensor,Mechanical Components,O2-Sensor-213,Heat Sink,0.51,0.2,0.31,2,O2-Sensor-200,1073.21,332.7,REFERENCE FOUND!
+43,O2-Sensor,Mechanical Components,O2-Sensor-213,Metal Clip,0.28,0.26,0.02,24,TPS-107,1073.21,21.46,REFERENCE FOUND!
+43,O2-Sensor,Mechanical Components,O2-Sensor-213,Bushing Assembly,0.4,0.4,0.0,33,O2-Sensor-210,1073.21,0.0,COST REFERENCE
+44,ECU,Electronic Component,ECU-314,Voltage Regulator,0.62,0.22,0.4,1,TPS-100,1099.17,439.67,REFERENCE FOUND!
+44,ECU,Electronic Component,ECU-314,Optocoupler,0.98,0.98,0.0,44,ECU-314,1099.17,0.0,COST REFERENCE
+44,ECU,Electronic Component,ECU-314,Power Supply,0.25,0.2,0.05,9,ECU-302,1099.17,54.96,REFERENCE FOUND!
+44,ECU,Mechanical Components,ECU-314,Piston,0.45,0.39,0.06,25,ECU-308,1099.17,65.95,REFERENCE FOUND!
+44,ECU,Mechanical Components,ECU-314,Wire Harness,0.31,0.31,0.0,44,ECU-314,1099.17,0.0,COST REFERENCE
+44,ECU,Mechanical Components,ECU-314,Pivot Point,0.43,0.34,0.09,9,ECU-302,1099.17,98.93,REFERENCE FOUND!
+45,TPS,Electronic Component,TPS-115,Oscillator,0.48,0.48,0.0,45,TPS-115,797.24,0.0,COST REFERENCE
+45,TPS,Electronic Component,TPS-115,Magnetic Sensor,0.73,0.73,0.0,45,TPS-115,797.24,0.0,COST REFERENCE
+45,TPS,Electronic Component,TPS-115,Charge Controller,0.29,0.29,0.0,10,TPS-103,797.24,0.0,COST REFERENCE
+45,TPS,Mechanical Components,TPS-115,Gasket,0.46,0.44,0.02,35,TPS-111,797.24,15.94,REFERENCE FOUND!
+45,TPS,Mechanical Components,TPS-115,Spring,0.27,0.27,0.0,45,TPS-115,797.24,0.0,COST REFERENCE
+45,TPS,Mechanical Components,TPS-115,Slider Mechanism,0.33,0.33,0.0,10,TPS-103,797.24,0.0,COST REFERENCE
+46,O2-Sensor,Electronic Component,O2-Sensor-214,Transducer,0.77,0.7,0.07,11,O2-Sensor-203,1085.76,76.0,REFERENCE FOUND!
+46,O2-Sensor,Electronic Component,O2-Sensor-214,Variable Resistor,0.8,0.8,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Electronic Component,O2-Sensor-214,Energy Harvester,0.29,0.29,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Mechanical Components,O2-Sensor-214,Bracket Assembly,0.4,0.4,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Mechanical Components,O2-Sensor-214,Pin Connector,0.24,0.24,0.0,46,O2-Sensor-214,1085.76,0.0,COST REFERENCE
+46,O2-Sensor,Mechanical Components,O2-Sensor-214,Rack and Pinion,0.44,0.28,0.16,11,O2-Sensor-203,1085.76,173.72,REFERENCE FOUND!
+47,ECU,Electronic Component,ECU-315,Photodiode,0.7,0.57,0.13,12,ECU-303,631.41,82.08,REFERENCE FOUND!
+47,ECU,Electronic Component,ECU-315,LCD Display,1.46,1.28,0.18,12,ECU-303,631.41,113.65,REFERENCE FOUND!
+47,ECU,Electronic Component,ECU-315,Signal Processor,0.26,0.26,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Mechanical Components,ECU-315,Switch Assembly,0.55,0.54,0.01,12,ECU-303,631.41,6.31,REFERENCE FOUND!
+47,ECU,Mechanical Components,ECU-315,Rivet,0.32,0.32,0.0,47,ECU-315,631.41,0.0,COST REFERENCE
+47,ECU,Mechanical Components,ECU-315,Helical Spring,0.45,0.39,0.06,12,ECU-303,631.41,37.88,REFERENCE FOUND!
+48,TPS,Electronic Component,TPS-116,Piezoelectric Crystal,0.49,0.49,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Electronic Component,TPS-116,RFID Chip,1.31,0.75,0.56,13,TPS-104,821.48,460.03,REFERENCE FOUND!
+48,TPS,Electronic Component,TPS-116,Hall Effect Sensor,0.26,0.26,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Mechanical Components,TPS-116,Frame Structure,0.59,0.41,0.18,13,TPS-104,821.48,147.87,REFERENCE FOUND!
+48,TPS,Mechanical Components,TPS-116,Bearing,0.26,0.26,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+48,TPS,Mechanical Components,TPS-116,Sprocket Assembly,0.28,0.28,0.0,48,TPS-116,821.48,0.0,COST REFERENCE
+49,O2-Sensor,Electronic Component,O2-Sensor-215,Hall Sensor,0.54,0.45,0.09,14,O2-Sensor-204,812.37,73.11,REFERENCE FOUND!
+49,O2-Sensor,Electronic Component,O2-Sensor-215,Bluetooth Module,1.01,0.71,0.3,14,O2-Sensor-204,812.37,243.71,REFERENCE FOUND!
+49,O2-Sensor,Electronic Component,O2-Sensor-215,Analog-to-Digital Converter,0.36,0.31,0.05,14,O2-Sensor-204,812.37,40.62,REFERENCE FOUND!
+49,O2-Sensor,Mechanical Components,O2-Sensor-215,Exhaust Clamp,0.51,0.51,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+49,O2-Sensor,Mechanical Components,O2-Sensor-215,Bolt,0.29,0.25,0.04,14,O2-Sensor-204,812.37,32.49,REFERENCE FOUND!
+49,O2-Sensor,Mechanical Components,O2-Sensor-215,Link Chain,0.3,0.3,0.0,49,O2-Sensor-215,812.37,0.0,COST REFERENCE
+50,ECU,Electronic Component,ECU-316,RFID Reader,0.8,0.51,0.29,15,ECU-304,1107.9,321.29,REFERENCE FOUND!
+50,ECU,Electronic Component,ECU-316,GPS Module,1.42,1.15,0.27,15,ECU-304,1107.9,299.13,REFERENCE FOUND!
+50,ECU,Electronic Component,ECU-316,Power Amplifier,0.3,0.2,0.1,15,ECU-304,1107.9,110.79,REFERENCE FOUND!
+50,ECU,Mechanical Components,ECU-316,Spring Assembly,0.42,0.42,0.0,50,ECU-316,1107.9,0.0,COST REFERENCE
+50,ECU,Mechanical Components,ECU-316,Screw,0.29,0.28,0.01,15,ECU-304,1107.9,11.08,REFERENCE FOUND!
+50,ECU,Mechanical Components,ECU-316,Linear Actuator,0.47,0.4,0.07,15,ECU-304,1107.9,77.55,REFERENCE FOUND!
