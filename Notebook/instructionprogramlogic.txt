@@ -1,0 +1,41 @@
+CQID,pType,CAT,CPID,CComp,CCost,LCost,DCost,DQID,DPID,[Q],IMP,POS
+1,TPS,Electronic Component,TPS-100,Potentiometer,0.73,0.58,0.15,36,TPS-112,546.09,81.91,REFERENCE FOUND!
+1,TPS,Electronic Component,TPS-100,Microcontroller,1.23,1.01,0.22,26,TPS-108,546.09,120.14,REFERENCE FOUND!
+1,TPS,Electronic Component,TPS-100,Voltage Regulator,0.22,0.22,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Mechanical Components,TPS-100,Injection-Molded Plastic Casing,0.55,0.37,0.18,26,TPS-108,546.09,98.3,REFERENCE FOUND!
+1,TPS,Mechanical Components,TPS-100,Brass Contact Pins,0.32,0.24,0.08,17,TPS-105,546.09,43.69,REFERENCE FOUND!
+1,TPS,Mechanical Components,TPS-100,Mounting Clamp,0.28,0.28,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Raw Material,TPS-100,ABS Plastic,0.33,0.33,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Raw Material,TPS-100,Steel,0.41,0.25,0.16,36,TPS-112,546.09,87.37,REFERENCE FOUND!
+1,TPS,Conversion Cost,TPS-100,Assembly Labor,0.7,0.61,0.09,17,TPS-105,546.09,49.15,REFERENCE FOUND!
+1,TPS,Conversion Cost,TPS-100,Testing and Calibration,0.39,0.39,0.0,1,TPS-100,546.09,0.0,COST REFERENCE
+1,TPS,Conversion Cost,TPS-100,Packaging Labor,0.36,0.33,0.03,26,TPS-108,546.09,16.38,REFERENCE FOUND!
+1,TPS,Logistic Choice,TPS-100,Air,0.46,0.43,0.03,14,O2-Sensor-204,546.09,16.38,REFERENCE FOUND!
+
+{
+    "prompt": "Check the Quote for [CPID] 1.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          2.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          3.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          4.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          5.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          6.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          7.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          8.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          9.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          10.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          11.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          12.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          13.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          14.in [CAT],[Ccomp] lowest cost for this is [CCost]
+                                          project quantity is [Q] (Same for all 14 columns)"
+
+    "completion": "I have checked the quote for [CPID] and the results are as follows
+     
+                                                                   if REFERENCE FOUND! is there in the POS column 
+                                     
+                                         1.For [CAT],[CComp] Lowest Cost is found at [DQID] which is [DPID]- the savings are [DCost] per unit for a total of [IMP] at [Q] quantity ]"
+                                                                   
+                                                                   OR, if "COST REFERENCE" value is there in POS columns
+
+                                         1.For [CAT],[CComp], this is the lowest cost at [LCost]                         
+}

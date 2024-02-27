@@ -34,8 +34,8 @@ def save_randomized_data(randomized_data, output_file_path):
         writer = csv.writer(file)
         writer.writerows(randomized_data)
 
-input_file_path = 'Notebook/Datsetpipeline/a.csv'  # Replace with your actual file path
-output_file_path = 'randomized_output.csv'
+input_file_path = '/workspaces/CELLM/Notebook/Datsetpipeline/a.csv'  # Replace with your actual file path
+output_file_path = 'a2.csv'
 
 min_max_values = find_min_max_per_column(input_file_path)
 randomized_data = randomize_data(input_file_path, min_max_values)

@@ -99,8 +99,8 @@ def process_quotes(a_df, b_df, max_quote_id):
     return output_data
 
 # Load CSV files
-a_df = pd.read_csv('/workspaces/CELLM/Notebook/Datsetpipeline/e.csv')
-b_df = pd.read_csv('/workspaces/CELLM/Notebook/Datsetpipeline/f.csv')
+a_df = pd.read_csv('/workspaces/CELLM/Notebook/Datsetpipeline/a2.csv')
+b_df = pd.read_csv('/workspaces/CELLM/Notebook/Datsetpipeline/b2.csv')
 
 # Get maximum quote ID
 max_quote_id = int(input("Enter the maximum quote ID (up to 999): "))
