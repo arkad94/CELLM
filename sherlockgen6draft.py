@@ -91,7 +91,7 @@ def process_quotes(a_df, b_df, max_quote_id):
 
             for col_index in qualitycontrol_indices:
                 if pd.notna(a_row.iloc[col_index]):
-                    result = find_lowest_cost(a_row, lowest_cost_map, col_index, "Logistic Choice", q_col)
+                    result = find_lowest_cost(a_row, lowest_cost_map, col_index, "Quality Control", q_col)
                     output_data.append(result)
 
               
